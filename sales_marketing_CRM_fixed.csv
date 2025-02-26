@@ -1,0 +1,1128 @@
+Row ID,Order ID,Order Date,Customer Name,Region,Province,Product Category,Product Sub-Category,Product Name,Order Quantity,Sales,Discount,Profit,Ship Mode,Ship Date,Shipping Cost
+1,ORD75928,2024-05-22,David Garcia,East,New York,Office Supplies,Pens,Pens 778,5,1338.18,0.38,-154.22,Same Day,2017-05-07,14.86
+2,ORD42272,2015-08-27,David Garcia,North,Florida,Office Supplies,Pens,Pens 980,7,1065.07,0.29,-191.55,Same Day,2016-10-21,28.88
+3,ORD57764,2017-01-17,John Smith,South,Texas,Office Supplies,Pens,Pens 804,5,1733.28,0.47,-578.75,Same Day,2020-02-14,33.36
+4,ORD51915,2018-10-09,Bob Brown,East,Arizona,Office Supplies,Binders,Binders 276,6,400.92,0.44,-93.27,Second Class,2021-05-27,23.47
+5,ORD99641,202-15-30,Liam Martinez,North,California,Furniture,Chairs,Chairs 318,4,166.81,0.14,-2.78,Second Class,2023-09-20,9.26
+6,ORD82552,2020-07-22,Alice Williams,West,Washington,Furniture,Bookcases,Bookcases 985,7,1605.44,0.46,-311.33,Standard Class,2019-10-16,12.55
+7,ORD11345,2019-07-08,Bob Brown,Central,Illinois,Technology,Laptops,Laptops 444,3,1498.99,0.09,19.82,Standard Class,2015-12-03,13.71
+8,ORD26723,2016-01-03,Sophia Rodriguez,South,Texas,Technology,Monitors,Monitors 526,9,2805.64,0.35,-401.89,First Class,2015-01-09,17.81
+9,ORD56815,2015-03-05,Jane Johnson,Central,Arizona,Office Supplies,Paper,Paper 486,4,1734.12,0.44,-243.88,Same Day,2022-05-03,28.84
+10,ORD50618,2020-09-02,David Garcia,South,Washington,Office Supplies,Paper,Paper 866,6,996.01,0.09,200.21,First Class,2024-03-04,6.86
+11,ORD77909,2016-04-22,Sophia Rodriguez,South,Texas,Furniture,Bookcases,Bookcases 861,2,938.65,0.02,155.62,Second Class,2024-03-16,5.2
+12,ORD48685,2017-07-14,Olivia Davis,South,New York,Technology,Monitors,Monitors 757,8,2227.58,0.28,39.59,First Class,2015-02-15,33.27
+13,ORD45364,2023-04-18,Liam Martinez,North,Oregon,Office Supplies,Binders,Binders 680,8,3302.69,0.13,232.83,First Class,2024-04-07,31.5
+14,ORD23089,2018-09-07,Alice Williams,West,California,Office Supplies,Paper,Paper 551,1,51.74,0.09,8.54,First Class,2017-08-19,19.89
+15,ORD21627,2018-07-20,Alice Williams,East,Florida,Office Supplies,Binders,Binders 830,2,733.69,0.41,-161.55,Same Day,2022-07-11,11.34
+16,ORD49627,202-15-30,Jane Johnson,West,New York,Furniture,Tables,Tables 674,7,731.81,0.44,-222.86,Same Day,2022-08-24,35.67
+10,ORD50618,2020-09-02,David Garcia,South,Washington,Office Supplies,Paper,Paper 866,6,996.01,0.09,200.21,First Class,2024-03-04,6.86
+18,ORD19270,2021-03-15,Sophia Rodriguez,Central,Oregon,Furniture,Tables,Tables 943,4,140.41,0.01,35.14,Second Class,2020-02-22,16.2
+19,ORD58315,2023-01-18,Sophia Rodriguez,East,Arizona,Furniture,Tables,Tables 370,8,951.84,0.46,-189.89,Same Day,2018-10-06,36.07
+20,ORD77285,2022-01-27,Olivia Davis,East,Arizona,Furniture,Bookcases,Bookcases 365,1,108.06,0.09,4.56,First Class,2020-02-10,11.31
+21,ORD36168,2019-04-17,Alice Williams,East,California,Furniture,Bookcases,Bookcases 862,1,257.34,0.19,-1.71,Second Class,2015-09-08,42.24
+22,ORD88815,2015-08-17,Charlie Jones,East,Texas,Office Supplies,Pens,Pens 718,10,2375.73,0.23,-37.79,Second Class,2024-07-12,21.49
+23,ORD10135,2017-10-22,Jane Johnson,West,Florida,Office Supplies,Paper,Paper 312,8,793.5,0.21,-5.16,Standard Class,2022-08-01,30.21
+24,ORD39498,2022-07-03,Bob Brown,West,Illinois,Office Supplies,Pens,Pens 915,8,368.67,0.2,12.27,First Class,2015-12-21,34.84
+25,ORD10844,2024-11-22,David Garcia,North,Florida,Furniture,Chairs,Chairs 519,1,334.24,0.15,48.38,Standard Class,2017-10-10,43.53
+26,ORD84448,2017-06-27,John Smith,North,Illinois,Furniture,Bookcases,Bookcases 242,2,409.28,0.3,-52.22,Same Day,2017-05-21,39.18
+27,ORD94400,2018-04-24,Alice Williams,Central,Washington,Furniture,Chairs,Chairs 414,9,3368.68,0.05,721.93,First Class,2017-03-24,9.2
+28,ORD53600,2019-11-27,Alice Williams,North,Arizona,Office Supplies,Pens,Pens 949,7,728.54,0.07,33.83,First Class,2023-11-25,22.7
+29,ORD87576,2023-11-05,Jane Johnson,South,New York,Technology,Monitors,Monitors 798,7,1526.33,0.18,73.19,First Class,2022-08-28,46.66
+30,ORD12368,2023-02-25,Olivia Davis,West,Oregon,Office Supplies,Pens,Pens 894,4,939.56,0.36,-99.9,First Class,2020-03-24,19.14
+23,ORD10135,2017-10-22,Jane Johnson,West,Florida,Office Supplies,Paper,Paper 312,8,793.5,0.21,-5.16,Standard Class,2022-08-01,30.21
+32,ORD29431,2019-12-02,Emma Miller,Central,Arizona,Furniture,Bookcases,Bookcases 335,4,1346.12,0.21,-10.62,Standard Class,2017-11-04,45.05
+33,ORD23417,2016-07-01,Sophia Rodriguez,North,Arizona,Office Supplies,Binders,Binders 756,8,1244.24,0.13,176.18,Second Class,2021-08-27,26.68
+34,ORD34992,2017-04-24,Emma Miller,South,Oregon,Technology,Laptops,Laptops 134,4,1435.24,0.37,-147.83,Second Class,2021-07-19,26.5
+35,ORD81134,2019-05-23,Jane Johnson,Central,Arizona,Furniture,Tables,Tables 380,4,304.5,0.48,-98.55,Second Class,2018-08-27,45.97
+36,ORD52988,2015-03-20,Emma Miller,East,Florida,Technology,Laptops,Laptops 686,1,287.76,0.22,18.48,Second Class,2019-06-20,17.38
+37,ORD25589,2020-01-06,Bob Brown,North,Arizona,Technology,Monitors,Monitors 805,1,106.52,0.22,1.5,Standard Class,2022-04-06,48.14
+38,ORD98290,2019-06-02,Jane Johnson,North,California,Furniture,Bookcases,Bookcases 214,6,1863.83,0.21,8.83,First Class,2020-11-23,34.31
+39,ORD46363,2016-02-20,Bob Brown,West,Texas,Office Supplies,Pens,Pens 563,6,218.94,0.16,-2.45,Second Class,2018-03-20,45.07
+40,ORD76297,2016-03-19,Charlie Jones,South,Washington,Office Supplies,Pens,Pens 638,8,253.94,0.22,3.71,Second Class,2019-12-05,14.13
+41,ORD70858,2020-01-14,Sophia Rodriguez,West,California,,Monitors,Monitors 344,5,1433.98,0.39,-244.06,Standard Class,2015-03-22,31.88
+42,ORD94280,2017-08-14,Emma Miller,Central,California,Office Supplies,Binders,Binders 568,3,1230.01,0.34,-98.93,Standard Class,2022-11-03,12.93
+43,ORD92095,2023-11-01,Emma Miller,East,Washington,Office Supplies,Paper,Paper 243,9,3413.04,0.48,-731.21,Same Day,2017-03-26,16.71
+44,ORD69549,2021-09-13,Liam Martinez,North,California,Office Supplies,Paper,Paper 414,8,622.57,0.21,41.31,Same Day,2022-08-17,9.8
+45,ORD97207,2021-04-27,John Smith,North,Washington,Technology,Printers,Printers 102,6,2272.17,0.35,-442.74,First Class,2022-08-28,25.16
+46,ORD14445,2015-10-28,John Smith,North,Illinois,Technology,Laptops,Laptops 972,4,180.79,0.13,24.12,First Class,2019-11-06,16.34
+47,ORD88234,2015-06-10,Jane Johnson,West,Illinois,Office Supplies,Paper,Paper 678,9,2585.67,0.38,-386.9,Second Class,2020-09-09,39.32
+48,ORD30176,2018-03-08,Alice Williams,East,New York,Furniture,Tables,Tables 770,8,729.57,0.1,144.11,Same Day,2022-10-13,5.83
+49,ORD19438,2023-08-09,Alice Williams,South,Oregon,Furniture,Bookcases,Bookcases 790,2,47.77,0.42,-14.16,First Class,2015-06-03,19.83
+50,ORD53948,2017-10-06,David Garcia,West,Arizona,Office Supplies,Binders,Binders 458,9,3788.01,0.25,-361.09,First Class,2022-07-14,12.24
+51,ORD97405,2018-04-11,Emma Miller,South,Washington,Technology,Monitors,Monitors 656,2,204.53,0.11,32.45,Same Day,2017-07-20,13.04
+52,ORD92007,2024-02-16,Olivia Davis,South,Texas,Office Supplies,Paper,Paper 672,10,564.06,0.46,-128.08,Second Class,2015-10-02,36.47
+53,ORD14757,2024-01-09,Jane Johnson,Central,Florida,Furniture,Bookcases,Bookcases 207,7,2589.91,0.12,403.92,Same Day,2015-09-16,8.86
+54,ORD25528,2022-12-15,Olivia Davis,South,Oregon,Technology,Printers,Printers 641,10,1472.43,0.42,-457.79,First Class,2022-07-05,7.87
+55,ORD19005,2021-04-19,Alice Williams,Central,Illinois,Office Supplies,Binders,Binders 526,9,1738.35,0.07,368.69,Second Class,2024-10-21,21.03
+56,ORD84177,2019-09-04,Alice Williams,East,Illinois,Office Supplies,Binders,Binders 219,9,1386.37,0.2,-19.18,Same Day,2015-06-13,43.18
+57,ORD94031,2021-09-03,Liam Martinez,South,Florida,Office Supplies,Binders,Binders 299,8,797.69,0.04,185.56,Standard Class,2021-04-18,41.93
+58,ORD85174,2021-04-25,Olivia Davis,North,Washington,Office Supplies,Paper,Paper 259,10,1195.58,0.4,-349.86,Second Class,2016-07-09,10.09
+59,ORD59371,2020-03-13,Liam Martinez,South,Arizona,Technology,Monitors,Monitors 181,10,4521.94,0.22,-74.22,First Class,2018-02-06,23.23
+60,ORD44690,2024-07-19,Liam Martinez,East,Florida,Furniture,Tables,Tables 991,4,955.92,0.22,19.6,First Class,2017-09-14,10.31
+61,ORD83414,2023-09-13,Alice Williams,Central,Illinois,Furniture,Tables,Tables 376,2,288.36,0.31,-23.64,Second Class,2017-08-19,22.41
+62,ORD76825,2017-06-06,David Garcia,Central,Texas,Office Supplies,Paper,Paper 962,7,3117.23,0.12,487.83,Standard Class,2016-04-28,5.19
+63,ORD61384,2019-05-17,David Garcia,East,California,Furniture,Tables,Tables 912,6,1782.81,0.36,-287.94,Second Class,2019-09-24,39.44
+64,ORD94459,2022-04-22,John Smith,South,California,Office Supplies,Pens,Pens 339,2,29.82,0.18,2.45,Second Class,2023-04-27,15.26
+65,ORD44920,2023-07-21,Bob Brown,North,Washington,Office Supplies,Binders,Binders 955,6,2538.61,0.32,-450.25,Standard Class,2023-10-01,7.02
+66,ORD24551,2015-05-03,Alice Williams,West,Washington,Furniture,Bookcases,Bookcases 649,8,1790.78,0.16,145.5,First Class,2018-06-21,37.5
+67,ORD47054,2018-09-03,John Smith,East,Arizona,Furniture,Tables,Tables 868,3,758.89,0.31,-68.42,Second Class,2016-05-11,38.89
+68,ORD82206,2015-01-14,Olivia Davis,Central,Arizona,Technology,Laptops,Laptops 232,8,2893.09,0.16,20.3,First Class,2022-05-07,26.55
+16,ORD49627,2020-09-15,Jane Johnson,West,New York,Furniture,Tables,Tables 674,7,731.81,0.44,-222.86,Same Day,2022-08-24,35.67
+70,ORD84939,2022-01-17,Olivia Davis,North,California,Technology,Monitors,Monitors 830,8,3827.66,0.39,-484.67,Same Day,2022-06-16,13.16
+71,ORD45523,2016-09-21,Olivia Davis,Central,Oregon,Technology,Monitors,Monitors 478,4,1928.23,0.2,-177.88,First Class,2021-04-02,35.8
+72,ORD61755,2021-08-20,John Smith,South,Illinois,Office Supplies,Binders,Binders 867,1,323.81,0.23,21.91,Same Day,2017-05-23,11.1
+73,ORD65435,2023-07-26,Olivia Davis,Central,Texas,Technology,Monitors,Monitors 265,2,441.14,0.13,35.56,Standard Class,2015-09-18,10.92
+74,ORD44771,2023-03-22,Emma Miller,Central,Oregon,Furniture,Bookcases,Bookcases 321,3,228.99,0.11,10.3,Same Day,2018-05-20,16.22
+75,ORD70525,2020-01-28,Bob Brown,North,Washington,Technology,Printers,Printers 286,3,1429.73,0.35,-142.77,First Class,2024-11-01,39.81
+76,ORD70730,2016-09-23,Jane Johnson,South,Washington,Office Supplies,Pens,Pens 147,4,562.3,0.23,20.38,Second Class,2022-08-22,7.34
+77,ORD29548,2023-09-27,Alice Williams,Central,Illinois,Furniture,Bookcases,Bookcases 771,7,2630.57,0.16,223.41,Same Day,2017-05-02,47.94
+78,ORD92812,2017-02-02,Liam Martinez,West,Arizona,Furniture,Chairs,Chairs 178,3,201.81,0.08,9.1,Second Class,2022-04-16,39.96
+79,ORD39729,2017-03-07,Emma Miller,West,Arizona,Office Supplies,Binders,Binders 997,10,1805.59,0.32,-365.87,Second Class,2024-01-09,19.78
+80,ORD22304,2020-09-08,David Garcia,East,Oregon,Furniture,Tables,Tables 343,1,161.34,0.37,-43.22,Same Day,2018-10-08,22.52
+81,ORD48418,2023-11-02,David Garcia,Central,California,Furniture,Chairs,Chairs 890,8,1127.9,0.35,-228.66,Same Day,2020-08-04,36.83
+82,ORD73958,2018-04-21,Sophia Rodriguez,East,Washington,Office Supplies,Pens,Pens 995,8,286.14,0.47,-59.18,First Class,2015-12-24,20.72
+83,ORD25461,2018-03-13,Charlie Jones,Central,Illinois,Office Supplies,Binders,Binders 456,2,554.22,0.38,-139.76,Standard Class,2015-11-25,14.32
+84,ORD61699,2021-03-12,Bob Brown,West,Oregon,Technology,Monitors,Monitors 790,1,259.83,0.23,12.47,Standard Class,2016-10-05,35.16
+85,ORD63462,2016-11-17,David Garcia,North,Oregon,Furniture,Bookcases,Bookcases 963,7,2801.92,0.23,180.18,Second Class,2017-10-04,18.5
+86,ORD92326,2018-08-20,Bob Brown,North,California,Office Supplies,Binders,Binders 186,2,215.68,0.29,-40.59,First Class,2023-05-27,39.97
+87,ORD28442,2024-05-27,Bob Brown,West,Washington,Office Supplies,Paper,Paper 244,1,131.91,0.0,21.91,First Class,2019-05-03,31.37
+36,ORD52988,2015-03-20,Emma Miller,East,Florida,Technology,Laptops,Laptops 686,1,287.76,0.22,18.48,Second Class,2019-06-20,17.38
+89,ORD82744,2023-03-05,John Smith,South,New York,Technology,Printers,Printers 559,6,814.2,0.15,46.6,Same Day,2023-05-20,11.56
+90,ORD87570,2024-09-06,David Garcia,East,Texas,Office Supplies,Binders,Binders 682,4,1657.0,0.36,-137.82,Standard Class,2017-02-26,5.73
+91,ORD25126,2024-11-17,Bob Brown,North,Florida,Office Supplies,Binders,Binders 234,2,62.61,0.44,-15.34,Standard Class,2023-05-23,46.59
+92,ORD20702,2023-11-10,David Garcia,Easty,Florida,Furniture,Chairs,Chairs 885,5,428.45,0.36,-77.78,First Class,2018-05-24,40.53
+93,ORD44502,2022-08-14,Emma Miller,West,California,Technology,Printers,Printers 623,5,547.81,0.46,-129.01,First Class,2015-12-14,13.42
+94,ORD29815,2023-04-06,Jane Johnson,Central,California,Furniture,Bookcases,Bookcases 691,1,161.76,0.46,-33.44,Standard Class,2017-10-05,22.14
+95,ORD61159,2015-01-09,Emma Miller,South,Oregon,Technology,Printers,Printers 800,8,1604.96,0.01,232.62,Standard Class,2015-01-12,32.09
+96,ORD85680,2019-02-04,Charlie Jones,West,Texas,Furniture,Chairs,Chairs 972,5,439.66,0.02,56.67,Same Day,2022-01-04,29.45
+97,ORD20614,2018-03-05,Jane Johnson,North,Texas,Furniture,Tables,Tables 551,7,2371.7,0.4,-323.27,Same Day,2024-07-05,18.61
+98,ORD89055,2018-04-23,Charlie Jones,South,New York,Office Supplies,Pens,Pens 464,9,1666.58,0.04,359.47,Same Day,2017-08-26,21.57
+99,ORD75545,2019-02-08,Charlie Jones,East,California,Office Supplies,Pens,Pens 842,3,816.85,0.44,-194.18,First Class,2017-10-11,38.45
+100,ORD20480,2018-03-12,Sophia Rodriguez,West,New York,Furniture,Chairs,Chairs 190,8,600.7,0.47,-120.25,First Class,2024-11-06,33.45
+101,ORD96891,2024-04-13,Olivia Davis,East,Arizona,Furniture,Bookcases,Bookcases 371,4,1843.91,0.39,-183.02,Standard Class,2015-02-12,45.78
+102,ORD95056,2015-02-12,John Smith,North,California,Technology,Printers,Printers 794,9,3283.38,0.11,106.39,Second Class,2021-01-02,18.84
+103,ORD49182,2017-09-20,Sophia Rodriguez,South,Texas,Furniture,Chairs,Chairs 499,7,2996.66,0.15,290.92,Second Class,2017-08-10,10.02
+104,ORD72135,2015-01-14,John Smith,East,Arizona,Furniture,Tables,Tables 317,10,3164.39,0.33,-335.11,Same Day,2015-04-10,33.58
+105,ORD24840,2017-04-19,David Garcia,North,Oregon,Technology,Laptops,Laptops 706,1,86.02,0.16,10.24,Standard Class,2024-03-14,41.17
+106,ORD72955,202-15-30,Charlie Jones,East,New York,Furniture,Chairs,Chairs 820,6,100.39,0.3,-12.93,Same Day,2020-04-26,22.29
+107,ORD65959,2021-09-01,Jane Johnson,Central,Illinois,Furniture,Bookcases,Bookcases 987,3,402.37,0.44,-119.6,First Class,2020-08-26,38.08
+108,ORD32236,2023-10-09,David Garcia,Central,Florida,Furniture,Tables,Tables 533,5,2018.78,0.5,-566.1,Second Class,2024-12-22,39.47
+109,ORD40145,2024-08-15,Sophia Rodriguez,East,Oregon,Technology,Printers,Printers 424,9,1444.34,0.17,163.98,Second Class,2022-12-26,8.79
+110,ORD38378,2021-04-12,Bob Brown,West,California,Technology,Printers,Printers 555,7,2528.68,0.44,-707.23,Second Class,2017-05-09,39.03
+111,ORD39708,2020-11-26,Emma Miller,West,Washington,Technology,Laptops,Laptops 272,9,3022.05,0.02,719.33,Same Day,2024-05-19,5.84
+112,ORD22720,2018-07-07,Jane Johnson,North,Arizona,Furniture,Bookcases,Bookcases 902,1,130.67,0.37,-21.98,Second Class,2016-10-01,11.09
+113,ORD83674,2019-02-12,Jane Johnson,North,Texas,Technology,Laptops,Laptops 277,1,47.02,0.48,-9.67,Second Class,2022-01-28,48.4
+114,ORD87333,2015-05-14,Alice Williams,North,Florida,Technology,Monitors,Monitors 354,2,659.0,0.25,-71.68,First Class,2018-11-24,22.82
+115,ORD67847,2023-05-06,John Smith,South,Washington,Furniture,Bookcases,Bookcases 653,10,3127.13,0.08,268.7,Standard Class,2024-09-11,36.63
+116,ORD67993,2018-05-17,Bob Brown,East,California,Office Supplies,Binders,Binders 743,5,2099.5,0.28,-240.53,Second Class,2016-09-07,28.32
+117,ORD83733,2022-02-27,Charlie Jones,South,Texas,Office Supplies,Binders,Binders 449,2,275.4,0.1,50.48,Same Day,2022-01-05,7.58
+118,ORD10298,2016-02-16,Emma Miller,West,Oregon,Furniture,Chairs,Chairs 735,5,799.06,0.14,84.81,Second Class,2023-08-09,44.09
+119,ORD88750,2023-08-06,Charlie Jones,South,Arizona,Office Supplies,Pens,Pens 366,1,290.98,0.18,4.27,First Class,2023-08-12,41.65
+120,ORD30079,2019-08-03,Bob Brown,Central,California,Furniture,Tables,Tables 313,6,2731.94,0.2,-233.33,Second Class,2016-06-28,23.79
+121,ORD27782,2016-03-05,Alice Williams,Central,Arizona,Technology,Monitors,Monitors 674,8,1543.14,0.22,-80.52,Standard Class,2015-02-08,38.39
+122,ORD94215,2023-06-27,John Smith,South,Washington,Furniture,Chairs,Chairs 397,7,402.9,0.47,-102.78,Second Class,2015-05-24,7.95
+123,ORD56994,2020-03-13,Sophia Rodriguez,Central,Washington,Technology,Printers,Printers 513,4,1227.02,0.21,-99.76,First Class,2016-03-10,10.58
+124,ORD91404,2022-09-03,David Garcia,Central,Arizona,Furniture,Bookcases,Bookcases 805,9,2741.33,0.12,3.47,Same Day,2023-12-27,25.94
+125,ORD22538,2024-05-22,Charlie Jones,West,Texas,Technology,Laptops,Laptops 123,8,3955.09,0.1,418.33,Same Day,2018-10-23,28.5
+126,ORD90385,2021-07-07,Liam Martinez,South,Florida,Technology,Printers,Printers 704,10,2969.16,0.35,-669.05,First Class,2024-10-20,30.55
+127,ORD56504,2022-12-20,John Smith,West,California,Office Supplies,Paper,Paper 285,2,570.69,0.07,127.18,Standard Class,2023-11-11,7.19
+128,ORD79113,2015-10-17,David Garcia,Central,Illinois,Technology,Printers,Printers 803,5,1014.28,0.22,-81.24,Standard Class,2017-12-22,19.24
+129,ORD61327,2016-11-15,Olivia Davis,Central,Illinois,Furniture,Chairs,Chairs 469,9,1792.57,0.16,217.03,Same Day,2015-05-18,34.54
+130,ORD31218,2017-11-17,Olivia Davis,West,New York,Technology,Monitors,Monitors 931,7,1122.98,0.09,188.31,Standard Class,2016-10-06,35.86
+131,ORD50504,2023-12-07,Liam Martinez,East,California,Office Supplies,Binders,Binders 576,10,2602.6,0.23,4.9,First Class,2024-04-14,24.04
+132,ORD78107,2016-01-08,Bob Brown,Central,Washington,Furniture,Chairs,Chairs 407,6,1428.74,0.23,46.56,First Class,2020-01-03,34.69
+133,ORD48059,2016-06-19,Emma Miller,North,New York,Technology,Printers,Printers 375,8,2198.97,0.25,67.8,Same Day,2016-04-09,27.88
+134,ORD95318,2022-03-20,Jane Johnson,East,Texas,Office Supplies,Binders,Binders 817,3,543.75,0.34,-92.63,Same Day,2017-10-10,28.02
+135,ORD64174,2016-03-16,Olivia Davis,West,Arizona,Furniture,Bookcases,Bookcases 405,3,1437.05,0.25,-100.94,Same Day,2020-03-20,12.34
+136,ORD42197,2018-07-10,Charlie Jones,North,Washington,Furniture,Tables,Tables 378,10,4061.21,0.41,-948.65,First Class,2020-11-24,20.03
+137,ORD29325,2024-11-09,Alice Williams,North,California,Furniture,Tables,Tables 993,7,3373.6,0.22,152.73,First Class,2018-09-13,40.73
+138,ORD98202,2019-03-23,Jane Johnson,North,California,Technology,Monitors,Monitors 862,3,904.67,0.09,98.69,Same Day,2024-01-08,48.1
+76,ORD70730,2016-09-23,Jane Johnson,South,Washington,Office Supplies,Pens,Pens 147,4,562.3,0.23,20.38,Second Class,2022-08-22,7.34
+140,ORD23125,2020-09-08,Sophia Rodriguez,South,Oregon,Technology,Monitors,Monitors 502,3,76.16,0.08,12.05,Second Class,2016-04-10,30.4
+141,ORD92845,2022-01-26,Jane Johnson,North,Texas,Technology,Laptops,Laptops 650,4,307.62,0.11,46.47,Second Class,2018-02-10,23.97
+142,ORD21579,2024-01-20,Bob Brown,North,Florida,Office Supplies,Binders,Binders 847,2,425.43,0.29,-74.2,Second Class,2018-05-14,22.15
+14,ORD23089,2018-09-07,Alice Williams,West,California,Office Supplies,Paper,Paper 551,1,51.74,0.09,8.54,First Class,2017-08-19,19.89
+144,ORD35121,2023-12-27,David Garcia,West,New York,Furniture,Chairs,Chairs 890,1,270.08,0.23,-13.03,Standard Class,2022-03-11,19.63
+145,ORD58429,2017-09-13,Emma Miller,North,Arizona,Furniture,Tables,Tables 778,9,1391.88,0.04,111.18,First Class,2017-02-15,19.83
+146,ORD31919,2021-10-01,Alice Williams,Central,Arizona,Technology,Printers,Printers 402,3,881.02,0.42,-247.32,Second Class,2023-09-05,20.49
+83,ORD25461,2018-03-13,Charlie Jones,Central,Illinois,Office Supplies,Binders,Binders 456,2,554.22,0.38,-139.76,Standard Class,2015-11-25,14.32
+148,ORD82742,2021-03-25,Charlie Jones,Northz,New York,Technology,Monitors,Monitors 431,8,1236.53,0.44,-216.32,Standard Class,2020-11-09,11.87
+149,ORD85634,2022-02-11,Olivia Davis,East,Arizona,Furniture,Bookcases,Bookcases 895,1,11.34,0.36,-1.54,Second Class,2017-05-23,6.67
+150,ORD39159,2016-09-19,Bob Brown,North,Arizona,Office Supplies,Binders,Binders 148,2,150.96,0.22,1.97,Same Day,2017-06-23,44.49
+151,ORD31326,2022-03-28,Liam Martinez,Central,Washington,Furniture,Chairs,Chairs 385,7,585.4,0.25,22.21,Second Class,2021-08-10,27.09
+152,ORD27988,2019-04-22,Charlie Jones,South,Oregon,Office Supplies,Paper,Paper 832,6,1383.22,0.37,-143.39,Second Class,2018-07-06,14.18
+153,ORD76478,2022-12-03,David Garcia,West,Washington,Office Supplies,Paper,Paper 288,8,1142.85,0.01,155.3,First Class,2023-10-13,24.11
+154,ORD92252,2020-12-23,Alice Williams,West,Texas,Office Supplies,Paper,Paper 261,10,3274.01,0.35,-362.55,Second Class,2015-01-27,15.07
+155,ORD29649,2019-01-09,John Smith,South,Washington,Furniture,Chairs,Chairs 336,1,102.49,0.04,25.44,Same Day,2017-04-24,48.94
+156,ORD67814,2016-10-20,Liam Martinez,Westz,Illinois,Furniture,Chairs,Chairs 845,5,1233.91,0.4,-144.67,Second Class,2019-06-10,25.66
+157,ORD45910,2023-05-20,Sophia Rodriguez,West,Texas,Furniture,Chairs,Chairs 240,1,239.03,0.16,24.07,Second Class,2018-03-20,41.01
+158,ORD70123,2018-09-08,Alice Williams,South,Texas,Furniture,Tables,Tables 554,7,2949.41,0.07,528.94,First Class,2015-07-05,30.92
+159,ORD70681,2018-11-07,Olivia Davis,East,Washington,Furniture,Tables,Tables 915,2,747.16,0.2,27.98,First Class,2018-06-27,44.93
+160,ORD39595,2020-04-23,Olivia Davis,East,Illinois,Furniture,Bookcases,Bookcases 266,3,1099.77,0.33,-67.57,First Class,2015-08-02,6.02
+161,ORD23348,2018-11-23,Liam Martinez,East,Washington,Technology,Monitors,Monitors 910,3,703.53,0.1,117.54,Standard Class,2017-10-25,37.72
+162,ORD37449,2017-05-25,Liam Martinez,West,California,Technology,Laptops,Laptops 560,5,924.77,0.02,179.86,Standard Class,2024-07-12,5.93
+66,ORD24551,2015-05-03,Alice Williams,West,Washington,Furniture,Bookcases,Bookcases 649,8,1790.78,0.16,145.5,First Class,2018-06-21,37.5
+164,ORD84943,2017-11-03,Olivia Davis,West,Oregon,Technology,Printers,Printers 640,5,261.83,0.13,2.23,Standard Class,2022-10-07,7.51
+165,ORD79573,2018-11-05,Jane Johnson,East,Illinois,Office Supplies,Pens,Pens 950,7,3074.34,0.35,-335.46,First Class,2018-04-19,7.61
+166,ORD13427,2024-05-16,Sophia Rodriguez,South,Oregon,Furniture,Tables,Tables 426,6,1992.82,0.22,-76.9,Standard Class,2022-12-19,46.96
+167,ORD39868,2021-08-13,Liam Martinez,West,Florida,Furniture,Chairs,Chairs 277,5,543.98,0.19,-4.7,Same Day,2016-10-07,28.65
+168,ORD73514,2024-08-25,Charlie Jones,West,Oregon,Office Supplies,Pens,Pens 445,10,1529.35,0.47,-374.53,Same Day,2017-07-15,18.43
+169,ORD51233,2016-08-26,Emma Miller,West,Illinois,Office Supplies,Binders,Binders 128,5,2399.13,0.29,-441.73,Same Day,2024-04-10,24.31
+170,ORD44777,2024-06-19,John Smith,West,Illinois,Furniture,Tables,Tables 508,3,280.52,0.47,-53.12,Same Day,2020-07-21,9.37
+171,ORD13962,2024-10-06,Alice Williams,North,Washington,Technology,Laptops,Laptops 811,9,2769.87,0.26,-70.82,Standard Class,2020-07-25,39.2
+172,ORD98620,2019-02-04,Liam Martinez,North,Arizona,Technology,Laptops,Laptops 298,4,500.13,0.01,76.58,Second Class,2023-12-01,37.71
+173,ORD20787,2021-06-20,Charlie Jones,West,Oregon,Technology,Monitors,Monitors 602,8,1826.18,0.07,140.5,First Class,2020-12-17,9.41
+174,ORD57608,2022-03-05,Alice Williams,West,Florida,Furniture,Chairs,Chairs 466,2,34.26,0.22,2.27,First Class,2021-02-24,19.12
+175,ORD75855,2024-05-01,Liam Martinez,South,California,Technology,Laptops,Laptops 501,1,298.97,0.03,63.49,Standard Class,2015-06-10,17.17
+176,ORD93860,2017-04-21,Sophia Rodriguez,West,California,Technology,Laptops,Laptops 638,5,358.51,0.08,73.08,Same Day,2020-05-05,9.18
+177,ORD28258,2023-02-17,Charlie Jones,West,Texas,Technology,Monitors,Monitors 640,4,402.05,0.28,-34.87,Second Class,2022-01-28,43.58
+178,ORD44276,2022-12-21,Olivia Davis,East,Texas,Technology,Monitors,Monitors 706,3,462.0,0.48,-98.25,Second Class,2024-05-12,31.67
+179,ORD10262,2022-09-18,Alice Williams,East,Illinois,Furniture,Bookcases,Bookcases 343,4,1973.45,0.41,-525.63,Same Day,2022-11-27,33.51
+180,ORD54321,2021-05-22,Alice Williams,Central,New York,Furniture,Tables,Tables 394,10,135.77,0.12,18.01,Standard Class,2020-06-23,24.86
+181,ORD66152,2018-11-18,Sophia Rodriguez,North,New York,Furniture,Chairs,Chairs 377,9,4326.88,0.12,706.55,Second Class,2019-02-23,19.4
+182,ORD12711,2017-05-06,David Garcia,Central,Florida,Technology,Laptops,Laptops 404,2,819.5,0.5,-302.34,First Class,2019-04-21,10.3
+183,ORD31341,2023-06-02,Olivia Davis,West,Texas,Technology,Laptops,Laptops 308,7,2709.02,0.32,-391.6,Same Day,2018-07-20,22.72
+184,ORD28140,2018-03-17,Sophia Rodriguez,Central,Texas,Office Supplies,Binders,Binders 484,10,895.08,0.16,-48.08,First Class,2018-12-09,43.36
+185,ORD23898,2022-08-06,Emma Miller,East,Oregon,Furniture,Chairs,Chairs 458,7,2310.73,0.42,-391.11,Standard Class,2022-10-13,45.98
+186,ORD21392,2018-01-03,Charlie Jones,Centraly,Illinois,Furniture,Tables,Tables 311,4,546.88,0.24,0.76,Second Class,2022-09-26,29.02
+187,ORD88602,2018-03-24,Olivia Davis,West,Washington,Furniture,Chairs,Chairs 987,2,604.33,0.39,-89.2,Same Day,2015-10-05,49.98
+188,ORD25927,2024-10-08,Emma Miller,South,Florida,Technology,Monitors,Monitors 603,3,1086.23,0.31,-216.78,Same Day,2024-06-20,10.84
+189,ORD34484,2017-02-20,Sophia Rodriguez,West,New York,Office Supplies,Binders,Binders 871,3,874.23,0.48,-238.15,Same Day,2017-10-12,17.15
+190,ORD62728,2020-06-27,Liam Martinez,Central,Illinois,Office Supplies,Pens,Pens 199,9,2124.04,0.3,-82.48,First Class,2015-11-22,20.94
+191,ORD69618,2023-05-26,Sophia Rodriguez,South,Texas,Office Supplies,Pens,Pens 511,7,2520.58,0.4,-306.37,Standard Class,2021-02-07,37.11
+192,ORD60506,2022-02-02,David Garcia,West,Texas,Office Supplies,Paper,Paper 766,2,771.17,0.39,-72.3,Same Day,2015-01-01,17.38
+193,ORD22103,2020-08-11,John Smith,West,Oregon,Office Supplies,Pens,Pens 833,8,548.38,0.15,-22.67,Same Day,2022-06-22,49.27
+194,ORD48688,2019-04-17,David Garcia,West,California,Technology,Monitors,Monitors 655,10,4603.95,0.19,278.24,First Class,2017-02-07,7.69
+195,ORD72010,2016-03-04,Emma Miller,South,Florida,Technology,Monitors,Monitors 538,9,2084.24,0.14,36.37,First Class,2024-02-17,43.63
+196,ORD48428,2024-08-03,Sophia Rodriguez,East,Washington,Furniture,Tables,Tables 901,9,4318.93,0.1,528.61,Second Class,2016-02-24,5.79
+197,ORD68933,2019-08-14,Emma Miller,East,Florida,Office Supplies,Binders,Binders 752,7,665.41,0.06,89.58,Standard Class,2018-11-01,21.04
+198,ORD62158,2023-09-24,Emma Miller,East,Florida,Furniture,Bookcases,Bookcases 456,4,333.44,0.08,44.92,Second Class,2016-12-25,18.88
+199,ORD63790,2021-01-27,Alice Williams,West,Oregon,Furniture,Bookcases,Bookcases 249,10,317.46,0.15,35.34,Second Class,2022-02-05,44.33
+200,ORD75788,2024-09-04,Bob Brown,East,Florida,Technology,Printers,Printers 250,1,123.64,0.36,-25.23,Standard Class,2020-06-11,34.02
+201,ORD29976,2020-11-01,Jane Johnson,West,Arizona,Technology,Printers,Printers 604,9,2516.63,0.19,-71.9,First Class,2020-10-21,47.07
+202,ORD82463,2020-05-19,David Garcia,North,Arizona,Furniture,Tables,Tables 744,4,1696.73,0.04,197.81,Standard Class,2018-08-06,35.68
+203,ORD43181,2018-02-14,Bob Brown,Central,Washington,Office Supplies,Pens,Pens 503,1,100.31,0.13,-0.73,Second Class,2016-08-15,36.07
+204,ORD42734,2021-07-28,Olivia Davis,Central,Arizona,Furniture,Chairs,Chairs 214,4,626.13,0.08,109.37,Same Day,2024-06-24,11.47
+205,ORD54587,2016-06-21,John Smith,West,Washington,Office Supplies,Paper,Paper 299,1,121.02,0.46,-19.53,Second Class,2015-06-03,33.72
+206,ORD85184,2018-02-19,Olivia Davis,North,Illinois,Furniture,Bookcases,Bookcases 990,10,3604.4,0.05,844.96,Second Class,2021-09-15,31.85
+207,ORD95282,2023-06-02,Jane Johnson,Central,Washington,Technology,Laptops,Laptops 223,1,461.82,0.34,-78.62,Standard Class,2016-01-25,9.83
+183,ORD31341,2023-06-02,Olivia Davis,West,Texas,Technology,Laptops,Laptops 308,7,2709.02,0.32,-391.6,Same Day,2018-07-20,22.72
+209,ORD12276,2019-12-07,John Smith,East,Oregon,Office Supplies,Binders,Binders 730,2,446.62,0.23,14.22,Second Class,2023-06-20,48.76
+210,ORD84365,2018-12-21,John Smith,East,Illinois,Office Supplies,Paper,Paper 250,7,2319.4,0.01,339.44,Standard Class,2016-01-06,16.9
+211,ORD16875,2022-10-14,Liam Martinez,East,New York,Technology,Laptops,Laptops 780,4,420.99,0.15,6.89,Same Day,2020-11-23,18.71
+212,ORD65681,2015-08-24,Olivia Davis,West,Arizona,Furniture,Tables,Tables 780,10,4189.52,0.35,-275.64,Same Day,2024-05-28,36.44
+47,ORD88234,2015-06-10,Jane Johnson,West,Illinois,Office Supplies,Paper,Paper 678,9,2585.67,0.38,-386.9,Second Class,2020-09-09,39.32
+214,ORD52783,2024-01-15,Liam Martinez,South,Illinois,Office Supplies,Paper,Paper 825,6,178.68,0.29,-30.61,Second Class,2017-05-23,13.46
+66,ORD24551,2015-05-03,Alice Williams,West,Washington,Furniture,Bookcases,Bookcases 649,8,1790.78,0.16,145.5,First Class,2018-06-21,37.5
+216,ORD87075,2023-01-03,Olivia Davis,East,California,Office Supplies,Paper,Paper 605,9,1060.8,0.29,-145.93,Second Class,2020-09-05,41.75
+217,ORD26559,2019-12-19,Emma Miller,North,California,Office Supplies,Pens,Pens 102,9,1331.36,0.03,97.26,Standard Class,2023-06-15,22.06
+218,ORD84233,2021-08-04,John Smith,East,Illinois,Office Supplies,Binders,Binders 483,2,560.57,0.05,79.48,Standard Class,2017-09-02,38.05
+219,ORD90620,2017-04-01,John Smith,East,Illinois,Furniture,Bookcases,Bookcases 127,7,1148.69,0.21,39.5,Second Class,2022-02-07,28.88
+220,ORD73724,2015-10-13,Liam Martinez,East,Florida,Technology,Printers,Printers 572,6,2557.2,0.27,-203.32,First Class,2016-10-01,33.01
+221,ORD69627,2015-10-15,Liam Martinez,South,California,Office Supplies,Binders,Binders 135,3,1022.7,0.42,-189.72,First Class,2024-08-07,40.19
+222,ORD41153,2020-11-12,Jane Johnson,North,Florida,Furniture,Chairs,Chairs 973,4,102.89,0.36,-10.1,First Class,2015-01-08,12.53
+223,ORD61914,2023-12-03,David Garcia,West,New York,Furniture,Tables,Tables 277,8,3224.0,0.05,698.07,Standard Class,2016-11-27,27.72
+224,ORD74637,2016-11-25,Bob Brown,East,Illinois,Furniture,Chairs,Chairs 956,9,1373.09,0.46,-292.09,Standard Class,2020-02-17,36.16
+225,ORD41677,2020-02-21,Emma Miller,North,Florida,Office Supplies,Paper,Paper 431,6,2235.84,0.48,-658.03,First Class,2024-08-01,21.25
+226,ORD74125,2018-01-14,Bob Brown,East,California,Furniture,Tables,Tables 864,2,392.32,0.36,-83.81,Second Class,2020-02-17,22.77
+227,ORD13195,2023-03-24,Bob Brown,North,Texas,Furniture,Tables,Tables 518,2,808.51,0.14,74.54,Same Day,2021-04-07,15.61
+228,ORD96966,2020-02-02,Charlie Jones,West,Illinois,Furniture,Bookcases,Bookcases 738,10,1670.89,0.49,-613.49,Standard Class,2024-12-15,21.56
+229,ORD36439,2024-05-20,Alice Williams,South,California,Technology,Laptops,Laptops 193,5,1701.15,0.28,-181.62,First Class,2015-05-28,20.99
+230,ORD17766,2018-07-07,Alice Williams,South,Washington,Technology,Printers,Printers 177,2,922.95,0.27,-148.43,Standard Class,2017-03-11,29.77
+231,ORD58208,2021-02-07,Charlie Jones,North,Florida,Technology,Printers,Printers 469,7,1936.44,0.46,-335.12,Standard Class,2021-06-07,44.86
+10,ORD50618,2020-09-02,David Garcia,South,Washington,Office Supplies,Paper,Paper 866,6,996.01,0.09,200.21,First Class,2024-03-04,6.86
+233,ORD65776,2018-08-06,John Smith,East,Illinois,Office Supplies,Paper,Paper 890,8,1688.94,0.28,23.66,Standard Class,2020-11-09,29.55
+234,ORD24544,2020-06-28,Bob Brown,East,California,Furniture,Chairs,Chairs 661,1,404.64,0.08,23.24,Same Day,2015-03-27,40.84
+235,ORD42601,2024-06-07,Liam Martinez,Central,Illinois,Technology,Laptops,Laptops 992,8,1759.85,0.43,-510.75,Same Day,2022-12-25,33.34
+236,ORD16020,2024-12-28,Charlie Jones,North,Illinois,Office Supplies,Paper,Paper 503,4,1628.39,0.14,238.65,Second Class,2023-02-04,13.16
+237,ORD76876,2018-07-14,David Garcia,West,Illinois,Furniture,Tables,Tables 339,1,470.67,0.36,-80.58,Same Day,2015-03-11,46.79
+238,ORD36044,2016-09-04,Charlie Jones,East,New York,Technology,Laptops,Laptops 432,1,307.09,0.3,-18.52,First Class,2019-10-07,20.68
+239,ORD18520,2017-07-03,Alice Williams,Central,California,Technology,Laptops,Laptops 309,6,2499.29,0.38,-457.81,Second Class,2018-12-07,21.77
+240,ORD67673,2024-10-20,John Smith,South,Illinois,Technology,Printers,Printers 748,10,4098.15,0.37,-551.09,Standard Class,2015-10-26,31.81
+241,ORD64087,2021-05-07,Emma Miller,South,California,Technology,Printers,Printers 785,4,786.94,0.12,40.93,Same Day,2023-03-13,10.75
+242,ORD31165,2016-01-01,David Garcia,South,Texas,Furniture,Bookcases,Bookcases 198,5,1214.34,0.45,-324.64,Same Day,2016-06-26,23.07
+243,ORD33041,2023-05-15,Alice Williams,West,New York,Furniture,Chairs,Chairs 385,2,474.41,0.36,-56.24,Second Class,2020-06-02,49.2
+244,ORD51615,2022-09-03,Sophia Rodriguez,West,California,Furniture,Tables,Tables 828,4,1275.69,0.3,-95.3,Same Day,2016-01-06,32.41
+245,ORD97575,2019-09-19,Emma Miller,South,Oregon,Technology,Printers,Printers 614,3,623.36,0.49,-206.04,Standard Class,2022-05-04,22.38
+246,ORD31028,2018-05-18,Sophia Rodriguez,East,Florida,Furniture,Tables,Tables 142,7,2702.45,0.2,240.65,Standard Class,2021-11-11,29.26
+247,ORD75412,2021-03-19,Emma Miller,North,Oregon,,Tables,Tables 438,4,933.33,0.49,-190.07,Same Day,2023-09-24,48.58
+248,ORD73400,2015-02-01,Emma Miller,West,Illinois,Technology,Laptops,Laptops 644,2,337.58,0.26,-14.19,Second Class,2018-02-27,18.55
+249,ORD49024,2019-04-03,Liam Martinez,East,Oregon,Furniture,Chairs,Chairs 714,2,848.19,0.0,155.26,Same Day,2019-12-10,28.27
+250,ORD56994,2024-12-23,Emma Miller,South,Florida,Technology,Monitors,Monitors 868,4,440.23,0.45,-80.08,Standard Class,2021-01-13,15.84
+251,ORD22582,2022-08-09,Charlie Jones,South,Washington,Office Supplies,Pens,Pens 549,1,279.17,0.11,29.32,Standard Class,2023-11-19,19.5
+252,ORD90453,2016-01-12,Olivia Davis,West,Arizona,Furniture,Tables,Tables 316,1,102.7,0.48,-20.76,First Class,2020-04-06,20.08
+253,ORD90621,2016-07-06,Sophia Rodriguez,Central,Texas,Technology,Monitors,Monitors 340,6,869.9,0.42,-241.84,First Class,2016-12-25,20.37
+254,ORD70400,2019-11-23,Bob Brown,Central,Arizona,Technology,Printers,Printers 359,3,1152.3,0.5,-407.66,Standard Class,2017-10-20,18.6
+255,ORD58314,2016-02-07,Bob Brown,West,Washington,Furniture,Tables,Tables 264,5,60.89,0.39,-16.77,Same Day,2024-05-11,17.8
+256,ORD83828,2023-04-27,Olivia Davis,Central,Texas,Technology,Monitors,Monitors 598,1,457.42,0.39,-77.16,Standard Class,2024-01-23,5.19
+257,ORD44609,2019-10-23,Charlie Jones,North,New York,Furniture,Tables,Tables 460,1,430.84,0.11,79.19,Standard Class,2017-03-20,13.73
+258,ORD88173,2018-09-11,Olivia Davis,North,California,Office Supplies,Pens,Pens 850,10,350.78,0.16,1.14,First Class,2015-08-03,38.71
+259,ORD12711,2022-11-04,Emma Miller,South,Illinois,Furniture,Tables,Tables 588,3,139.01,0.17,11.56,First Class,2018-03-03,31.08
+260,ORD86526,2019-07-16,Bob Brown,East,New York,Technology,Laptops,Laptops 872,7,2486.56,0.04,232.34,Same Day,2019-07-13,14.49
+261,ORD93196,2017-09-11,Sophia Rodriguez,South,Oregon,Furniture,Chairs,Chairs 226,3,1457.9,0.42,-248.54,Standard Class,2022-06-21,38.95
+262,ORD87962,2021-02-01,Bob Brown,Central,Arizona,Furniture,Bookcases,Bookcases 439,1,20.67,0.45,-5.73,First Class,2015-06-03,39.16
+263,ORD91846,2022-08-21,Liam Martinez,Central,New York,Office Supplies,Pens,Pens 417,7,1647.96,0.35,-189.55,First Class,2016-06-08,42.56
+221,ORD69627,2015-10-15,Liam Martinez,South,California,Office Supplies,Binders,Binders 135,3,1022.7,0.42,-189.72,First Class,2024-08-07,40.19
+265,ORD24741,2019-11-06,David Garcia,South,California,Technology,Laptops,Laptops 351,8,987.21,0.13,60.16,First Class,2022-04-08,21.68
+266,ORD10005,2015-07-15,David Garcia,East,Washington,Technology,Monitors,Monitors 723,7,2774.54,0.23,21.36,Standard Class,2016-07-26,22.82
+267,ORD50117,2020-12-01,Alice Williams,Central,Washington,Technology,Laptops,Laptops 730,3,872.82,0.36,-111.58,Second Class,2021-11-20,26.89
+268,ORD19240,2022-04-19,Alice Williams,South,Texas,Technology,Laptops,Laptops 359,1,250.95,0.31,-45.03,Standard Class,2015-04-01,32.09
+269,ORD63041,2023-09-03,David Garcia,West,New York,Office Supplies,Pens,Pens 539,2,310.78,0.13,5.46,Same Day,2020-04-26,8.83
+270,ORD32496,2024-03-23,Alice Williams,South,Illinois,Office Supplies,Binders,Binders 533,10,4921.03,0.3,-760.59,Second Class,2015-07-07,26.16
+271,ORD80631,2018-03-19,Alice Williams,North,Washington,Technology,Laptops,Laptops 497,6,569.1,0.49,-180.17,Second Class,2019-09-17,31.96
+272,ORD37294,2015-08-08,Emma Miller,East,Washington,Technology,Monitors,Monitors 602,6,1600.44,0.42,-311.98,Standard Class,2023-01-05,8.92
+245,ORD97575,2019-09-19,Emma Miller,South,Oregon,Technology,Printers,Printers 614,3,623.36,0.49,-206.04,Standard Class,2022-05-04,22.38
+274,ORD89718,2024-03-09,Liam Martinez,North,California,Technology,Laptops,Laptops 651,7,1246.32,0.33,-165.62,Same Day,2024-09-04,11.16
+275,ORD23402,2021-08-23,David Garcia,East,Washington,Technology,Printers,Printers 607,3,1014.46,0.17,-14.51,Standard Class,2016-07-03,46.21
+276,ORD94541,2022-07-24,Bob Brown,West,Illinois,Technology,Printers,Printers 876,8,2001.74,0.18,27.03,Standard Class,2024-02-10,17.35
+277,ORD14568,2015-08-12,Jane Johnson,East,Washington,Technology,Laptops,Laptops 534,4,1722.96,0.14,245.4,Standard Class,2023-09-08,21.34
+278,ORD67517,2024-05-24,Bob Brown,North,Illinois,Office Supplies,Pens,Pens 297,4,1453.92,0.24,-37.63,First Class,2019-12-05,8.31
+279,ORD20989,2023-01-19,Olivia Davis,West,Illinois,Office Supplies,Paper,Paper 778,4,75.16,0.22,4.61,First Class,2020-04-26,41.19
+233,ORD65776,2018-08-06,John Smith,East,Illinois,Office Supplies,Paper,Paper 890,8,1688.94,0.28,23.66,Standard Class,2020-11-09,29.55
+281,ORD22885,2019-09-28,David Garcia,West,New York,Office Supplies,Pens,Pens 641,6,1360.11,0.47,-493.51,Second Class,2022-07-25,25.57
+282,ORD33666,2019-09-22,David Garcia,East,Texas,Office Supplies,Paper,Paper 408,10,4005.82,0.44,-861.47,Same Day,2017-02-08,21.62
+283,ORD21895,2018-05-12,Bob Brown,South,Texas,Technology,Laptops,Laptops 292,9,4259.43,0.29,-586.13,Standard Class,2023-09-14,13.24
+284,ORD75360,2019-04-25,Jane Johnson,South,Illinois,Furniture,Chairs,Chairs 866,6,136.83,0.16,-1.55,Same Day,2021-12-08,9.27
+285,ORD23528,2020-12-24,Alice Williams,East,Florida,Office Supplies,Paper,Paper 196,4,1362.17,0.04,322.51,Same Day,2015-04-08,18.11
+286,ORD15401,2024-11-17,Emma Miller,East,New York,Furniture,Chairs,Chairs 195,6,1592.7,0.42,-413.12,Standard Class,2021-11-06,48.02
+287,ORD99838,2021-01-18,Olivia Davis,South,Illinois,Furniture,Bookcases,Bookcases 609,9,170.59,0.29,-26.15,Second Class,2015-03-14,7.7
+288,ORD84111,2023-03-27,David Garcia,West,Illinois,Technology,Monitors,Monitors 921,10,3913.93,0.05,439.64,Second Class,2019-08-11,26.19
+289,ORD76755,2020-09-27,Emma Miller,West,Arizona,Technology,Printers,Printers 199,2,876.8,0.01,132.07,First Class,2024-06-18,17.59
+290,ORD53240,2022-06-25,Charlie Jones,Central,New York,Technology,Monitors,Monitors 889,1,292.11,0.22,-4.87,Standard Class,2021-08-22,40.54
+291,ORD64424,2015-07-07,Bob Brown,East,Illinois,Office Supplies,Binders,Binders 605,2,922.54,0.18,-32.89,Second Class,2018-10-10,37.49
+292,ORD99819,2020-07-12,Charlie Jones,North,California,Office Supplies,Pens,Pens 103,7,418.23,0.37,-46.09,First Class,2023-05-20,13.61
+293,ORD66706,2019-05-20,Liam Martinez,East,Washington,Furniture,Bookcases,Bookcases 155,4,785.58,0.23,-1.48,Same Day,2016-11-04,16.55
+294,ORD54161,2015-04-12,Alice Williams,West,Florida,Furniture,Tables,Tables 461,1,222.12,0.1,33.18,Second Class,2019-05-14,33.64
+295,ORD74442,2019-10-13,John Smith,West,Illinois,Office Supplies,Binders,Binders 659,1,111.11,0.31,-8.6,Standard Class,2019-05-17,25.52
+296,ORD25755,2018-02-28,Olivia Davis,West,California,Furniture,Bookcases,Bookcases 554,7,1592.66,0.09,221.32,Same Day,2021-02-09,14.17
+297,ORD68998,2020-11-24,Jane Johnson,East,Arizona,Furniture,Chairs,Chairs 248,2,694.16,0.45,-198.45,Standard Class,2024-11-06,21.38
+298,ORD97077,2016-04-04,Bob Brown,Central,Oregon,Furniture,Bookcases,Bookcases 129,10,863.17,0.02,73.45,Same Day,2016-10-07,35.22
+299,ORD58877,2020-07-08,Liam Martinez,West,Illinois,Furniture,Chairs,Chairs 414,7,3453.9,0.47,-957.09,First Class,2024-09-14,49.83
+300,ORD13995,2020-10-04,John Smith,South,California,Furniture,Bookcases,Bookcases 134,3,528.5,0.06,119.0,Standard Class,2023-12-17,9.89
+301,ORD15990,2021-10-06,David Garcia,North,Oregon,Technology,Printers,Printers 116,6,2594.43,0.1,179.26,Same Day,2015-07-26,8.91
+302,ORD35526,2019-02-14,Charlie Jones,North,Arizona,Furniture,Tables,Tables 268,1,47.39,0.49,-9.79,Second Class,2021-03-16,25.36
+303,ORD80464,2021-08-05,Jane Johnson,West,California,Technology,Laptops,Laptops 483,1,437.1,0.34,-28.26,Standard Class,2023-05-28,18.97
+304,ORD79961,2017-01-10,Sophia Rodriguez,South,Washington,Office Supplies,Pens,Pens 243,4,927.53,0.05,129.99,First Class,2020-10-18,34.05
+305,ORD71924,2015-10-06,Sophia Rodriguez,North,Oregon,Office Supplies,Pens,Pens 662,2,423.05,0.02,94.1,Second Class,2017-12-24,48.08
+306,ORD94352,2016-03-11,David Garcia,East,Florida,Office Supplies,Binders,Binders 782,2,889.59,0.18,28.42,Standard Class,2015-09-08,7.4
+307,ORD68387,2022-05-20,Sophia Rodriguez,Centraly,Oregon,Office Supplies,Pens,Pens 277,2,928.26,0.08,203.79,Same Day,2019-12-25,45.16
+308,ORD97371,2023-11-06,David Garcia,Central,Florida,Office Supplies,Paper,Paper 638,10,450.92,0.34,-69.28,Standard Class,2024-04-17,7.35
+309,ORD51532,2021-05-18,John Smith,Central,California,Technology,Monitors,Monitors 907,4,1449.44,0.23,-15.37,Second Class,2022-09-14,36.81
+310,ORD30285,2016-11-09,Jane Johnson,North,Texas,Furniture,Tables,Tables 489,5,934.81,0.5,-344.27,Standard Class,2022-09-14,25.69
+311,ORD88091,2018-07-11,Emma Miller,South,Washington,Office Supplies,Pens,Pens 636,4,395.09,0.31,-49.31,First Class,2020-04-27,33.03
+312,ORD14746,2022-04-20,Liam Martinez,South,Florida,Office Supplies,Pens,Pens 301,9,3817.76,0.34,-715.01,First Class,2023-06-17,9.0
+313,ORD28109,2016-05-15,Bob Brown,North,Texas,Technology,Laptops,Laptops 275,8,2537.28,0.08,441.15,Same Day,2018-04-05,12.1
+314,ORD34161,2015-06-10,Bob Brown,West,California,Furniture,Tables,Tables 423,7,3481.72,0.47,-1139.48,Same Day,2024-10-27,27.55
+315,ORD47241,2021-10-12,Alice Williams,East,Washington,Furniture,Tables,Tables 625,9,1389.58,0.24,-37.83,Same Day,2018-07-17,45.45
+316,ORD47274,2017-03-20,David Garcia,East,Oregon,Technology,Laptops,Laptops 814,2,665.57,0.12,-2.29,Second Class,2017-12-03,29.87
+317,ORD11689,2020-09-28,Charlie Jones,South,Oregon,Technology,Printers,Printers 571,7,1868.04,0.22,-60.7,First Class,2022-03-17,12.14
+318,ORD57340,2017-12-10,Olivia Davis,South,Oregon,Technology,Printers,Printers 875,2,116.0,0.33,-6.16,Second Class,2023-11-12,23.55
+319,ORD18094,2020-09-14,Liam Martinez,South,Arizona,Furniture,Tables,Tables 338,6,1191.61,0.33,-218.47,Standard Class,2023-11-28,5.82
+320,ORD13141,2020-08-27,John Smith,South,Texas,Office Supplies,Pens,Pens 701,9,4479.3,0.25,-463.2,Same Day,2023-08-11,32.8
+321,ORD77517,2015-08-01,John Smith,East,Texas,Furniture,Chairs,Chairs 670,2,258.53,0.21,-18.35,Second Class,2023-08-08,17.36
+322,ORD74119,2016-03-19,Sophia Rodriguez,Centralx,Arizona,Office Supplies,Paper,Paper 835,1,44.9,0.32,-4.77,Second Class,2024-03-20,14.69
+323,ORD87630,2021-04-08,Olivia Davis,West,New York,Office Supplies,Pens,Pens 125,3,1111.14,0.43,-253.47,Standard Class,2020-11-15,35.13
+324,ORD36979,2021-06-24,John Smith,North,Texas,Furniture,Tables,Tables 130,7,1856.34,0.27,-233.63,Second Class,2024-11-22,9.34
+325,ORD50663,2017-12-11,Sophia Rodriguez,East,California,Furniture,Tables,Tables 576,10,4364.26,0.14,25.51,Same Day,2020-07-07,12.82
+326,ORD60103,2016-03-15,John Smith,East,Texas,Furniture,Tables,Tables 906,1,439.77,0.23,13.19,First Class,2015-01-02,37.93
+327,ORD82869,2023-06-18,John Smith,Central,Florida,Technology,Monitors,Monitors 441,4,862.79,0.39,-99.68,Standard Class,2018-06-17,32.66
+328,ORD31248,2022-11-17,Olivia Davis,West,Washington,Office Supplies,Paper,Paper 697,6,2882.35,0.16,7.41,First Class,2018-08-02,39.57
+329,ORD93612,2018-11-02,Charlie Jones,West,Texas,Furniture,Bookcases,Bookcases 704,4,1769.23,0.05,291.39,First Class,2020-07-02,22.22
+330,ORD11135,2023-03-12,Olivia Davis,South,Texas,Furniture,Chairs,Chairs 923,5,1670.94,0.12,192.0,First Class,2023-01-15,27.48
+331,ORD82910,2022-09-02,Alice Williams,South,Oregon,Furniture,Bookcases,Bookcases 728,2,72.71,0.19,-4.26,Standard Class,2024-09-17,9.74
+332,ORD11406,2018-05-10,Bob Brown,Westx,Washington,Office Supplies,Paper,Paper 678,5,2395.9,0.2,169.6,Second Class,2023-02-05,15.0
+333,ORD89805,2017-06-05,Jane Johnson,North,New York,Furniture,Chairs,Chairs 403,10,3325.65,0.0,463.78,First Class,2021-10-21,42.6
+334,ORD27211,2023-10-16,Charlie Jones,East,New York,Technology,Laptops,Laptops 204,9,2317.99,0.05,334.57,Same Day,2019-03-07,28.13
+335,ORD61622,2023-02-18,David Garcia,Central,California,Technology,Printers,Printers 760,6,2514.48,0.17,-70.62,Same Day,2020-06-19,18.76
+336,ORD90499,2015-07-03,Liam Martinez,South,Oregon,Technology,Printers,Printers 681,8,382.19,0.21,-37.15,Second Class,2022-03-03,5.93
+337,ORD28508,2023-12-24,John Smith,South,Illinois,Furniture,Tables,Tables 680,9,1894.39,0.21,130.93,Second Class,2015-08-13,34.49
+338,ORD24214,2023-07-13,Jane Johnson,South,New York,Office Supplies,Pens,Pens 533,8,2733.37,0.17,306.09,Same Day,2015-11-18,13.58
+339,ORD24747,2020-04-17,Emma Miller,South,California,Office Supplies,Pens,Pens 952,1,442.54,0.03,98.7,Standard Class,2018-09-24,15.48
+340,ORD56095,2018-05-18,David Garcia,East,New York,Office Supplies,Pens,Pens 500,9,2223.3,0.1,279.49,Standard Class,2017-09-17,16.16
+341,ORD97125,2024-05-27,Sophia Rodriguez,South,Arizona,Furniture,Bookcases,Bookcases 484,6,2993.86,0.22,65.15,Same Day,2023-03-11,18.21
+91,ORD25126,2024-11-17,Bob Brown,North,Florida,Office Supplies,Binders,Binders 234,2,62.61,0.44,-15.34,Standard Class,2023-05-23,46.59
+343,ORD22619,2017-09-02,Emma Miller,North,California,Furniture,Bookcases,Bookcases 122,10,1218.65,0.43,-310.71,Same Day,2020-11-21,26.26
+344,ORD94052,202-15-30,Bob Brown,North,Florida,Technology,Printers,Printers 349,4,1601.54,0.15,221.85,Standard Class,2019-10-16,15.85
+345,ORD40550,2024-04-27,John Smith,South,Illinois,Office Supplies,Paper,Paper 768,6,1637.32,0.14,247.76,Second Class,2024-11-11,43.03
+346,ORD88868,2018-12-02,Emma Miller,Central,California,Furniture,Bookcases,Bookcases 957,6,2243.36,0.09,462.57,First Class,2022-02-01,11.73
+347,ORD53285,2020-09-16,Liam Martinez,North,Illinois,Technology,Monitors,Monitors 776,10,520.87,0.43,-90.38,First Class,2021-12-19,15.85
+348,ORD33469,2024-07-23,Jane Johnson,East,Arizona,Technology,Monitors,Monitors 927,1,181.32,0.21,-9.31,Same Day,2015-04-25,17.41
+349,ORD52859,2024-03-01,Alice Williams,West,New York,Office Supplies,Pens,Pens 688,10,3827.96,0.02,945.81,First Class,2023-08-26,22.69
+350,ORD63466,2018-01-23,Sophia Rodriguez,East,Florida,Technology,Printers,Printers 937,6,588.5,0.49,-224.57,First Class,2020-02-10,47.94
+351,ORD37043,2015-03-12,John Smith,Central,Florida,Office Supplies,Paper,Paper 631,3,1189.29,0.09,171.0,Second Class,2018-08-12,18.18
+352,ORD92666,2017-08-22,Alice Williams,West,Texas,Office Supplies,Paper,Paper 935,7,1783.55,0.29,-82.59,Second Class,2015-08-04,42.04
+353,ORD69047,2019-11-21,Jane Johnson,West,Illinois,Office Supplies,Pens,Pens 109,7,3087.47,0.45,-499.33,Second Class,2016-10-03,20.12
+354,ORD76057,2020-09-27,Bob Brown,Central,Florida,Office Supplies,Binders,Binders 657,6,2663.35,0.17,161.07,Second Class,2021-06-26,48.21
+197,ORD68933,2019-08-14,Emma Miller,East,Florida,Office Supplies,Binders,Binders 752,7,665.41,0.06,89.58,Standard Class,2018-11-01,21.04
+356,ORD50301,2018-07-06,Olivia Davis,North,Washington,Office Supplies,Paper,Paper 493,3,1492.32,0.1,280.16,First Class,2020-07-20,19.93
+357,ORD54538,2020-12-16,Liam Martinez,East,Florida,Office Supplies,Pens,Pens 571,5,956.0,0.39,-161.03,First Class,2019-08-12,18.3
+358,ORD76993,2017-05-21,Alice Williams,South,Florida,Furniture,Bookcases,Bookcases 224,10,2181.06,0.06,419.51,Same Day,2016-11-02,49.62
+359,ORD85616,2020-12-17,John Smith,South,Arizona,Furniture,Tables,Tables 769,7,1356.88,0.45,-288.09,Second Class,2018-09-07,33.98
+360,ORD67282,2016-03-16,Bob Brown,West,Arizona,Furniture,Tables,Tables 333,8,3683.24,0.35,-485.25,Standard Class,2015-02-28,42.59
+361,ORD49852,2018-09-18,Bob Brown,North,New York,Office Supplies,Pens,Pens 713,10,3632.09,0.15,62.42,First Class,2020-10-25,20.61
+362,ORD83708,2017-08-06,Emma Miller,East,Texas,Technology,Laptops,Laptops 254,5,1195.45,0.19,-94.75,Same Day,2022-11-07,46.74
+363,ORD13585,2018-06-20,Liam Martinez,East,Florida,Office Supplies,Pens,Pens 524,4,1253.26,0.03,151.32,Same Day,2023-08-24,49.53
+364,ORD40649,2019-10-04,Bob Brown,South,Illinois,Furniture,Bookcases,Bookcases 842,9,3822.02,0.37,-930.42,Standard Class,2016-01-27,43.86
+365,ORD15853,2017-12-09,Alice Williams,South,Florida,Office Supplies,Pens,Pens 846,10,387.33,0.44,-107.5,First Class,2016-03-20,29.5
+366,ORD39525,2019-04-15,Emma Miller,South,Florida,Office Supplies,Binders,Binders 249,7,1105.17,0.43,-168.4,Second Class,2018-08-21,35.49
+367,ORD11770,2022-05-02,John Smith,South,New York,Office Supplies,Pens,Pens 823,4,1851.72,0.34,-433.33,Same Day,2023-07-26,45.61
+368,ORD28501,2016-07-12,Charlie Jones,East,Texas,Office Supplies,Paper,Paper 974,1,50.26,0.31,-8.61,Second Class,2021-04-01,18.14
+369,ORD44631,2015-06-16,Olivia Davis,North,Arizona,Office Supplies,Paper,Paper 973,5,690.18,0.5,-185.67,First Class,2024-04-22,44.41
+370,ORD98953,2016-09-15,Liam Martinez,East,Illinois,Office Supplies,Paper,Paper 626,3,425.2,0.46,-92.09,Standard Class,2023-11-01,46.65
+371,ORD71280,2015-05-18,John Smith,East,Illinois,Furniture,Bookcases,Bookcases 332,9,307.98,0.04,25.55,Same Day,2024-06-08,9.83
+372,ORD19261,2019-03-20,senoJ eilrahC,Central,New York,Technology,Laptops,Laptops 230,7,365.12,0.0,47.74,Standard Class,2021-04-26,34.4
+373,ORD22860,2021-09-24,Sophia Rodriguez,South,Illinois,Furniture,Bookcases,Bookcases 104,10,2194.55,0.11,-7.01,Standard Class,2016-11-04,23.62
+374,ORD18241,2019-07-16,Olivia Davis,Central,Florida,Technology,Printers,Printers 594,2,460.65,0.07,102.05,First Class,2015-03-16,45.05
+95,ORD61159,2015-01-09,Emma Miller,South,Oregon,Technology,Printers,Printers 800,8,1604.96,0.01,232.62,Standard Class,2015-01-12,32.09
+376,ORD43454,2017-06-01,Sophia Rodriguez,East,Illinois,Technology,Printers,Printers 740,6,2636.0,0.46,-925.44,Same Day,2021-08-15,48.31
+377,ORD79651,2019-08-03,Emma Miller,North,Oregon,Furniture,Tables,Tables 631,10,3457.14,0.04,716.09,Same Day,2018-02-06,11.9
+378,ORD69250,2016-09-27,Jane Johnson,North,Illinois,Technology,Laptops,Laptops 374,2,989.91,0.1,11.03,First Class,2020-10-14,48.59
+379,ORD25417,2023-03-05,Jane Johnson,Central,Oregon,Technology,Monitors,Monitors 631,7,554.06,0.27,-0.45,Second Class,2022-10-07,14.81
+380,ORD75422,2020-12-17,Liam Martinez,South,Washington,Office Supplies,Paper,Paper 900,5,2219.93,0.12,208.2,Standard Class,2021-03-05,10.44
+381,ORD73997,2021-06-03,Charlie Jones,South,Texas,Office Supplies,Paper,Paper 219,1,258.68,0.15,20.52,Second Class,2021-02-11,23.42
+382,ORD37417,2024-12-28,Bob Brown,North,Arizona,Technology,Laptops,Laptops 589,9,3621.77,0.07,479.3,Same Day,2016-10-21,39.32
+383,ORD11116,2021-07-10,Alice Williams,North,Arizona,Office Supplies,Pens,Pens 566,6,148.97,0.26,-22.85,Standard Class,2023-12-17,26.27
+384,ORD59345,2021-06-14,David Garcia,East,Illinois,Furniture,Bookcases,Bookcases 533,2,297.98,0.43,-62.63,Standard Class,2023-04-15,45.08
+385,ORD88525,2018-01-13,John Smith,South,Illinois,Furniture,Bookcases,Bookcases 236,2,117.33,0.46,-36.99,Same Day,2023-07-16,11.93
+386,ORD38393,2015-12-24,Bob Brown,North,Texas,Office Supplies,Paper,Paper 110,4,1182.24,0.14,33.39,Same Day,2021-03-14,5.83
+387,ORD70009,2015-08-06,Alice Williams,West,Oregon,Technology,Monitors,Monitors 851,1,227.39,0.11,26.95,First Class,2022-11-08,15.92
+388,ORD23535,2020-07-09,David Garcia,West,Arizona,Office Supplies,Binders,Binders 397,6,1479.31,0.04,98.92,First Class,2022-05-05,48.78
+389,ORD94251,2024-10-18,Alice Williams,East,New York,Technology,Monitors,Monitors 677,5,767.56,0.36,-109.81,First Class,2020-08-21,10.86
+390,ORD97286,2016-01-20,Liam Martinez,West,Texas,Furniture,Tables,Tables 155,8,3872.27,0.33,-431.95,Same Day,2024-05-27,12.25
+391,ORD90124,2019-10-15,David Garcia,East,Arizona,Furniture,Chairs,Chairs 996,7,2360.73,0.25,112.31,First Class,2023-06-21,48.44
+392,ORD73395,2020-02-01,Jane Johnson,West,Texas,Technology,Monitors,Monitors 845,8,2766.82,0.12,246.63,Standard Class,2022-07-22,9.46
+393,ORD63659,2019-03-18,Olivia Davis,East,Illinois,Furniture,Chairs,Chairs 733,3,940.26,0.37,-182.72,Standard Class,2017-09-15,10.0
+394,ORD74275,2021-09-04,Liam Martinez,Central,Illinois,Furniture,Tables,Tables 750,8,2361.71,0.42,-340.24,Standard Class,2021-01-19,29.08
+395,ORD85521,2019-05-20,Jane Johnson,Central,Washington,Office Supplies,Pens,Pens 424,3,1078.97,0.07,105.49,First Class,2019-09-09,23.88
+396,ORD31534,2019-04-01,David Garcia,Central,Texas,Furniture,Tables,Tables 124,7,1217.57,0.41,-296.58,Standard Class,2015-08-24,18.65
+397,ORD74832,2022-09-06,Emma Miller,South,Florida,Office Supplies,Paper,Paper 653,5,1778.53,0.46,-625.83,First Class,2019-08-24,32.01
+398,ORD18625,2021-02-16,Emma Miller,North,Arizona,Technology,Monitors,Monitors 645,1,460.37,0.5,-116.19,Second Class,2021-01-12,7.62
+399,ORD54063,2023-05-24,Bob Brown,North,Florida,Office Supplies,Binders,Binders 913,8,2610.93,0.36,-541.97,Same Day,2021-05-09,48.49
+400,ORD47880,2015-02-25,Charlie Jones,Central,Illinois,Technology,Monitors,Monitors 765,1,48.03,0.49,-18.2,Same Day,2021-03-27,37.8
+401,ORD76881,2022-09-17,John Smith,North,Florida,Furniture,Chairs,Chairs 214,9,2942.49,0.35,-386.07,First Class,2020-10-28,39.05
+402,ORD50544,2021-07-10,Jane Johnson,West,Washington,Furniture,Chairs,Chairs 291,1,256.83,0.47,-56.91,Second Class,2017-09-28,33.31
+403,ORD63427,2020-02-10,John Smith,East,California,Furniture,Bookcases,Bookcases 762,8,2314.63,0.39,-369.91,Same Day,2016-01-22,16.03
+404,ORD57030,2016-06-24,Alice Williams,North,Oregon,,Chairs,Chairs 853,6,2962.39,0.35,-541.84,Second Class,2023-02-06,14.23
+405,ORD88316,2021-06-09,Olivia Davis,Central,Florida,Office Supplies,Paper,Paper 725,7,731.8,0.43,-204.65,Same Day,2019-04-01,15.15
+406,ORD77198,2019-07-11,Emma Miller,West,Washington,Furniture,Tables,Tables 272,4,1873.24,0.49,-620.27,Standard Class,2019-01-22,33.34
+407,ORD89096,2015-05-28,Bob Brown,North,Texas,Office Supplies,Pens,Pens 409,9,3994.16,0.39,-1138.59,Same Day,2023-03-17,32.29
+408,ORD41736,2021-09-16,Alice Williams,South,Oregon,Technology,Printers,Printers 576,4,1272.73,0.16,-13.21,Second Class,2022-02-21,27.25
+409,ORD83538,2017-05-03,Bob Brown,South,Texas,Furniture,Bookcases,Bookcases 732,7,1335.22,0.05,235.08,Second Class,2015-01-02,33.52
+410,ORD46682,2021-09-07,Emma Miller,Central,Texas,Furniture,Tables,Tables 273,6,1417.62,0.43,-338.23,Second Class,2021-08-06,16.58
+411,ORD29305,2021-10-02,Alice Williams,South,Arizona,Technology,Printers,Printers 593,9,4231.87,0.25,2.79,Same Day,2015-02-21,48.51
+412,ORD52697,2015-05-08,Olivia Davis,Central,Texas,Office Supplies,Paper,Paper 105,10,1025.2,0.23,19.31,Second Class,2017-03-18,47.56
+277,ORD14568,2015-08-12,Jane Johnson,East,Washington,Technology,Laptops,Laptops 534,4,1722.96,0.14,245.4,Standard Class,2023-09-08,21.34
+414,ORD14040,2018-09-23,Emma Miller,North,Texas,,Bookcases,Bookcases 771,2,873.58,0.49,-335.08,Standard Class,2024-10-10,14.36
+415,ORD81899,2018-02-16,Bob Brown,West,California,Furniture,Chairs,Chairs 373,2,912.66,0.27,-101.23,Second Class,2023-10-03,16.81
+416,ORD79144,2016-07-03,Charlie Jones,West,Arizona,Office Supplies,Pens,Pens 357,5,393.75,0.08,62.29,Second Class,2023-10-26,35.79
+417,ORD41025,2021-12-04,Charlie Jones,Central,Illinois,Technology,Printers,Printers 275,2,728.61,0.08,113.22,Standard Class,2017-11-02,35.83
+418,ORD43669,2024-01-20,Charlie Jones,Westy,Illinois,Technology,Laptops,Laptops 551,8,1975.39,0.39,-300.85,Second Class,2018-03-12,46.67
+419,ORD71186,2021-08-26,John Smith,South,Texas,Technology,Laptops,Laptops 526,1,200.5,0.24,-9.77,First Class,2023-10-13,31.94
+420,ORD16667,2022-07-19,Alice Williams,North,Texas,Office Supplies,Pens,Pens 668,8,2777.1,0.4,-783.22,Second Class,2021-05-27,19.76
+421,ORD20115,2018-05-05,John Smith,North,Washington,Office Supplies,Pens,Pens 462,3,1303.1,0.48,-240.1,Same Day,2019-11-19,28.9
+422,ORD78802,2023-06-05,Charlie Jones,East,Arizona,Technology,Laptops,Laptops 696,6,1447.24,0.09,251.04,Second Class,2018-08-26,14.86
+423,ORD77896,2015-08-10,Charlie Jones,Central,Illinois,Technology,Laptops,Laptops 798,1,22.38,0.36,-2.05,Second Class,2020-06-10,41.44
+424,ORD19749,2017-09-20,Alice Williams,South,Oregon,Technology,Printers,Printers 982,7,1065.4,0.03,211.13,Same Day,2023-05-22,11.31
+425,ORD37320,2019-03-28,John Smith,East,Oregon,Office Supplies,Binders,Binders 699,10,1921.46,0.17,241.01,Second Class,2024-05-27,47.46
+426,ORD10366,2018-03-14,Olivia Davis,South,New York,Furniture,Chairs,Chairs 446,10,2761.99,0.45,-435.74,Same Day,2016-05-03,36.85
+427,ORD51586,2023-08-05,Alice Williams,East,Illinois,Technology,Laptops,Laptops 522,10,3154.06,0.06,479.37,Same Day,2018-05-12,24.54
+428,ORD16132,2017-02-19,Alice Williams,North,New York,Furniture,Chairs,Chairs 295,2,667.85,0.38,-183.96,Second Class,2016-03-03,6.14
+429,ORD68880,2019-03-25,Emma Miller,Central,Arizona,Technology,Printers,Printers 274,5,1707.51,0.26,-146.94,Standard Class,2016-10-23,29.0
+430,ORD89625,2015-03-23,Liam Martinez,Central,Illinois,Furniture,Bookcases,Bookcases 256,6,638.47,0.07,62.75,Same Day,2022-07-15,32.58
+431,ORD25178,2017-07-09,Alice Williams,South,Florida,Office Supplies,Binders,Binders 839,2,670.77,0.1,132.78,Second Class,2019-05-13,19.81
+387,ORD70009,2015-08-06,Alice Williams,West,Oregon,Technology,Monitors,Monitors 851,1,227.39,0.11,26.95,First Class,2022-11-08,15.92
+433,ORD71269,2017-08-07,Sophia Rodriguez,East,Illinois,Office Supplies,Paper,Paper 399,6,2665.26,0.29,-4.59,First Class,2021-07-13,8.32
+164,ORD84943,2017-11-03,Olivia Davis,West,Oregon,Technology,Printers,Printers 640,5,261.83,0.13,2.23,Standard Class,2022-10-07,7.51
+435,ORD65248,2020-08-03,Olivia Davis,South,Oregon,,Monitors,Monitors 668,4,1237.86,0.22,-73.23,First Class,2021-03-12,40.84
+436,ORD30722,2017-09-14,Charlie Jones,East,New York,Office Supplies,Paper,Paper 424,3,322.88,0.07,43.19,Second Class,2016-12-07,30.02
+437,ORD17089,2023-04-25,Bob Brown,West,Florida,Furniture,Chairs,Chairs 965,1,132.84,0.19,13.63,Second Class,2017-06-24,37.76
+438,ORD96982,2024-04-27,David Garcia,East,Arizona,Furniture,Tables,Tables 267,8,1517.78,0.14,162.89,Same Day,2024-01-17,29.66
+439,ORD50385,2022-02-16,Alice Williams,North,New York,Furniture,Chairs,Chairs 337,8,2427.5,0.1,391.63,Second Class,2017-06-11,15.45
+440,ORD73019,2016-03-01,senoJ eilrahC,East,Texas,Office Supplies,Binders,Binders 108,4,1318.04,0.3,-232.2,First Class,2020-07-04,49.72
+441,ORD29576,2019-09-08,Bob Brown,North,Texas,Office Supplies,Binders,Binders 831,3,1167.83,0.44,-367.67,Standard Class,2021-11-16,22.68
+442,ORD31970,2015-09-09,Jane Johnson,Central,New York,Office Supplies,Pens,Pens 491,5,2215.32,0.11,92.67,Same Day,2019-09-19,37.17
+443,ORD90216,2020-03-21,Liam Martinez,East,Illinois,Furniture,Bookcases,Bookcases 996,5,1158.3,0.0,198.5,Second Class,2018-05-22,13.14
+444,ORD52735,2024-01-06,Liam Martinez,West,Illinois,Technology,Printers,Printers 467,6,1286.07,0.46,-216.34,First Class,2020-10-28,24.98
+445,ORD71931,2015-11-21,Charlie Jones,Central,Texas,Furniture,Chairs,Chairs 192,3,294.66,0.15,15.02,Second Class,2016-11-01,32.49
+446,ORD59014,2021-08-08,Charlie Jones,Central,Washington,Furniture,Tables,Tables 973,10,720.61,0.16,61.01,Same Day,2020-06-02,10.18
+447,ORD20255,2024-12-27,Alice Williams,East,New York,,Chairs,Chairs 447,2,267.85,0.39,-67.19,Standard Class,2019-03-13,27.36
+448,ORD41596,2021-06-16,John Smith,East,Illinois,Furniture,Tables,Tables 450,3,593.87,0.16,-8.53,Standard Class,2020-11-04,23.88
+449,ORD65914,2017-08-15,Sophia Rodriguez,Central,Illinois,Technology,Monitors,Monitors 517,7,78.76,0.5,-30.45,First Class,2017-02-19,26.31
+450,ORD60284,2023-02-07,Olivia Davis,North,Washington,Technology,Laptops,Laptops 947,8,3689.57,0.1,275.74,First Class,2018-02-01,13.84
+451,ORD44418,2022-10-16,John Smith,West,Washington,Office Supplies,Pens,Pens 975,3,842.22,0.08,79.67,Standard Class,2015-08-05,43.24
+452,ORD94954,2023-07-22,Jane Johnson,East,New York,Technology,Monitors,Monitors 902,9,1653.4,0.14,107.28,Standard Class,2020-12-03,42.92
+453,ORD51862,2020-06-05,Sophia Rodriguez,North,Oregon,Furniture,Chairs,Chairs 667,1,472.25,0.35,-107.77,Second Class,2021-05-14,19.27
+454,ORD76261,2020-07-06,Alice Williams,Central,Arizona,Furniture,Tables,Tables 134,3,785.44,0.46,-173.74,Second Class,2017-05-21,28.67
+455,ORD90070,2016-01-21,Emma Miller,North,Florida,Technology,Laptops,Laptops 489,1,492.13,0.15,4.36,First Class,2022-11-11,40.21
+456,ORD18441,2024-02-21,Charlie Jones,Central,Texas,Technology,Laptops,Laptops 570,8,1417.15,0.14,0.64,First Class,2017-10-01,15.45
+457,ORD64457,2017-12-05,Olivia Davis,East,Oregon,Furniture,Chairs,Chairs 736,10,813.73,0.45,-187.48,Standard Class,2020-09-26,19.88
+458,ORD56210,2024-03-18,Bob Brown,East,Arizona,Office Supplies,Pens,Pens 865,9,3093.55,0.39,-710.01,Standard Class,2021-04-26,10.57
+459,ORD43023,2015-11-10,Bob Brown,Central,Washington,Technology,Printers,Printers 516,8,888.44,0.17,98.97,Standard Class,2020-08-09,41.95
+460,ORD54517,2019-12-25,Charlie Jones,Central,Illinois,Technology,Monitors,Monitors 205,10,4872.42,0.11,909.15,Same Day,2017-07-09,49.33
+461,ORD17022,2017-01-15,Olivia Davis,West,Florida,Office Supplies,Pens,Pens 662,10,194.62,0.36,-46.87,Standard Class,2024-03-28,35.63
+462,ORD98531,2022-12-04,John Smith,North,Washington,Technology,Laptops,Laptops 490,8,2727.35,0.45,-507.37,Second Class,2022-11-02,41.91
+463,ORD60166,2015-03-19,Olivia Davis,West,Oregon,Furniture,Chairs,Chairs 321,8,3111.41,0.1,423.78,Second Class,2023-03-08,40.65
+464,ORD51092,2020-11-11,Bob Brown,East,California,Technology,Monitors,Monitors 215,10,4213.05,0.2,-339.81,First Class,2021-03-03,18.86
+465,ORD22962,2020-11-15,Sophia Rodriguez,East,Washington,Furniture,Chairs,Chairs 747,8,2341.78,0.23,-177.14,First Class,2016-04-05,5.67
+466,ORD15988,2017-01-15,Sophia Rodriguez,North,Oregon,Furniture,Bookcases,Bookcases 357,9,4353.82,0.11,54.83,Standard Class,2023-11-06,22.09
+467,ORD19377,2016-01-22,Sophia Rodriguez,West,New York,Technology,Laptops,Laptops 680,8,129.79,0.12,8.99,Second Class,2020-03-01,6.26
+468,ORD65240,2018-10-02,Emma Miller,South,California,Office Supplies,Pens,Pens 759,3,51.74,0.4,-6.25,Standard Class,2016-01-04,32.94
+469,ORD27773,2015-04-13,Jane Johnson,East,Texas,Furniture,Tables,Tables 550,6,2788.69,0.3,-181.11,Same Day,2018-10-14,7.43
+470,ORD18312,2020-02-09,David Garcia,Central,Florida,Furniture,Tables,Tables 207,7,898.27,0.31,-20.3,Second Class,2017-11-02,23.07
+471,ORD46867,2024-04-07,Alice Williams,South,Texas,Technology,Monitors,Monitors 972,2,684.02,0.25,-70.25,Second Class,2022-01-12,45.85
+472,ORD51043,2020-05-01,Bob Brown,West,Florida,Office Supplies,Pens,Pens 873,2,864.35,0.29,-132.37,Standard Class,2017-10-24,31.79
+473,ORD93468,2019-04-27,Charlie Jones,South,Arizona,Office Supplies,Paper,Paper 774,3,1148.65,0.16,89.67,Standard Class,2023-11-16,45.83
+474,ORD37558,2018-01-20,Sophia Rodriguez,Central,Oregon,Furniture,Chairs,Chairs 757,5,1856.5,0.44,-511.46,Second Class,2020-11-15,24.95
+475,ORD68460,2024-11-04,Bob Brown,North,California,Furniture,Chairs,Chairs 767,9,3748.56,0.11,54.65,Standard Class,2016-03-07,43.91
+476,ORD41576,2024-10-10,Charlie Jones,South,Florida,Technology,Printers,Printers 183,4,877.52,0.42,-209.2,Standard Class,2022-01-20,44.37
+477,ORD17786,2023-12-07,Alice Williams,North,Florida,Furniture,Bookcases,Bookcases 329,9,3203.89,0.12,213.96,First Class,2016-08-22,12.64
+66,ORD24551,2015-05-03,Alice Williams,West,Washington,Furniture,Bookcases,Bookcases 649,8,1790.78,0.16,145.5,First Class,2018-06-21,37.5
+479,ORD88732,2018-07-21,Emma Miller,North,Florida,Office Supplies,Binders,Binders 327,6,394.86,0.03,104.94,Standard Class,2017-05-12,12.05
+480,ORD38049,2015-09-12,Olivia Davis,East,Washington,Office Supplies,Pens,Pens 287,2,274.69,0.05,56.23,Standard Class,2018-09-15,19.84
+481,ORD44599,2017-12-02,John Smith,West,Illinois,Technology,Laptops,Laptops 609,1,291.08,0.33,-37.28,Standard Class,2015-03-11,21.87
+482,ORD83351,2016-01-08,Olivia Davis,North,Arizona,Furniture,Chairs,Chairs 521,10,436.48,0.24,-41.1,Second Class,2024-04-07,42.32
+107,ORD65959,202-15-30,Jane Johnson,Central,Illinois,Furniture,Bookcases,Bookcases 987,3,402.37,0.44,-119.6,First Class,2020-08-26,38.08
+484,ORD40400,2023-06-04,Olivia Davis,South,Florida,Technology,Monitors,Monitors 435,2,252.01,0.47,-64.35,First Class,2015-01-03,30.76
+485,ORD18088,2018-01-21,Alice Williams,East,New York,Furniture,Chairs,Chairs 538,3,194.98,0.08,40.94,Same Day,2015-09-06,43.16
+486,ORD43398,2022-07-18,John Smith,North,Illinois,Office Supplies,Binders,Binders 270,4,1612.27,0.05,147.36,Second Class,2019-04-06,49.55
+487,ORD52540,2021-10-15,Olivia Davis,West,New York,Technology,Laptops,Laptops 371,8,2968.0,0.48,-740.63,Standard Class,2018-09-20,47.82
+488,ORD27764,2017-06-04,Alice Williams,South,Arizona,Office Supplies,Paper,Paper 247,8,914.06,0.29,-126.38,First Class,2020-04-18,46.61
+489,ORD60248,2018-03-17,Liam Martinez,North,Arizona,Technology,Monitors,Monitors 868,4,174.72,0.28,-7.21,Second Class,2023-08-10,32.47
+490,ORD30573,2022-12-15,Olivia Davis,West,New York,Technology,Monitors,Monitors 403,2,137.21,0.19,3.67,Second Class,2024-03-02,38.08
+491,ORD18599,2019-01-06,Sophia Rodriguez,Northx,Arizona,Technology,Laptops,Laptops 525,9,2922.43,0.11,524.57,Same Day,2015-11-27,42.64
+492,ORD80235,2019-10-19,Bob Brown,East,Oregon,Technology,Printers,Printers 326,7,559.51,0.43,-87.04,Same Day,2017-04-02,42.92
+493,ORD59229,2023-05-19,Liam Martinez,West,New York,Furniture,Tables,Tables 127,9,2708.48,0.06,195.71,First Class,2022-06-05,10.34
+494,ORD88220,2024-09-16,Sophia Rodriguez,North,Arizona,Office Supplies,Paper,Paper 232,4,835.93,0.19,-74.84,Standard Class,2022-05-02,8.19
+495,ORD34273,2022-04-13,Emma Miller,East,Texas,Technology,Laptops,Laptops 586,5,956.77,0.46,-277.59,Same Day,2023-01-08,7.18
+496,ORD77353,2024-10-20,Bob Brown,East,Texas,Furniture,Chairs,Chairs 891,8,3319.44,0.31,-34.56,Same Day,2019-06-11,15.93
+497,ORD60078,2018-05-15,Emma Miller,Central,Florida,Technology,Monitors,Monitors 137,2,354.63,0.34,-53.07,First Class,2016-03-10,13.26
+498,ORD71659,2020-01-19,Bob Brown,Central,Washington,Office Supplies,Binders,Binders 651,2,300.23,0.29,-38.74,Same Day,2020-10-20,48.15
+499,ORD85974,2022-12-05,Olivia Davis,East,Texas,Furniture,Tables,Tables 517,8,2166.4,0.08,437.42,Same Day,2018-02-26,11.74
+500,ORD90839,2022-02-03,Charlie Jones,West,New York,Technology,Laptops,Laptops 896,8,2811.59,0.47,-849.84,Second Class,2020-01-07,43.12
+501,ORD77105,2023-09-28,John Smith,South,Texas,Technology,Monitors,Monitors 462,8,2212.03,0.34,-102.21,Standard Class,2016-02-09,15.66
+502,ORD57234,2021-09-20,Olivia Davis,West,Oregon,Technology,Printers,Printers 445,10,1021.82,0.04,260.96,Second Class,2022-10-18,38.19
+503,ORD54629,2023-09-18,Alice Williams,Central,Florida,Office Supplies,Pens,Pens 441,2,215.73,0.47,-66.3,First Class,2017-08-08,46.76
+504,ORD85423,2022-04-08,Jane Johnson,North,Arizona,Technology,Laptops,Laptops 820,7,2853.83,0.17,-36.63,First Class,2020-04-24,11.75
+505,ORD38326,2022-10-03,Alice Williams,South,California,Furniture,Chairs,Chairs 491,8,479.69,0.02,89.1,First Class,2017-03-09,23.37
+506,ORD73745,2023-08-14,Olivia Davis,West,Florida,Technology,Printers,Printers 109,5,2108.99,0.34,-382.93,Second Class,2018-01-22,27.23
+507,ORD65308,2018-03-01,David Garcia,Central,California,Furniture,Bookcases,Bookcases 723,5,1746.3,0.31,-363.59,Same Day,2019-04-07,16.46
+508,ORD81825,2021-09-26,Sophia Rodriguez,South,California,Technology,Printers,Printers 257,7,1644.41,0.28,-19.41,First Class,2022-05-19,49.11
+361,ORD49852,2018-09-18,Bob Brown,North,New York,Office Supplies,Pens,Pens 713,10,3632.09,0.15,62.42,First Class,2020-10-25,20.61
+510,ORD68289,2015-01-07,Olivia Davis,West,California,Office Supplies,Pens,Pens 589,9,720.48,0.16,88.44,Second Class,2020-08-09,46.27
+511,ORD93687,2018-09-12,Liam Martinez,Central,Washington,Technology,Laptops,Laptops 941,4,1110.92,0.2,-6.75,Second Class,2016-07-21,28.63
+512,ORD48327,2020-03-26,Olivia Davis,East,California,Office Supplies,Paper,Paper 446,5,2392.4,0.35,-138.93,Standard Class,2018-12-25,33.51
+513,ORD13011,2021-06-17,John Smith,East,California,Technology,Laptops,Laptops 561,2,341.59,0.07,56.86,Second Class,2023-09-01,9.62
+514,ORD67389,2022-05-27,David Garcia,South,Oregon,Office Supplies,Paper,Paper 527,7,3110.49,0.12,369.92,Second Class,2020-11-14,12.05
+515,ORD80522,2020-02-05,Jane Johnson,East,Washington,Technology,Monitors,Monitors 927,6,871.57,0.2,-79.94,Second Class,2015-05-05,30.86
+516,ORD65811,2020-02-15,Sophia Rodriguez,West,Oregon,Technology,Printers,Printers 399,4,1258.44,0.06,91.69,Standard Class,2019-02-16,9.13
+517,ORD24490,2018-11-23,Liam Martinez,East,Illinois,Office Supplies,Paper,Paper 162,1,150.26,0.05,25.59,Second Class,2021-11-27,13.17
+518,ORD30709,2024-06-10,David Garcia,Central,Oregon,Furniture,Tables,Tables 436,2,323.09,0.26,-42.71,First Class,2022-06-22,49.57
+519,ORD23776,2022-07-13,Olivia Davis,South,Washington,Office Supplies,Paper,Paper 750,3,423.54,0.23,-25.55,First Class,2021-04-06,43.1
+520,ORD21011,2021-11-01,Sophia Rodriguez,South,New York,Technology,Laptops,Laptops 503,6,1402.71,0.04,137.97,Same Day,2018-07-02,34.27
+521,ORD33486,2019-07-14,Bob Brown,East,Oregon,Office Supplies,Binders,Binders 432,1,298.04,0.07,33.13,Same Day,2024-01-23,7.8
+522,ORD36576,2015-02-19,Olivia Davis,North,Washington,Technology,Printers,Printers 841,8,1021.88,0.27,26.59,Same Day,2024-09-20,49.76
+523,ORD89427,2024-07-21,Bob Brown,North,Arizona,Technology,Printers,Printers 984,5,1197.34,0.02,211.39,Same Day,2021-11-28,13.16
+524,ORD48866,2024-07-15,David Garcia,South,Texas,Technology,Printers,Printers 551,7,386.88,0.36,-68.87,First Class,2021-05-20,35.84
+525,ORD44167,2024-06-21,Alice Williams,West,California,Office Supplies,Paper,Paper 723,10,521.07,0.47,-147.6,Same Day,2018-05-11,11.63
+526,ORD94538,2022-04-28,Emma Miller,East,Oregon,Furniture,Bookcases,Bookcases 764,5,711.63,0.27,-98.16,Second Class,2018-03-10,5.06
+527,ORD26180,2015-07-14,Bob Brown,West,Oregon,Office Supplies,Binders,Binders 382,6,1804.93,0.01,224.24,Second Class,2022-08-03,25.62
+528,ORD50205,2016-07-09,Emma Miller,West,Illinois,Office Supplies,Pens,Pens 728,7,2313.22,0.26,-278.07,Standard Class,2023-04-27,20.95
+529,ORD13270,2015-03-25,Olivia Davis,Central,Washington,Furniture,Bookcases,Bookcases 334,7,1509.84,0.49,-345.72,First Class,2022-08-19,23.51
+530,ORD99335,2020-05-11,Emma Miller,West,California,Furniture,Tables,Tables 976,9,1524.8,0.28,-68.29,Standard Class,2022-04-25,7.91
+531,ORD96013,2018-04-18,Jane Johnson,Central,Washington,Office Supplies,Paper,Paper 424,7,3176.6,0.38,-383.18,Second Class,2016-11-26,46.2
+532,ORD63924,2022-08-08,Liam Martinez,South,Arizona,Furniture,Chairs,Chairs 236,2,645.4,0.19,-23.55,First Class,2023-03-06,13.93
+533,ORD45154,2016-04-24,Emma Miller,West,Arizona,Furniture,Bookcases,Bookcases 410,5,2221.87,0.06,135.3,Same Day,2021-09-24,31.34
+534,ORD15976,2020-10-26,David Garcia,South,Arizona,Office Supplies,Binders,Binders 794,1,69.4,0.16,8.25,Same Day,2017-11-18,28.61
+535,ORD36417,2020-12-28,Alice Williams,Central,California,Office Supplies,Binders,Binders 345,8,3747.97,0.41,-720.3,First Class,2017-03-01,9.64
+536,ORD29082,2022-05-27,Bob Brown,North,Illinois,Furniture,Bookcases,Bookcases 825,7,1222.5,0.15,157.68,Second Class,2017-07-22,27.93
+537,ORD96320,2019-06-08,John Smith,West,Illinois,Office Supplies,Paper,Paper 204,6,68.5,0.15,9.64,First Class,2015-03-14,13.58
+538,ORD84026,2016-05-09,Liam Martinez,Central,Washington,Technology,Printers,Printers 840,1,321.75,0.23,12.07,Same Day,2023-05-17,10.56
+539,ORD76057,2024-12-06,Olivia Davis,North,Texas,Office Supplies,Binders,Binders 190,5,1187.81,0.36,-297.44,Standard Class,2015-02-05,47.06
+540,ORD17404,2015-12-19,Jane Johnson,West,New York,Furniture,Tables,Tables 201,10,4893.78,0.33,-754.83,Second Class,2016-12-10,47.73
+541,ORD64414,2024-11-21,Emma Miller,Central,Arizona,Technology,Monitors,Monitors 672,7,2982.01,0.28,-100.68,Same Day,2019-02-22,16.05
+542,ORD72537,2015-09-09,Charlie Jones,North,Florida,Furniture,Chairs,Chairs 938,2,724.53,0.49,-139.23,First Class,2019-08-09,23.07
+543,ORD65436,2023-09-15,Sophia Rodriguez,Central,California,Technology,Monitors,Monitors 193,5,598.17,0.16,37.96,Same Day,2023-10-25,44.85
+544,ORD66668,2015-11-28,Liam Martinez,South,Arizona,Technology,Monitors,Monitors 156,1,133.08,0.17,16.4,First Class,2024-04-16,46.22
+545,ORD87051,2017-06-19,Bob Brown,West,Washington,Office Supplies,Pens,Pens 335,3,189.08,0.29,-28.4,Same Day,2018-05-03,25.79
+546,ORD21456,2016-08-20,Sophia Rodriguez,Central,Illinois,Furniture,Chairs,Chairs 168,6,1088.99,0.38,-90.73,First Class,2015-12-22,49.23
+547,ORD64514,2016-12-07,John Smith,West,Texas,Furniture,Chairs,Chairs 798,2,25.7,0.06,1.23,Second Class,2021-10-01,28.05
+381,ORD73997,2021-06-03,Charlie Jones,South,Texas,Office Supplies,Paper,Paper 219,1,258.68,0.15,20.52,Second Class,2021-02-11,23.42
+549,ORD48594,2016-10-24,John Smith,East,Texas,Technology,Printers,Printers 569,4,1867.15,0.15,43.45,First Class,2017-08-21,42.45
+5,ORD99641,2023-10-08,Liam Martinez,North,California,Furniture,Chairs,Chairs 318,4,166.81,0.14,-2.78,Second Class,2023-09-20,9.26
+379,ORD25417,2023-03-05,Jane Johnson,Central,Oregon,Technology,Monitors,Monitors 631,7,554.06,0.27,-0.45,Second Class,2022-10-07,14.81
+552,ORD95373,2022-05-07,John Smith,East,Texas,Technology,Monitors,Monitors 209,7,1058.96,0.2,44.2,Standard Class,2016-02-28,40.48
+553,ORD47103,2018-05-03,Bob Brown,East,Texas,Technology,Monitors,Monitors 718,6,2896.75,0.26,-211.34,Second Class,2020-08-26,30.37
+554,ORD24728,2017-10-24,Liam Martinez,South,New York,Technology,Laptops,Laptops 270,6,2336.82,0.28,-271.29,Same Day,2023-10-13,45.92
+555,ORD96395,2018-08-11,Bob Brown,Central,Texas,Office Supplies,Binders,Binders 502,9,3781.96,0.24,-57.22,Second Class,2015-06-28,45.54
+556,ORD84033,2015-04-02,Jane Johnson,North,New York,Technology,Monitors,Monitors 730,10,226.7,0.03,55.56,Same Day,2018-03-28,36.11
+557,ORD41100,2022-03-13,Bob Brown,East,Washington,Technology,Monitors,Monitors 511,7,2945.07,0.5,-671.17,Second Class,2020-05-27,28.4
+558,ORD58675,2019-11-26,David Garcia,North,California,Furniture,Chairs,Chairs 669,10,2299.47,0.26,-133.61,Standard Class,2020-06-19,47.35
+559,ORD69645,2024-07-14,Bob Brown,East,California,Office Supplies,Paper,Paper 603,2,545.08,0.45,-118.52,Same Day,2019-03-10,12.92
+560,ORD33469,2024-09-01,David Garcia,East,Washington,Office Supplies,Paper,Paper 629,10,4914.15,0.41,-1510.13,Standard Class,2020-03-02,12.48
+561,ORD29940,2018-09-03,Emma Miller,South,California,Office Supplies,Pens,Pens 730,1,371.85,0.09,35.35,First Class,2017-02-14,37.21
+562,ORD92328,2024-04-17,Alice Williams,North,Arizona,Technology,Printers,Printers 270,2,555.3,0.17,49.79,First Class,2016-11-02,37.69
+563,ORD58026,2024-05-27,Liam Martinez,North,Florida,Technology,Laptops,Laptops 992,6,1672.76,0.47,-375.77,Same Day,2023-01-26,30.67
+564,ORD84735,2015-06-04,Emma Miller,West,Florida,Office Supplies,Paper,Paper 896,2,217.04,0.2,17.56,Second Class,2024-06-25,47.12
+565,ORD11862,2020-10-07,Liam Martinez,North,New York,Furniture,Bookcases,Bookcases 411,3,201.8,0.31,-10.04,Second Class,2022-01-25,24.02
+566,ORD62735,2024-02-22,Jane Johnson,Central,California,Furniture,Tables,Tables 906,5,2086.35,0.39,-225.78,Standard Class,2020-11-23,8.27
+567,ORD57881,2016-10-03,Olivia Davis,West,California,Furniture,Bookcases,Bookcases 863,7,1704.55,0.26,-237.26,First Class,2024-03-16,16.0
+568,ORD99799,2018-02-04,John Smith,North,Oregon,Technology,Laptops,Laptops 525,2,172.72,0.5,-45.11,Standard Class,2020-11-18,9.06
+569,ORD52615,2020-07-05,John Smith,Central,Florida,Furniture,Tables,Tables 100,1,463.45,0.28,-23.35,Second Class,2023-06-10,17.65
+570,ORD89785,202-15-30,David Garcia,East,New York,Office Supplies,Binders,Binders 378,8,1795.37,0.24,-191.88,First Class,2015-08-08,31.62
+571,ORD42929,2023-09-14,David Garcia,East,Washington,Office Supplies,Binders,Binders 570,2,780.02,0.27,-32.56,Second Class,2023-06-20,27.21
+572,ORD76823,2015-10-14,Olivia Davis,North,Arizona,Office Supplies,Binders,Binders 845,7,2701.6,0.47,-641.07,Standard Class,2017-05-12,19.23
+573,ORD77623,2023-12-17,Jane Johnson,Central,Arizona,Technology,Laptops,Laptops 287,3,1408.4,0.24,58.62,Same Day,2015-06-03,39.91
+574,ORD32630,2018-04-18,Bob Brown,East,Illinois,Furniture,Bookcases,Bookcases 154,7,1326.56,0.01,222.48,Standard Class,2021-06-22,43.94
+575,ORD73156,2021-03-01,Jane Johnson,South,Illinois,Office Supplies,Pens,Pens 550,1,412.9,0.01,80.91,Same Day,2019-02-07,41.47
+576,ORD87822,2019-03-08,Sophia Rodriguez,Central,New York,Furniture,Bookcases,Bookcases 703,2,82.27,0.2,-0.78,Second Class,2023-03-03,5.99
+577,ORD80954,2018-02-08,David Garcia,Central,California,Technology,Laptops,Laptops 855,9,2206.77,0.31,-281.58,Standard Class,2019-05-06,41.78
+578,ORD77619,2017-10-01,Charlie Jones,West,Florida,Furniture,Bookcases,Bookcases 342,3,574.99,0.01,109.68,First Class,2024-08-07,9.23
+579,ORD98899,2017-05-02,John Smith,Central,Illinois,Office Supplies,Pens,Pens 887,7,1252.51,0.12,190.34,Second Class,2023-11-06,27.17
+580,ORD41327,2016-05-11,Alice Williams,West,Florida,,Monitors,Monitors 481,6,1079.42,0.4,-226.16,Second Class,2015-02-24,7.14
+581,ORD92175,2024-09-06,Charlie Jones,North,Illinois,Office Supplies,Paper,Paper 766,4,1651.1,0.12,239.57,Standard Class,2018-11-08,29.64
+582,ORD62073,2021-09-12,Jane Johnson,Central,Illinois,Office Supplies,Pens,Pens 912,6,386.21,0.36,-87.0,Same Day,2021-09-15,36.7
+583,ORD99924,2022-07-22,Jane Johnson,North,Illinois,Office Supplies,Pens,Pens 767,5,1613.08,0.01,342.24,Second Class,2021-05-05,37.04
+584,ORD19263,2022-06-14,Bob Brown,North,New York,Office Supplies,Binders,Binders 883,8,1113.4,0.02,257.75,Standard Class,2020-02-13,5.81
+585,ORD48561,2022-12-08,John Smith,Central,Washington,Furniture,Tables,Tables 110,6,1933.55,0.31,-103.54,Standard Class,2021-06-07,26.83
+586,ORD44130,2015-11-22,Jane Johnson,East,Arizona,Furniture,Chairs,Chairs 629,9,1785.74,0.38,-345.15,Second Class,2017-04-12,9.68
+587,ORD33694,2015-04-10,Jane Johnson,Central,Illinois,Technology,Laptops,Laptops 113,2,741.51,0.19,-60.05,Standard Class,2021-08-06,24.76
+588,ORD76601,2024-01-07,John Smith,West,Illinois,Office Supplies,Binders,Binders 233,1,320.93,0.24,2.02,First Class,2018-06-04,14.95
+589,ORD14079,2022-10-28,David Garcia,Central,California,Furniture,Bookcases,Bookcases 689,6,2150.63,0.15,115.01,First Class,2018-01-20,29.76
+590,ORD40284,2023-10-04,Olivia Davis,North,Washington,Furniture,Tables,Tables 241,4,231.09,0.16,16.62,Standard Class,2015-07-08,7.46
+591,ORD70553,2017-02-12,Emma Miller,East,New York,Furniture,Bookcases,Bookcases 180,10,1631.34,0.08,203.53,Same Day,2018-06-08,37.48
+592,ORD89173,2024-11-13,Charlie Jones,North,New York,Office Supplies,Pens,Pens 563,5,628.37,0.26,-56.7,Same Day,2021-10-22,28.55
+593,ORD78921,2018-07-19,David Garcia,West,Florida,Technology,Monitors,Monitors 838,9,3221.17,0.05,756.66,Standard Class,2019-05-12,44.1
+594,ORD28047,2016-08-19,Liam Martinez,South,Washington,Technology,Monitors,Monitors 306,5,2250.45,0.13,319.1,Second Class,2019-12-21,19.78
+595,ORD73869,2018-04-19,Bob Brown,South,Oregon,Furniture,Chairs,Chairs 844,5,1229.76,0.14,16.44,Same Day,2016-05-15,40.48
+596,ORD97077,2023-05-26,Olivia Davis,South,New York,Office Supplies,Paper,Paper 328,7,769.39,0.35,-115.79,Second Class,2021-07-03,30.2
+597,ORD48540,2020-01-11,Sophia Rodriguez,North,Arizona,Technology,Monitors,Monitors 580,6,1978.74,0.37,-215.13,First Class,2016-10-26,40.32
+598,ORD85703,2018-02-25,Alice Williams,North,New York,Office Supplies,Pens,Pens 826,8,166.92,0.28,-12.04,Second Class,2017-10-23,49.95
+599,ORD56073,2024-06-13,Olivia Davis,Central,Washington,Furniture,Bookcases,Bookcases 850,1,460.37,0.17,59.53,Same Day,2023-05-17,11.1
+600,ORD46726,2019-01-06,Emma Miller,Central,Illinois,Office Supplies,Paper,Paper 837,10,4600.8,0.2,-69.9,Standard Class,2016-05-13,22.54
+601,ORD75427,2021-05-13,David Garcia,East,California,Technology,Printers,Printers 151,7,2297.88,0.23,101.6,Standard Class,2015-10-11,40.99
+263,ORD91846,2022-08-21,Liam Martinez,Central,New York,Office Supplies,Pens,Pens 417,7,1647.96,0.35,-189.55,First Class,2016-06-08,42.56
+603,ORD93885,2015-04-26,Liam Martinez,North,Florida,Office Supplies,Pens,Pens 140,3,157.94,0.05,19.78,Second Class,2015-03-28,5.89
+604,ORD33342,2016-04-05,Charlie Jones,South,Illinois,Technology,Monitors,Monitors 577,6,277.87,0.45,-68.52,Second Class,2023-10-17,8.63
+605,ORD23094,2021-01-26,Sophia Rodriguez,North,Arizona,Office Supplies,Paper,Paper 782,2,302.44,0.26,5.52,Second Class,2020-02-10,11.91
+606,ORD26129,2020-02-28,Charlie Jones,East,Illinois,Technology,Printers,Printers 631,6,383.43,0.12,-3.2,Standard Class,2022-03-11,36.46
+607,ORD59809,2024-08-16,John Smith,North,Arizona,Technology,Printers,Printers 584,3,1427.7,0.41,-214.3,First Class,2016-05-09,16.16
+608,ORD97990,2018-03-26,Liam Martinez,East,California,Technology,Laptops,Laptops 423,1,384.25,0.34,-78.52,First Class,2024-10-28,26.01
+609,ORD89642,2019-04-06,Liam Martinez,North,Washington,Office Supplies,Paper,Paper 944,5,1907.02,0.09,69.57,Standard Class,2016-02-06,13.83
+610,ORD40124,2018-03-16,Sophia Rodriguez,North,Washington,Furniture,Tables,Tables 639,1,75.04,0.41,-12.91,First Class,2022-04-05,44.57
+611,ORD65351,2021-04-14,David Garcia,West,California,Technology,Printers,Printers 244,10,975.32,0.08,45.03,First Class,2024-08-04,23.23
+612,ORD15213,2016-05-02,John Smith,South,Texas,Furniture,Chairs,Chairs 530,9,1959.26,0.15,258.47,Same Day,2015-09-18,36.38
+613,ORD24407,202-15-30,Olivia Davis,Central,Illinois,Furniture,Bookcases,Bookcases 190,10,2080.23,0.29,-31.86,Second Class,2023-04-24,45.13
+614,ORD71709,2015-07-27,zenitraM maiL,West,California,Technology,Laptops,Laptops 148,5,2232.8,0.01,372.15,First Class,2020-01-11,23.66
+615,ORD36824,2018-03-27,John Smith,Northz,California,Office Supplies,Pens,Pens 142,4,410.27,0.09,53.12,Same Day,2016-09-20,38.65
+616,ORD50344,2022-03-04,Olivia Davis,Central,Washington,Furniture,Chairs,Chairs 230,5,340.66,0.05,83.65,Standard Class,2021-06-15,6.58
+617,ORD28230,2016-04-23,John Smith,North,Illinois,Technology,Printers,Printers 815,1,340.99,0.46,-96.14,Second Class,2024-04-06,12.54
+618,ORD45255,2020-03-12,Bob Brown,South,California,Office Supplies,Paper,Paper 231,7,926.69,0.32,-54.24,First Class,2018-09-27,24.57
+619,ORD45091,2020-10-16,Bob Brown,Central,Oregon,Furniture,Chairs,Chairs 240,3,378.3,0.29,-22.86,Same Day,2021-01-04,33.35
+620,ORD94527,202-15-30,Jane Johnson,South,California,Technology,Monitors,Monitors 549,9,2519.73,0.13,256.62,Standard Class,2019-07-21,49.07
+621,ORD17545,2016-11-15,Charlie Jones,North,Florida,Technology,Monitors,Monitors 528,4,485.02,0.19,5.55,Second Class,2022-05-12,49.89
+622,ORD70675,2015-04-14,Charlie Jones,East,Arizona,Technology,Printers,Printers 935,1,308.81,0.46,-109.13,Second Class,2018-11-10,32.18
+623,ORD69941,2019-04-04,Sophia Rodriguez,West,Florida,Technology,Printers,Printers 903,10,4867.76,0.14,155.97,Second Class,2024-04-14,34.7
+624,ORD65788,2022-02-09,Jane Johnson,West,California,Furniture,Chairs,Chairs 619,9,4052.89,0.04,491.68,Second Class,2022-08-24,26.17
+625,ORD24727,2018-02-24,Liam Martinez,South,Texas,Office Supplies,Pens,Pens 102,8,1203.86,0.19,-35.37,Same Day,2023-12-25,6.27
+626,ORD99110,2019-06-25,Jane Johnson,West,Oregon,Furniture,Bookcases,Bookcases 864,10,558.73,0.13,56.43,Same Day,2024-12-03,13.39
+627,ORD81898,2018-01-28,Liam Martinez,South,Washington,Furniture,Tables,Tables 610,8,945.83,0.47,-201.03,Standard Class,2018-12-19,14.63
+628,ORD24466,2024-12-21,Jane Johnson,West,California,Technology,Monitors,Monitors 462,2,738.67,0.5,-241.53,Second Class,2023-07-06,30.71
+629,ORD93375,2021-10-12,Liam Martinez,North,Texas,Technology,Monitors,Monitors 154,6,2476.22,0.15,198.94,First Class,2016-11-01,39.7
+630,ORD14132,2016-03-26,David Garcia,West,California,Office Supplies,Paper,Paper 363,8,177.51,0.13,-4.01,First Class,2021-08-21,10.48
+631,ORD52113,2019-07-22,Olivia Davis,West,Illinois,Office Supplies,Pens,Pens 683,8,1411.86,0.16,84.3,Standard Class,2017-05-06,15.63
+632,ORD41531,2023-05-28,Olivia Davis,South,Texas,Furniture,Chairs,Chairs 449,2,823.07,0.01,85.2,Second Class,2017-06-10,28.66
+633,ORD86845,2024-08-07,Alice Williams,South,New York,Furniture,Tables,Tables 278,8,506.65,0.49,-195.04,Same Day,2017-10-25,31.18
+634,ORD36053,2023-06-01,David Garcia,South,New York,Furniture,Bookcases,Bookcases 692,9,2836.33,0.15,-17.32,First Class,2019-05-14,24.47
+635,ORD12935,2017-11-10,Emma Miller,South,New York,Furniture,Tables,Tables 910,9,3563.43,0.26,-157.1,Standard Class,2024-01-01,24.68
+636,ORD27645,2019-04-12,John Smith,East,Washington,Technology,Laptops,Laptops 143,3,980.45,0.01,209.44,Standard Class,2019-03-07,25.47
+309,ORD51532,2021-05-18,John Smith,Central,California,Technology,Monitors,Monitors 907,4,1449.44,0.23,-15.37,Second Class,2022-09-14,36.81
+638,ORD67086,2016-03-28,Sophia Rodriguez,West,Oregon,Furniture,Bookcases,Bookcases 564,7,1647.88,0.11,207.2,Second Class,2023-08-02,30.9
+639,ORD77046,2024-01-05,Olivia Davis,West,Illinois,Office Supplies,Pens,Pens 128,2,326.06,0.21,2.95,First Class,2021-08-03,12.78
+640,ORD77660,2020-05-15,Bob Brown,East,Washington,Technology,Monitors,Monitors 816,2,143.41,0.24,-3.93,Same Day,2023-12-09,42.62
+641,ORD29854,2022-07-08,Sophia Rodriguez,East,Florida,Furniture,Bookcases,Bookcases 437,7,2058.75,0.21,93.49,Second Class,2020-11-09,34.19
+642,ORD59848,2023-06-19,Emma Miller,North,Washington,Technology,Printers,Printers 412,2,965.38,0.3,-149.68,Standard Class,2023-12-04,31.38
+643,ORD20437,2024-11-17,Sophia Rodriguez,West,Arizona,Office Supplies,Paper,Paper 148,9,2160.07,0.47,-633.99,Standard Class,2021-05-03,37.29
+644,ORD37919,2023-10-09,Emma Miller,South,Washington,Furniture,Tables,Tables 963,1,236.62,0.49,-80.85,Standard Class,2016-04-13,28.32
+645,ORD74254,2016-07-21,David Garcia,North,Oregon,Furniture,Bookcases,Bookcases 147,7,2019.15,0.46,-445.06,Second Class,2023-06-02,6.92
+646,ORD85539,2022-01-06,Alice Williams,Centraly,Florida,Office Supplies,Binders,Binders 263,9,2734.14,0.14,-56.4,Standard Class,2016-10-26,45.88
+647,ORD78409,2017-06-05,Sophia Rodriguez,South,California,Furniture,Tables,Tables 973,5,373.82,0.38,-101.45,Second Class,2021-01-12,7.15
+648,ORD47390,2018-09-19,Liam Martinez,East,Oregon,Technology,Laptops,Laptops 299,2,869.84,0.07,104.61,Second Class,2022-10-04,6.19
+649,ORD87222,2015-11-28,Charlie Jones,East,New York,Office Supplies,Pens,Pens 648,10,2141.63,0.45,-370.55,Same Day,2022-09-09,31.91
+650,ORD47934,2023-06-03,Bob Brown,Central,Florida,Furniture,Chairs,Chairs 697,9,759.59,0.26,-19.45,First Class,2022-01-23,15.07
+651,ORD26408,2020-05-06,Sophia Rodriguez,South,Oregon,Technology,Laptops,Laptops 346,1,436.62,0.22,21.15,Second Class,2021-04-25,6.16
+652,ORD16865,2020-10-11,Sophia Rodriguez,East,Illinois,Furniture,Tables,Tables 296,2,868.14,0.22,-6.83,Standard Class,2023-12-08,35.19
+653,ORD76520,2018-04-05,David Garcia,West,California,Furniture,Bookcases,Bookcases 857,1,279.34,0.4,-75.65,Second Class,2021-10-14,30.17
+654,ORD37363,2017-04-07,David Garcia,South,Illinois,Furniture,Chairs,Chairs 952,8,1541.03,0.3,-83.82,Standard Class,2019-11-15,22.81
+655,ORD75808,2022-10-08,Charlie Jones,East,Washington,Technology,Printers,Printers 784,2,72.13,0.08,6.41,Same Day,2018-01-02,41.13
+656,ORD52777,2020-08-02,Bob Brown,South,Oregon,Technology,Laptops,Laptops 388,7,396.48,0.01,74.62,First Class,2021-04-22,28.67
+657,ORD71937,2015-09-01,Liam Martinez,West,Arizona,Furniture,Tables,Tables 976,1,125.66,0.04,12.94,Same Day,2021-07-27,38.92
+658,ORD86028,2018-11-10,Jane Johnson,East,Florida,Technology,Monitors,Monitors 246,6,2845.12,0.46,-689.13,Same Day,2017-04-08,43.43
+659,ORD12603,2021-07-10,Alice Williams,South,New York,Furniture,Tables,Tables 555,5,2498.52,0.03,494.87,Second Class,2022-07-08,43.73
+660,ORD42435,2024-09-24,Liam Martinez,West,Arizona,Technology,Printers,Printers 138,5,1639.31,0.5,-457.93,Standard Class,2015-08-12,45.64
+661,ORD31491,2018-12-20,Olivia Davis,East,Florida,Furniture,Chairs,Chairs 491,6,1671.61,0.11,295.19,Second Class,2018-11-08,23.56
+593,ORD78921,2018-07-19,David Garcia,West,Florida,Technology,Monitors,Monitors 838,9,3221.17,0.05,756.66,Standard Class,2019-05-12,44.1
+663,ORD69717,2017-05-14,Emma Miller,East,Arizona,Technology,Laptops,Laptops 869,8,3383.77,0.1,386.89,Second Class,2024-06-03,49.54
+664,ORD25383,2016-02-12,Alice Williams,Central,Washington,Furniture,Chairs,Chairs 769,8,3435.71,0.26,-52.78,Same Day,2017-08-12,12.93
+665,ORD82086,2020-11-18,David Garcia,West,Illinois,Technology,Printers,Printers 106,8,2971.14,0.37,-335.06,Same Day,2018-10-17,46.65
+666,ORD10068,2023-12-07,Alice Williams,West,New York,Furniture,Chairs,Chairs 261,1,150.54,0.45,-47.91,Second Class,2021-09-05,49.38
+667,ORD25239,2016-07-24,Sophia Rodriguez,South,Florida,Office Supplies,Pens,Pens 574,3,1049.07,0.32,-59.47,First Class,2020-06-16,8.73
+668,ORD59141,2017-06-22,Alice Williams,South,Arizona,Office Supplies,Pens,Pens 675,5,1913.35,0.38,-284.13,Standard Class,2024-11-19,24.17
+669,ORD87906,2022-11-10,Charlie Jones,East,Illinois,Furniture,Tables,Tables 251,9,858.61,0.35,-51.49,Second Class,2020-10-25,30.96
+670,ORD66265,2024-05-06,Emma Miller,East,Florida,Technology,Monitors,Monitors 830,4,754.32,0.4,-92.81,First Class,2015-10-15,40.83
+671,ORD57135,2016-08-22,David Garcia,West,California,Technology,Laptops,Laptops 952,5,2221.21,0.14,47.66,First Class,2015-09-25,41.78
+672,ORD11180,2017-12-11,Sophia Rodriguez,West,Washington,Technology,Laptops,Laptops 627,6,1508.05,0.05,201.18,First Class,2021-12-19,28.06
+673,ORD44781,2015-06-02,Olivia Davis,North,Oregon,Technology,Laptops,Laptops 611,4,751.2,0.2,-68.91,Second Class,2018-12-22,42.88
+452,ORD94954,2023-07-22,Jane Johnson,East,New York,Technology,Monitors,Monitors 902,9,1653.4,0.14,107.28,Standard Class,2020-12-03,42.92
+675,ORD45955,2020-08-17,Liam Martinez,South,Texas,Office Supplies,Paper,Paper 776,8,1276.43,0.33,-93.28,Standard Class,2022-04-28,41.2
+676,ORD87566,2019-06-15,Jane Johnson,North,Texas,Office Supplies,Paper,Paper 996,6,2080.03,0.35,-347.93,Standard Class,2022-12-04,25.45
+677,ORD75225,2015-08-02,Alice Williams,East,New York,Furniture,Chairs,Chairs 825,7,547.41,0.48,-111.72,Standard Class,2018-11-07,18.5
+678,ORD71894,2015-04-14,Charlie Jones,East,Oregon,Furniture,Tables,Tables 870,9,1995.08,0.48,-453.16,Second Class,2019-08-08,33.0
+679,ORD42195,2016-01-12,Olivia Davis,South,Illinois,Technology,Printers,Printers 670,9,711.6,0.45,-200.51,Second Class,2019-04-20,25.42
+680,ORD98999,2018-06-04,Liam Martinez,Northz,Texas,Office Supplies,Paper,Paper 827,2,484.53,0.23,26.75,First Class,2019-07-07,30.2
+681,ORD19718,2023-03-06,Alice Williams,North,California,Furniture,Tables,Tables 278,7,2102.91,0.33,-406.72,Same Day,2015-04-02,17.33
+682,ORD75401,2023-07-01,relliM ammE,North,Texas,Office Supplies,Binders,Binders 162,9,3805.45,0.35,-489.33,Second Class,2020-08-25,20.11
+683,ORD93526,2018-10-03,Sophia Rodriguez,East,Texas,Office Supplies,Paper,Paper 427,7,421.55,0.02,92.96,Standard Class,2016-03-07,45.44
+684,ORD88476,2017-05-27,Liam Martinez,Central,Washington,Technology,Laptops,Laptops 730,7,2603.51,0.48,-877.95,Second Class,2015-03-19,9.78
+685,ORD56827,2015-02-16,Emma Miller,East,Texas,Office Supplies,Paper,Paper 502,3,1386.55,0.2,-77.57,First Class,2016-04-27,18.57
+686,ORD45390,2015-10-14,Bob Brown,East,Washington,Technology,Printers,Printers 668,9,4200.36,0.28,-8.02,Second Class,2020-11-26,37.1
+687,ORD20617,2024-04-27,Emma Miller,East,Washington,Technology,Laptops,Laptops 588,4,1912.11,0.19,5.53,First Class,2020-06-03,7.16
+688,ORD23923,2023-08-11,David Garcia,South,New York,Office Supplies,Pens,Pens 192,8,231.19,0.33,-22.34,Standard Class,2018-06-26,32.27
+689,ORD58339,2016-04-20,Sophia Rodriguez,East,Florida,Office Supplies,Paper,Paper 641,10,3225.76,0.5,-745.18,Same Day,2022-04-03,21.63
+441,ORD29576,2019-09-08,Bob Brown,North,Texas,Office Supplies,Binders,Binders 831,3,1167.83,0.44,-367.67,Standard Class,2021-11-16,22.68
+691,ORD36779,2017-01-07,Olivia Davis,Central,Arizona,Office Supplies,Pens,Pens 685,1,80.51,0.15,9.82,Standard Class,2018-02-15,7.05
+692,ORD52138,2016-01-22,Liam Martinez,North,Oregon,Office Supplies,Paper,Paper 788,9,1122.96,0.09,201.82,Same Day,2024-08-18,16.97
+693,ORD89978,2019-09-07,Olivia Davis,Central,Washington,Office Supplies,Pens,Pens 946,4,1645.66,0.24,-185.15,First Class,2020-07-23,5.61
+694,ORD97927,2023-06-11,Liam Martinez,East,Texas,Furniture,Chairs,Chairs 669,9,2607.16,0.13,-2.29,First Class,2023-07-27,41.21
+695,ORD63933,2017-11-01,Olivia Davis,South,Washington,Furniture,Tables,Tables 713,5,61.41,0.35,-6.32,First Class,2018-12-20,19.5
+696,ORD64879,2022-08-01,David Garcia,East,Arizona,,Bookcases,Bookcases 220,10,2828.13,0.49,-648.65,First Class,2015-03-22,10.09
+697,ORD74105,2016-12-21,David Garcia,East,Illinois,Furniture,Bookcases,Bookcases 699,9,1466.81,0.12,57.66,Standard Class,2019-08-15,30.2
+698,ORD53407,2022-09-21,Emma Miller,South,Illinois,Office Supplies,Pens,Pens 247,2,205.13,0.37,-41.89,Second Class,2024-09-16,13.41
+699,ORD72689,2016-10-14,Charlie Jones,South,Arizona,Office Supplies,Paper,Paper 423,3,1336.45,0.17,-74.02,First Class,2018-11-09,47.13
+700,ORD87388,2018-10-24,David Garcia,East,Arizona,Office Supplies,Binders,Binders 477,3,435.26,0.32,-20.06,First Class,2019-11-14,17.16
+701,ORD54802,2024-03-05,Bob Brown,South,California,Technology,Laptops,Laptops 114,7,420.97,0.09,84.8,Second Class,2020-04-13,10.48
+702,ORD31129,2023-03-17,Emma Miller,North,Illinois,Technology,Laptops,Laptops 647,4,1781.38,0.34,-371.7,Standard Class,2020-09-01,5.61
+703,ORD20935,2015-09-19,Sophia Rodriguez,North,Florida,Office Supplies,Paper,Paper 200,2,676.5,0.38,-81.8,Second Class,2021-11-15,31.02
+704,ORD28149,2021-10-19,Bob Brown,East,New York,Technology,Printers,Printers 787,9,959.32,0.11,85.02,Same Day,2016-07-27,7.53
+705,ORD76187,2015-01-25,John Smith,North,Oregon,Furniture,Tables,Tables 697,4,1966.57,0.41,-252.81,Same Day,2017-02-17,14.15
+706,ORD77753,2021-02-08,Sophia Rodriguez,Central,Oregon,Furniture,Tables,Tables 188,9,1850.73,0.24,-126.06,Standard Class,2017-12-12,40.28
+341,ORD97125,2024-05-27,Sophia Rodriguez,South,Arizona,Furniture,Bookcases,Bookcases 484,6,2993.86,0.22,65.15,Same Day,2023-03-11,18.21
+708,ORD70443,2017-04-23,Alice Williams,Central,Texas,Office Supplies,Paper,Paper 284,1,162.18,0.12,-1.72,First Class,2020-10-03,29.05
+709,ORD93071,2023-11-14,Olivia Davis,South,Florida,Furniture,Tables,Tables 978,10,4355.5,0.36,-606.87,Second Class,2018-12-12,40.94
+710,ORD37915,2021-05-15,Emma Miller,East,Washington,Furniture,Chairs,Chairs 672,2,960.74,0.41,-276.44,First Class,2023-05-06,45.38
+461,ORD17022,2017-01-15,Olivia Davis,West,Florida,Office Supplies,Pens,Pens 662,10,194.62,0.36,-46.87,Standard Class,2024-03-28,35.63
+712,ORD65082,2017-04-15,Alice Williams,East,Washington,Technology,Monitors,Monitors 719,7,2198.97,0.33,-241.8,Same Day,2020-03-03,22.72
+713,ORD31413,2023-12-16,Charlie Jones,East,Arizona,Office Supplies,Paper,Paper 442,7,2417.67,0.37,-595.43,Same Day,2018-08-22,34.62
+714,ORD66494,2019-05-21,Charlie Jones,Central,Arizona,Furniture,Bookcases,Bookcases 522,2,506.88,0.38,-70.67,Standard Class,2017-06-20,22.98
+715,ORD84083,2019-08-23,Emma Miller,East,New York,Office Supplies,Pens,Pens 369,9,456.03,0.14,0.24,Same Day,2018-10-15,33.3
+354,ORD76057,2020-09-27,Bob Brown,Central,Florida,Office Supplies,Binders,Binders 657,6,2663.35,0.17,161.07,Second Class,2021-06-26,48.21
+717,ORD35861,2019-08-01,Olivia Davis,Central,Florida,Office Supplies,Paper,Paper 946,1,332.71,0.27,3.18,Standard Class,2017-04-24,21.92
+718,ORD85281,2016-01-14,Bob Brown,East,Texas,Office Supplies,Pens,Pens 231,7,1701.64,0.25,30.39,First Class,2023-11-11,28.9
+719,ORD83188,2016-06-17,Liam Martinez,South,Oregon,Technology,Monitors,Monitors 231,4,1259.86,0.41,-153.82,First Class,2017-07-08,30.44
+720,ORD92895,2021-10-11,senoJ eilrahC,Central,Illinois,Office Supplies,Binders,Binders 667,5,1636.49,0.15,65.67,Standard Class,2015-03-21,12.24
+721,ORD31760,2024-06-09,Emma Miller,West,New York,Furniture,Tables,Tables 470,10,543.48,0.46,-98.97,First Class,2016-01-12,32.77
+722,ORD46230,2019-01-11,David Garcia,West,Oregon,Furniture,Tables,Tables 290,6,1165.69,0.46,-193.88,Standard Class,2017-10-15,27.56
+723,ORD20475,2016-10-08,Olivia Davis,West,New York,Technology,Printers,Printers 606,9,3560.56,0.35,-829.04,Same Day,2018-04-25,22.17
+724,ORD46633,2017-01-26,David Garcia,Central,Florida,Furniture,Chairs,Chairs 519,2,216.52,0.11,37.56,Standard Class,2015-02-23,48.26
+725,ORD94633,2016-04-06,Emma Miller,South,Oregon,Office Supplies,Pens,Pens 682,7,1515.96,0.01,206.22,First Class,2023-05-20,43.65
+726,ORD60209,2022-06-22,Alice Williams,North,New York,Furniture,Chairs,Chairs 990,1,134.78,0.31,-19.83,First Class,2022-01-18,38.12
+727,ORD73751,2015-11-10,Emma Miller,South,New York,Furniture,Tables,Tables 887,3,124.18,0.3,-22.34,Same Day,2024-07-18,24.24
+728,ORD71822,2024-04-11,Alice Williams,West,Florida,Technology,Laptops,Laptops 432,4,1800.69,0.2,74.5,First Class,2016-06-01,45.14
+729,ORD91854,2022-09-08,Emma Miller,North,Arizona,Furniture,Tables,Tables 313,5,2108.5,0.03,208.9,Standard Class,2021-03-25,5.33
+730,ORD67961,2015-02-19,Charlie Jones,South,Arizona,Furniture,Chairs,Chairs 499,9,3028.85,0.19,154.84,Second Class,2023-03-20,28.3
+731,ORD92868,2016-05-27,Bob Brown,South,Texas,Technology,Laptops,Laptops 352,8,3774.9,0.29,-70.95,Second Class,2019-03-08,29.02
+732,ORD53983,2019-02-25,Charlie Jones,Central,Washington,Technology,Laptops,Laptops 612,4,1908.75,0.1,5.59,First Class,2021-10-18,30.58
+733,ORD30452,2015-05-24,John Smith,East,Washington,Furniture,Tables,Tables 925,2,574.1,0.4,-151.88,Same Day,2020-10-14,15.71
+74,ORD44771,2023-03-22,Emma Miller,Central,Oregon,Furniture,Bookcases,Bookcases 321,3,228.99,0.11,10.3,Same Day,2018-05-20,16.22
+735,ORD98577,2016-11-13,Olivia Davis,East,Arizona,Office Supplies,Pens,Pens 197,10,4695.79,0.48,-900.96,Standard Class,2021-02-10,15.8
+736,ORD78563,2017-09-07,Charlie Jones,East,Illinois,Furniture,Bookcases,Bookcases 504,1,150.19,0.22,-17.49,First Class,2021-12-15,46.34
+737,ORD97078,2021-01-12,Liam Martinez,East,Florida,Office Supplies,Paper,Paper 282,7,1447.54,0.34,-246.28,Standard Class,2016-12-05,34.33
+738,ORD57393,2018-07-09,Charlie Jones,Central,Texas,Furniture,Tables,Tables 184,6,1665.57,0.12,209.46,First Class,2018-07-24,31.33
+739,ORD60174,2015-07-25,Bob Brown,Central,Arizona,Technology,Laptops,Laptops 448,10,1898.67,0.03,487.08,Same Day,2017-10-24,48.01
+740,ORD27815,2022-04-26,Alice Williams,East,Arizona,Furniture,Bookcases,Bookcases 941,5,1001.4,0.27,-106.83,First Class,2017-05-20,30.55
+741,ORD82263,2019-06-21,Olivia Davis,Central,Washington,Technology,Laptops,Laptops 469,6,2070.49,0.01,477.0,Same Day,2017-11-10,30.06
+742,ORD23771,2016-11-08,Olivia Davis,Central,Florida,Technology,Laptops,Laptops 839,7,3311.11,0.39,-809.73,Standard Class,2023-06-24,16.54
+743,ORD18399,2018-07-02,Bob Brown,East,Illinois,Office Supplies,Binders,Binders 996,2,410.22,0.24,-15.77,Same Day,2024-11-09,33.52
+744,ORD39680,2023-02-22,John Smith,West,Oregon,Furniture,Bookcases,Bookcases 565,7,424.77,0.09,30.48,Second Class,2017-10-23,27.0
+745,ORD24298,2018-02-22,Jane Johnson,East,Florida,Furniture,Chairs,Chairs 549,5,2132.9,0.13,72.4,Same Day,2017-03-04,49.47
+746,ORD74553,2017-01-22,Liam Martinez,South,California,Furniture,Tables,Tables 944,6,2978.63,0.38,-374.41,Standard Class,2017-01-16,14.53
+747,ORD46241,2015-12-23,Charlie Jones,South,Arizona,Technology,Monitors,Monitors 781,6,1967.98,0.45,-580.44,First Class,2023-01-10,19.01
+748,ORD60834,2023-06-21,John Smith,North,Illinois,Technology,Monitors,Monitors 783,6,2899.81,0.01,512.3,First Class,2017-10-03,24.58
+749,ORD57317,2020-12-11,David Garcia,South,Arizona,Furniture,Tables,Tables 925,8,102.84,0.12,11.42,Same Day,2022-11-09,49.26
+750,ORD48462,2016-09-04,Charlie Jones,West,California,Office Supplies,Paper,Paper 940,4,1747.09,0.07,153.41,Standard Class,2021-11-10,35.0
+555,ORD96395,2018-08-11,Bob Brown,Central,Texas,Office Supplies,Binders,Binders 502,9,3781.96,0.24,-57.22,Second Class,2015-06-28,45.54
+752,ORD43604,2020-03-07,Bob Brown,Central,Illinois,Technology,Printers,Printers 803,1,498.11,0.19,-34.83,First Class,2023-07-06,10.04
+753,ORD47793,2020-01-18,Bob Brown,Central,Arizona,Office Supplies,Paper,Paper 679,8,3664.85,0.45,-1154.85,Same Day,2023-05-23,44.68
+754,ORD57999,2022-06-15,Bob Brown,Central,Oregon,Office Supplies,Paper,Paper 872,5,1258.81,0.18,-2.24,Second Class,2018-02-20,15.33
+755,ORD70872,2022-01-20,John Smith,Central,Washington,Furniture,Tables,Tables 289,5,368.56,0.4,-79.65,Same Day,2015-07-28,11.28
+756,ORD55739,2016-01-15,Liam Martinez,Central,Florida,Furniture,Chairs,Chairs 829,5,776.19,0.45,-209.02,Standard Class,2015-03-23,5.95
+757,ORD82408,2024-07-20,Emma Miller,North,Florida,Furniture,Tables,Tables 498,9,1338.61,0.49,-442.63,First Class,2020-04-27,8.42
+758,ORD67908,2015-03-28,Charlie Jones,North,New York,Technology,Monitors,Monitors 856,7,130.29,0.43,-31.9,Second Class,2020-08-01,5.93
+759,ORD12109,202-15-30,Bob Brown,Central,Florida,Office Supplies,Binders,Binders 445,2,778.16,0.49,-205.07,Second Class,2018-10-20,38.26
+760,ORD28946,2017-09-14,David Garcia,West,Washington,Furniture,Tables,Tables 822,6,276.58,0.11,44.09,First Class,2018-07-03,48.96
+761,ORD90165,2019-11-11,Charlie Jones,South,Washington,Technology,Printers,Printers 512,2,156.58,0.49,-33.48,Second Class,2017-10-09,36.47
+762,ORD77355,2022-08-06,John Smith,Westy,Florida,Furniture,Chairs,Chairs 366,8,619.2,0.24,-35.53,Same Day,2016-12-08,38.02
+763,ORD48405,2022-04-17,Alice Williams,Central,New York,Office Supplies,Binders,Binders 431,3,1136.84,0.23,-107.23,Standard Class,2015-04-03,25.31
+764,ORD47219,2024-01-07,Olivia Davis,West,Texas,Technology,Laptops,Laptops 109,10,1342.87,0.15,-51.41,Same Day,2021-09-24,25.16
+765,ORD74084,2017-03-18,Liam Martinez,West,Illinois,Technology,Laptops,Laptops 169,10,4705.23,0.39,-817.5,Same Day,2021-01-02,30.74
+766,ORD35497,2016-12-24,Jane Johnson,East,Florida,Furniture,Bookcases,Bookcases 544,8,707.61,0.32,-42.51,Standard Class,2021-08-27,18.42
+767,ORD52279,2020-11-14,Liam Martinez,East,Texas,Technology,Monitors,Monitors 783,4,1935.47,0.04,442.84,First Class,2023-01-14,5.12
+768,ORD85908,2023-09-19,Sophia Rodriguez,Central,Washington,Furniture,Bookcases,Bookcases 527,10,4159.48,0.14,435.35,Second Class,2022-03-10,28.14
+769,ORD18114,2018-08-22,Charlie Jones,East,Arizona,Furniture,Tables,Tables 824,9,975.23,0.07,51.46,Standard Class,2023-03-24,33.81
+770,ORD94795,2015-10-21,David Garcia,North,California,Furniture,Bookcases,Bookcases 988,8,498.5,0.25,-9.99,Same Day,2015-07-14,12.92
+771,ORD84159,2018-03-27,Charlie Jones,South,Texas,Technology,Laptops,Laptops 259,5,1511.06,0.04,332.17,Standard Class,2019-08-15,25.45
+772,ORD52344,2017-10-09,John Smith,East,Arizona,Technology,Printers,Printers 857,1,404.13,0.26,5.23,First Class,2017-02-21,18.63
+773,ORD12495,2018-03-23,Alice Williams,Central,New York,Office Supplies,Paper,Paper 512,10,1325.93,0.45,-346.57,Second Class,2024-02-01,21.61
+774,ORD38810,2018-04-19,Charlie Jones,South,Washington,Furniture,Chairs,Chairs 677,7,2147.39,0.13,234.24,Second Class,2019-08-18,35.12
+775,ORD52589,2021-04-19,Sophia Rodriguez,Central,Washington,Furniture,Chairs,Chairs 994,8,3738.77,0.34,-274.12,Second Class,2018-03-19,19.61
+776,ORD59583,2018-04-01,Bob Brown,East,New York,Office Supplies,Binders,Binders 600,4,909.74,0.03,235.56,First Class,2019-12-14,11.22
+777,ORD60437,2017-06-05,Liam Martinez,West,Florida,,Laptops,Laptops 629,8,2580.18,0.21,-215.07,First Class,2022-10-10,24.14
+778,ORD12823,2020-10-16,Liam Martinez,North,Texas,Office Supplies,Pens,Pens 294,2,439.11,0.44,-69.98,Same Day,2015-11-06,38.39
+779,ORD83406,2023-06-20,Alice Williams,South,Arizona,Technology,Laptops,Laptops 909,10,4345.72,0.49,-937.66,First Class,2016-04-21,34.34
+780,ORD71194,2016-04-18,Jane Johnson,North,Washington,Office Supplies,Pens,Pens 873,3,262.11,0.36,-63.74,First Class,2016-04-24,19.75
+781,ORD79253,2023-05-01,John Smith,East,Washington,Office Supplies,Pens,Pens 761,4,1626.11,0.22,18.75,Standard Class,2021-01-16,30.75
+538,ORD84026,2016-05-09,Liam Martinez,Central,Washington,Technology,Printers,Printers 840,1,321.75,0.23,12.07,Same Day,2023-05-17,10.56
+309,ORD51532,2021-05-18,John Smith,Central,California,Technology,Monitors,Monitors 907,4,1449.44,0.23,-15.37,Second Class,2022-09-14,36.81
+784,ORD30172,2018-12-09,Jane Johnson,West,New York,Technology,Monitors,Monitors 611,10,4407.14,0.24,-537.56,Second Class,2020-09-02,48.18
+785,ORD45259,2017-05-09,Olivia Davis,East,California,Furniture,Tables,Tables 500,5,118.04,0.19,5.41,First Class,2022-06-13,27.18
+786,ORD84211,2019-02-15,Emma Miller,West,Arizona,Furniture,Tables,Tables 285,1,488.55,0.16,-14.86,Same Day,2015-10-12,10.28
+787,ORD63694,2017-06-10,Liam Martinez,West,Washington,Furniture,Chairs,Chairs 981,7,1335.19,0.39,-271.78,Standard Class,2024-03-23,10.0
+788,ORD86249,2017-03-16,Bob Brown,North,Oregon,Technology,Printers,Printers 526,5,2233.14,0.32,-287.07,Second Class,2015-02-26,45.85
+789,ORD55250,2017-08-14,Olivia Davis,Central,Illinois,Technology,Printers,Printers 854,6,232.92,0.4,-53.69,First Class,2023-06-07,30.78
+790,ORD55748,2015-03-20,Jane Johnson,South,New York,Office Supplies,Paper,Paper 986,1,379.32,0.41,-83.53,First Class,2020-07-03,19.0
+791,ORD77404,2017-01-27,David Garcia,West,Illinois,Furniture,Bookcases,Bookcases 943,3,523.78,0.09,62.67,Same Day,2017-07-18,44.75
+792,ORD60835,2022-03-19,Emma Miller,North,Oregon,Furniture,Tables,Tables 748,1,152.87,0.28,-17.55,Second Class,2017-02-01,42.74
+793,ORD78268,2023-01-10,John Smith,East,Illinois,Office Supplies,Paper,Paper 108,4,1687.05,0.1,169.91,Second Class,2021-04-14,25.4
+794,ORD75972,2018-10-12,Emma Miller,East,Arizona,Furniture,Tables,Tables 245,6,1158.91,0.1,145.2,First Class,2022-11-15,46.49
+795,ORD75657,2022-06-27,John Smith,West,Illinois,Technology,Monitors,Monitors 948,1,59.17,0.29,-9.39,Standard Class,2024-11-19,25.91
+796,ORD32809,2022-07-07,John Smith,East,New York,Office Supplies,Pens,Pens 397,9,2528.71,0.33,-314.85,Standard Class,2016-07-24,43.44
+797,ORD68239,2021-05-17,Olivia Davis,Central,Arizona,Furniture,Chairs,Chairs 688,8,206.8,0.09,27.9,Standard Class,2016-03-15,30.53
+798,ORD78892,2016-01-23,Emma Miller,South,Florida,Office Supplies,Pens,Pens 838,8,2717.96,0.26,105.54,First Class,2016-05-21,31.58
+799,ORD86801,2017-10-26,Sophia Rodriguez,East,Texas,Office Supplies,Binders,Binders 976,3,255.77,0.39,-63.06,Standard Class,2020-04-06,31.42
+800,ORD28351,2022-05-12,Alice Williams,North,Washington,Furniture,Chairs,Chairs 578,9,1321.04,0.44,-352.41,Standard Class,2018-10-26,43.77
+801,ORD55779,2017-05-12,Sophia Rodriguez,West,Florida,Technology,Printers,Printers 456,10,4372.92,0.0,556.56,Same Day,2021-08-21,46.11
+802,ORD34586,2024-10-22,David Garcia,Central,New York,Office Supplies,Paper,Paper 622,4,1746.38,0.08,376.07,Same Day,2019-02-07,11.79
+803,ORD30000,2023-04-14,Alice Williams,Central,California,Office Supplies,Paper,Paper 413,5,371.91,0.23,-2.49,Same Day,2024-11-14,25.81
+804,ORD59282,2022-07-03,Charlie Jones,Central,Texas,Furniture,Bookcases,Bookcases 221,8,2406.27,0.36,-418.23,First Class,2016-03-23,47.33
+805,ORD95729,2016-11-13,Bob Brown,North,Texas,Office Supplies,Pens,Pens 263,3,73.37,0.39,-9.32,Second Class,2024-05-19,22.94
+806,ORD50737,2020-12-27,Olivia Davis,North,Illinois,Technology,Laptops,Laptops 401,1,369.17,0.19,31.59,First Class,2023-08-17,19.72
+807,ORD71644,2018-10-14,Charlie Jones,North,Oregon,Furniture,Bookcases,Bookcases 193,10,2517.89,0.45,-605.24,Standard Class,2015-03-09,38.92
+808,ORD57432,2024-09-19,Charlie Jones,West,New York,Technology,Monitors,Monitors 200,6,2446.92,0.45,-777.58,Standard Class,2015-11-24,23.37
+809,ORD30500,2015-02-15,David Garcia,West,California,,Laptops,Laptops 423,10,1430.39,0.45,-416.05,Same Day,2024-06-03,27.74
+810,ORD44838,2019-10-09,Sophia Rodriguez,Central,Illinois,Office Supplies,Pens,Pens 990,3,459.44,0.22,-23.68,Standard Class,2019-11-06,6.11
+811,ORD56917,2019-04-19,Emma Miller,South,New York,Technology,Printers,Printers 527,4,1762.03,0.27,-244.72,First Class,2016-04-08,35.8
+812,ORD70755,2019-02-28,Emma Miller,South,California,Technology,Monitors,Monitors 652,2,700.44,0.21,-63.86,Same Day,2017-09-04,11.87
+813,ORD39006,2023-06-02,Charlie Jones,South,Oregon,Furniture,Tables,Tables 605,8,3442.76,0.19,66.7,Standard Class,2024-11-26,34.98
+814,ORD51383,202-15-30,John Smith,Central,Texas,Furniture,Tables,Tables 238,9,3046.02,0.45,-1061.61,Same Day,2017-04-17,41.11
+815,ORD42403,2017-07-01,Alice Williams,South,Texas,Technology,Laptops,Laptops 978,6,2885.26,0.44,-877.73,Same Day,2018-04-05,21.14
+816,ORD16039,2017-07-11,Emma Miller,South,California,Technology,Printers,Printers 339,9,1225.3,0.37,-127.99,Standard Class,2024-08-12,22.23
+817,ORD62227,2016-05-18,Olivia Davis,North,Texas,Technology,Laptops,Laptops 587,6,1157.96,0.37,-91.52,Same Day,2018-06-28,7.9
+818,ORD64440,2020-02-02,Bob Brown,West,Washington,Furniture,Tables,Tables 695,4,663.62,0.49,-221.67,First Class,2019-06-22,27.6
+819,ORD64818,2022-08-05,Olivia Davis,East,California,Furniture,Tables,Tables 626,3,1263.24,0.44,-420.39,First Class,2015-11-22,43.28
+820,ORD36293,2019-04-10,Jane Johnson,West,Washington,Technology,Laptops,Laptops 274,2,635.73,0.13,72.76,Second Class,2018-06-07,21.81
+821,ORD62825,2020-06-16,Emma Miller,Central,Oregon,Office Supplies,Pens,Pens 127,2,885.28,0.11,8.15,Same Day,2015-04-18,17.79
+822,ORD28598,2018-09-13,John Smith,East,California,Furniture,Tables,Tables 825,1,55.41,0.5,-14.74,Second Class,2019-10-03,27.63
+823,ORD73883,2019-01-03,Jane Johnson,West,Oregon,Office Supplies,Pens,Pens 100,9,3256.22,0.33,-463.24,Second Class,2017-11-02,36.79
+824,ORD53353,2022-09-26,Emma Miller,Northz,Arizona,Office Supplies,Paper,Paper 608,1,40.54,0.13,1.5,First Class,2021-02-06,23.94
+825,ORD51118,2016-05-20,Bob Brown,South,California,Technology,Monitors,Monitors 526,7,1382.24,0.25,66.61,First Class,2021-09-02,39.84
+826,ORD38480,2018-06-20,David Garcia,East,Texas,Technology,Laptops,Laptops 821,6,662.73,0.21,-22.62,Second Class,2016-08-15,21.01
+827,ORD83343,2016-02-01,Bob Brown,South,Oregon,Office Supplies,Pens,Pens 171,3,797.94,0.36,-78.33,Same Day,2020-08-17,40.54
+828,ORD89743,2020-01-12,Alice Williams,Central,Arizona,Technology,Laptops,Laptops 955,9,3723.03,0.24,-6.8,Second Class,2017-03-18,35.38
+829,ORD36715,2019-05-15,Sophia Rodriguez,Central,Arizona,Office Supplies,Paper,Paper 353,5,876.31,0.13,100.38,First Class,2016-06-19,36.56
+830,ORD63257,2018-04-10,Liam Martinez,West,Illinois,Office Supplies,Binders,Binders 820,2,563.75,0.26,-53.13,Standard Class,2019-12-22,37.79
+831,ORD25181,2017-06-16,Bob Brown,Central,Oregon,Technology,Printers,Printers 848,10,4244.11,0.18,258.91,Second Class,2022-08-04,7.31
+832,ORD62097,2017-11-21,Olivia Davis,West,Washington,Furniture,Chairs,Chairs 759,10,545.39,0.28,0.81,Standard Class,2017-04-10,5.34
+833,ORD78540,2020-06-25,Charlie Jones,Central,Oregon,Office Supplies,Paper,Paper 521,6,181.19,0.02,32.26,First Class,2017-08-18,10.39
+834,ORD76330,2017-07-13,Jane Johnson,Central,Washington,Furniture,Chairs,Chairs 636,5,594.72,0.18,-19.26,Second Class,2018-12-13,22.59
+835,ORD82727,2022-01-16,Emma Miller,East,Washington,Office Supplies,Pens,Pens 137,4,855.56,0.31,-30.09,Standard Class,2019-02-17,48.83
+836,ORD93552,2016-02-23,Olivia Davis,East,Oregon,Furniture,Tables,Tables 148,3,342.07,0.41,-42.52,First Class,2023-01-13,9.0
+837,ORD67661,2017-03-25,Charlie Jones,West,Arizona,Furniture,Bookcases,Bookcases 691,2,769.35,0.22,-82.43,Same Day,2020-05-14,26.97
+838,ORD30370,2021-10-04,Liam Martinez,North,Washington,Office Supplies,Paper,Paper 762,2,486.22,0.43,-70.08,Standard Class,2017-08-02,22.93
+839,ORD72235,2016-09-18,Sophia Rodriguez,Central,California,Office Supplies,Pens,Pens 678,7,2839.43,0.4,-792.1,Second Class,2016-11-06,35.42
+82,ORD73958,2018-04-21,Sophia Rodriguez,East,Washington,Office Supplies,Pens,Pens 995,8,286.14,0.47,-59.18,First Class,2015-12-24,20.72
+841,ORD78671,2015-03-19,Bob Brown,West,New York,Furniture,Bookcases,Bookcases 604,8,3909.12,0.28,-558.65,Second Class,2015-06-15,29.88
+842,ORD89722,2015-05-26,Liam Martinez,North,Oregon,Technology,Printers,Printers 374,2,351.92,0.23,-17.46,Second Class,2024-04-18,6.79
+843,ORD20940,2017-10-28,Jane Johnson,North,Illinois,Furniture,Bookcases,Bookcases 160,5,96.52,0.19,-5.05,First Class,2016-12-16,33.85
+337,ORD28508,2023-12-24,John Smith,South,Illinois,Furniture,Tables,Tables 680,9,1894.39,0.21,130.93,Second Class,2015-08-13,34.49
+845,ORD72104,2020-09-19,John Smith,West,Washington,Furniture,Bookcases,Bookcases 674,10,2524.86,0.18,-11.91,Same Day,2021-11-20,41.42
+846,ORD60501,2022-11-28,Alice Williams,North,Arizona,Furniture,Chairs,Chairs 283,7,155.53,0.38,-35.08,First Class,2023-01-02,10.05
+847,ORD96486,2019-09-08,David Garcia,Central,Oregon,Furniture,Bookcases,Bookcases 402,8,1705.97,0.35,-244.09,Same Day,2020-10-18,40.55
+848,ORD12813,2021-04-22,Sophia Rodriguez,Central,Florida,Office Supplies,Paper,Paper 249,1,205.06,0.11,31.19,Same Day,2020-11-28,42.8
+849,ORD83372,2017-04-26,Emma Miller,Central,Florida,Furniture,Chairs,Chairs 428,3,739.49,0.5,-289.01,Second Class,2022-08-15,44.02
+850,ORD55915,2017-05-20,John Smith,North,California,Furniture,Tables,Tables 671,5,2275.17,0.4,-308.72,Same Day,2015-08-11,24.74
+851,ORD32679,2015-08-05,Bob Brown,Central,Arizona,Furniture,Bookcases,Bookcases 442,5,1237.31,0.1,138.45,Standard Class,2019-01-09,29.78
+852,ORD36520,2022-08-27,Emma Miller,West,New York,Office Supplies,Binders,Binders 532,10,4900.73,0.36,-1056.19,Same Day,2023-02-16,18.15
+853,ORD11903,2020-12-18,Alice Williams,North,Washington,Office Supplies,Binders,Binders 872,2,733.91,0.27,-50.08,Standard Class,2020-04-18,45.9
+854,ORD88546,2020-12-25,Emma Miller,West,Oregon,Furniture,Bookcases,Bookcases 545,2,903.69,0.47,-159.75,Standard Class,2024-08-18,30.13
+855,ORD56915,2020-11-18,Charlie Jones,East,Oregon,Office Supplies,Paper,Paper 208,5,1455.61,0.01,290.87,Standard Class,2019-04-16,24.51
+856,ORD90870,2016-10-18,David Garcia,North,Arizona,Technology,Laptops,Laptops 729,10,1617.91,0.15,177.51,First Class,2019-10-27,42.57
+857,ORD98005,2019-11-10,Alice Williams,East,Illinois,Office Supplies,Paper,Paper 963,8,439.66,0.2,-23.27,First Class,2017-10-27,14.45
+858,ORD24252,2016-05-08,Olivia Davis,East,Oregon,Furniture,Bookcases,Bookcases 608,3,648.34,0.38,-118.65,Standard Class,2018-01-10,32.15
+859,ORD68345,2023-06-01,Sophia Rodriguez,North,Washington,Furniture,Chairs,Chairs 859,6,2888.35,0.16,50.63,Same Day,2019-11-22,37.29
+860,ORD23859,2023-05-18,Jane Johnson,East,Washington,Furniture,Chairs,Chairs 389,4,1904.79,0.4,-348.83,Second Class,2023-12-14,48.09
+861,ORD98287,2016-09-07,Liam Martinez,West,Oregon,Technology,Monitors,Monitors 664,5,517.17,0.19,33.37,Second Class,2022-11-04,29.55
+862,ORD90719,2016-06-01,Bob Brown,Central,New York,Technology,Monitors,Monitors 768,9,121.94,0.23,1.16,First Class,2016-04-06,37.24
+863,ORD67009,2019-04-07,Olivia Davis,East,California,Office Supplies,Binders,Binders 291,5,2033.76,0.42,-421.24,Standard Class,2021-04-23,31.6
+864,ORD69720,2018-08-20,Sophia Rodriguez,Easty,Florida,Technology,Printers,Printers 449,2,944.73,0.07,150.51,Standard Class,2022-04-06,17.65
+865,ORD89741,2018-10-19,Jane Johnson,North,New York,Technology,Laptops,Laptops 545,3,286.18,0.07,27.25,Same Day,2020-09-12,24.26
+866,ORD35044,2015-06-13,John Smith,South,Florida,Technology,Laptops,Laptops 260,4,431.72,0.09,30.09,First Class,2023-10-12,11.64
+867,ORD14917,2017-02-16,Alice Williams,South,Arizona,Office Supplies,Pens,Pens 269,6,345.06,0.38,-94.29,First Class,2023-11-20,15.91
+868,ORD40277,2017-01-04,Charlie Jones,East,Illinois,Technology,Monitors,Monitors 712,9,1733.23,0.09,36.75,First Class,2016-02-21,28.95
+869,ORD29101,2024-11-08,Emma Miller,East,Washington,Technology,Monitors,Monitors 975,1,58.55,0.04,6.83,Standard Class,2020-03-11,41.79
+870,ORD55747,2024-01-28,Alice Williams,Central,Texas,Furniture,Bookcases,Bookcases 205,8,1848.2,0.14,61.98,Standard Class,2017-05-21,12.29
+871,ORD97136,2017-01-09,Alice Williams,South,Illinois,Office Supplies,Binders,Binders 595,8,799.61,0.01,178.39,Same Day,2021-01-01,31.95
+872,ORD37769,2024-10-04,David Garcia,East,Illinois,Technology,Monitors,Monitors 110,4,1610.36,0.49,-416.61,Second Class,2016-08-06,9.28
+873,ORD41326,2018-12-11,David Garcia,North,Illinois,Technology,Printers,Printers 111,6,2394.04,0.18,-90.03,Standard Class,2023-02-22,15.28
+874,ORD87615,2024-11-09,John Smith,East,Oregon,Office Supplies,Binders,Binders 580,3,787.07,0.21,18.74,Standard Class,2019-08-10,11.2
+875,ORD49283,202-15-30,Liam Martinez,South,Oregon,Office Supplies,Binders,Binders 974,2,189.77,0.27,-9.95,Standard Class,2021-06-25,37.57
+876,ORD61539,2017-01-26,Liam Martinez,Central,New York,Furniture,Chairs,Chairs 764,10,3929.7,0.31,-661.7,First Class,2019-09-06,12.79
+877,ORD69304,2022-12-05,Liam Martinez,North,California,Office Supplies,Binders,Binders 937,7,1871.54,0.23,-15.63,Second Class,2023-03-28,11.35
+878,ORD84850,2016-04-23,Alice Williams,West,New York,Technology,Printers,Printers 797,7,1429.53,0.19,-31.67,First Class,2020-06-21,36.16
+879,ORD42038,2021-11-11,David Garcia,West,Texas,Office Supplies,Binders,Binders 189,8,784.23,0.27,-102.82,Same Day,2023-06-07,21.75
+880,ORD66502,2018-03-16,Sophia Rodriguez,Central,California,Furniture,Chairs,Chairs 284,10,2371.52,0.06,116.28,First Class,2019-08-24,25.23
+881,ORD34405,2018-08-10,John Smith,West,Arizona,Furniture,Bookcases,Bookcases 317,2,45.86,0.48,-9.21,First Class,2020-11-17,7.37
+882,ORD11969,2015-07-18,Bob Brown,East,Oregon,Furniture,Bookcases,Bookcases 457,9,2178.95,0.3,-57.49,Second Class,2021-10-16,29.93
+883,ORD83509,2015-02-13,Liam Martinez,North,Arizona,Furniture,Tables,Tables 173,9,4443.1,0.28,59.49,Second Class,2024-07-27,48.32
+884,ORD88352,2018-06-10,Alice Williams,Central,Oregon,Technology,Laptops,Laptops 184,8,1268.52,0.2,74.23,Same Day,2020-05-16,5.57
+885,ORD54924,2024-11-03,Olivia Davis,West,Oregon,Furniture,Bookcases,Bookcases 910,5,1509.47,0.36,-172.82,Standard Class,2020-07-20,49.7
+886,ORD48731,2015-06-15,Jane Johnson,West,Oregon,,Laptops,Laptops 411,10,2164.53,0.36,-230.41,Second Class,2015-08-07,16.82
+887,ORD34495,2015-06-20,Liam Martinez,South,Washington,Office Supplies,Binders,Binders 533,10,2829.75,0.33,-319.98,First Class,2024-07-20,11.07
+888,ORD80525,2022-02-10,Emma Miller,South,Arizona,Technology,Monitors,Monitors 996,1,328.32,0.48,-95.5,Second Class,2016-10-20,24.01
+889,ORD39496,2019-01-10,Emma Miller,West,Florida,Furniture,Chairs,Chairs 110,3,957.73,0.02,226.83,First Class,2015-03-17,32.78
+890,ORD71023,2015-05-18,Sophia Rodriguez,North,Oregon,Furniture,Chairs,Chairs 982,1,293.65,0.47,-106.99,Same Day,2021-12-04,44.06
+891,ORD57711,2015-04-11,Olivia Davis,South,California,Office Supplies,Binders,Binders 397,6,848.87,0.39,-80.73,Standard Class,2024-09-14,44.82
+892,ORD99051,2018-04-02,Sophia Rodriguez,West,Oregon,Furniture,Tables,Tables 793,6,2428.13,0.11,139.0,Standard Class,2015-11-04,36.97
+893,ORD80832,2018-07-10,Emma Miller,West,Washington,Technology,Laptops,Laptops 561,1,327.29,0.29,-15.69,Second Class,2021-04-03,15.11
+894,ORD25047,2016-03-11,Alice Williams,West,Oregon,Technology,Laptops,Laptops 247,8,1618.15,0.2,-147.83,Second Class,2019-11-25,29.17
+895,ORD52473,2021-05-07,Sophia Rodriguez,Centralz,California,Furniture,Bookcases,Bookcases 956,3,1407.95,0.34,-296.26,First Class,2015-01-23,45.97
+896,ORD96839,2019-12-24,Sophia Rodriguez,South,Oregon,Furniture,Chairs,Chairs 125,4,1533.1,0.25,-84.73,First Class,2016-04-07,47.58
+897,ORD39680,2016-08-16,Sophia Rodriguez,Central,Oregon,Technology,Laptops,Laptops 444,8,2437.85,0.46,-477.5,Standard Class,2021-05-24,18.38
+898,ORD45819,2022-04-24,Liam Martinez,North,Texas,Office Supplies,Paper,Paper 911,8,647.89,0.48,-135.48,Same Day,2018-04-09,7.86
+899,ORD87745,2016-12-16,Sophia Rodriguez,Central,California,Office Supplies,Pens,Pens 654,1,245.92,0.34,-56.95,Same Day,2021-08-28,8.5
+900,ORD86990,202-15-30,Charlie Jones,Central,Texas,,Chairs,Chairs 292,4,133.57,0.03,16.37,Second Class,2015-01-21,9.94
+901,ORD50728,2018-11-25,John Smith,Central,Texas,Furniture,Tables,Tables 769,6,2965.15,0.03,582.68,First Class,2016-08-02,5.73
+902,ORD30071,2015-09-16,Alice Williams,North,Texas,Office Supplies,Pens,Pens 107,1,417.04,0.14,52.64,Standard Class,2023-01-11,19.07
+903,ORD19217,2024-01-21,Sophia Rodriguez,East,Texas,Technology,Laptops,Laptops 977,4,1503.28,0.13,78.73,Second Class,2016-12-22,38.9
+904,ORD48757,2022-07-12,Alice Williams,West,Arizona,Office Supplies,Paper,Paper 410,10,2410.91,0.25,-230.31,Second Class,2015-01-09,19.07
+905,ORD74967,2018-01-17,Jane Johnson,Central,Florida,Furniture,Bookcases,Bookcases 358,6,1120.66,0.12,153.27,Second Class,2017-03-03,48.03
+906,ORD94788,2018-07-11,Charlie Jones,South,California,Furniture,Chairs,Chairs 986,7,2379.64,0.37,-599.41,Same Day,2023-11-07,29.19
+907,ORD88748,2023-07-24,John Smith,North,Florida,Furniture,Chairs,Chairs 668,7,2030.34,0.31,-262.69,Standard Class,2018-09-19,10.94
+908,ORD65946,2020-07-20,John Smith,North,California,Technology,Printers,Printers 520,3,489.98,0.04,90.47,First Class,2023-08-11,8.17
+909,ORD50531,2016-11-17,John Smith,West,Illinois,Technology,Monitors,Monitors 558,4,1838.27,0.09,79.36,Standard Class,2019-02-12,49.29
+910,ORD78581,2015-10-07,Emma Miller,Central,California,Furniture,Tables,Tables 342,4,1120.59,0.45,-217.42,Standard Class,2016-05-22,22.33
+911,ORD33076,2018-06-13,Sophia Rodriguez,North,Texas,Office Supplies,Binders,Binders 545,1,214.74,0.1,4.46,Second Class,2021-01-25,13.33
+604,ORD33342,2016-04-05,Charlie Jones,South,Illinois,Technology,Monitors,Monitors 577,6,277.87,0.45,-68.52,Second Class,2023-10-17,8.63
+913,ORD50795,2020-12-03,David Garcia,West,California,Technology,Printers,Printers 217,6,1874.06,0.17,-84.75,Standard Class,2017-04-21,25.17
+914,ORD60411,2018-11-18,John Smith,Central,Arizona,Office Supplies,Paper,Paper 383,7,909.78,0.42,-202.39,First Class,2019-01-02,41.39
+179,ORD10262,2022-09-18,Alice Williams,East,Illinois,Furniture,Bookcases,Bookcases 343,4,1973.45,0.41,-525.63,Same Day,2022-11-27,33.51
+916,ORD74243,2017-06-04,John Smith,West,California,Furniture,Chairs,Chairs 527,8,3557.94,0.42,-779.14,Same Day,2021-05-22,25.46
+917,ORD68649,2017-08-05,Emma Miller,West,Texas,Technology,Monitors,Monitors 969,6,1184.11,0.45,-402.56,Same Day,2024-10-16,47.32
+918,ORD68062,2018-11-27,Alice Williams,West,Oregon,Office Supplies,Binders,Binders 899,10,4996.06,0.45,-1432.9,Same Day,2022-07-11,10.27
+919,ORD96658,2022-04-11,Emma Miller,North,Texas,Technology,Monitors,Monitors 994,9,2020.64,0.11,17.65,Same Day,2017-01-06,6.99
+920,ORD83338,2015-03-21,John Smith,North,Florida,Office Supplies,Pens,Pens 924,6,2451.14,0.41,-690.08,Standard Class,2019-06-14,29.58
+921,ORD53191,2019-09-25,Emma Miller,Central,Illinois,Technology,Printers,Printers 704,3,1237.97,0.34,-59.28,Second Class,2019-03-25,24.13
+922,ORD61047,2024-05-24,Charlie Jones,Central,New York,Technology,Printers,Printers 484,2,804.32,0.18,23.27,Same Day,2015-01-19,10.7
+923,ORD56693,2024-03-10,Liam Martinez,South,Washington,Technology,Laptops,Laptops 122,8,327.51,0.15,0.74,First Class,2022-05-18,20.32
+924,ORD37232,2018-04-05,Alice Williams,North,Oregon,Technology,Laptops,Laptops 531,6,1151.84,0.19,-92.25,First Class,2019-06-16,31.07
+925,ORD78290,2023-06-09,Jane Johnson,Central,Washington,Technology,Laptops,Laptops 872,9,1367.01,0.02,310.28,First Class,2019-07-05,12.05
+926,ORD96669,2015-12-12,Charlie Jones,Central,Florida,Furniture,Bookcases,Bookcases 347,6,1284.82,0.01,326.23,Same Day,2021-06-22,25.48
+927,ORD53223,2016-04-02,Jane Johnson,South,New York,Furniture,Bookcases,Bookcases 939,8,2327.04,0.3,-285.56,Second Class,2024-11-07,29.62
+928,ORD24664,2015-11-19,Liam Martinez,North,Washington,Office Supplies,Binders,Binders 701,9,3529.26,0.33,-415.56,Same Day,2024-08-07,7.39
+929,ORD14428,2023-10-25,Charlie Jones,Central,Florida,Furniture,Bookcases,Bookcases 514,1,318.58,0.47,-79.94,First Class,2018-11-23,39.69
+930,ORD98352,2023-06-25,Charlie Jones,North,Washington,Office Supplies,Paper,Paper 717,6,2761.78,0.12,72.35,Standard Class,2022-11-07,36.23
+931,ORD92853,2021-03-07,Olivia Davis,South,California,Office Supplies,Pens,Pens 431,1,356.39,0.09,37.02,Same Day,2022-08-07,21.95
+932,ORD67487,2022-05-12,Jane Johnson,Central,Arizona,Furniture,Bookcases,Bookcases 665,4,663.45,0.27,-6.44,Second Class,2022-08-14,14.51
+933,ORD98041,2018-11-24,Charlie Jones,Centraly,Florida,Office Supplies,Binders,Binders 822,5,1061.26,0.43,-208.08,Same Day,2017-07-07,7.56
+452,ORD94954,2023-07-22,Jane Johnson,East,New York,Technology,Monitors,Monitors 902,9,1653.4,0.14,107.28,Standard Class,2020-12-03,42.92
+935,ORD54517,2018-12-11,Charlie Jones,West,New York,Furniture,Tables,Tables 890,4,185.75,0.13,23.3,Same Day,2017-10-03,26.36
+936,ORD51038,2016-08-18,Sophia Rodriguez,Northx,Oregon,Technology,Laptops,Laptops 984,4,135.95,0.17,4.08,Second Class,2016-12-28,30.72
+937,ORD39934,2021-11-25,Charlie Jones,South,Arizona,Office Supplies,Binders,Binders 104,3,658.83,0.49,-133.69,Same Day,2023-04-05,5.19
+938,ORD95784,2024-05-16,Olivia Davis,East,California,Furniture,Bookcases,Bookcases 587,6,2429.7,0.45,-621.57,Standard Class,2021-09-07,15.1
+939,ORD33555,2021-03-03,John Smith,East,Illinois,Furniture,Bookcases,Bookcases 918,8,1280.4,0.06,165.0,Second Class,2020-04-18,8.89
+940,ORD55525,2019-06-13,Jane Johnson,South,Florida,Technology,Printers,Printers 880,5,515.53,0.17,-33.8,First Class,2024-07-14,9.9
+941,ORD65029,2015-10-20,John Smith,West,Oregon,Office Supplies,Binders,Binders 684,3,781.1,0.38,-98.92,Second Class,2021-02-21,37.22
+942,ORD72736,202-15-30,Sophia Rodriguez,Central,Arizona,Furniture,Chairs,Chairs 158,7,3468.01,0.44,-1154.73,Standard Class,2015-09-12,19.44
+943,ORD73693,2022-06-10,Sophia Rodriguez,North,Washington,Office Supplies,Paper,Paper 358,10,4221.04,0.3,-161.13,First Class,2020-01-02,46.13
+944,ORD90361,202-15-30,Olivia Davis,North,Illinois,Technology,Printers,Printers 689,2,866.87,0.13,40.17,Second Class,2024-12-18,40.73
+658,ORD86028,2018-11-10,Jane Johnson,East,Florida,Technology,Monitors,Monitors 246,6,2845.12,0.46,-689.13,Same Day,2017-04-08,43.43
+946,ORD73632,2021-04-03,Bob Brown,West,Oregon,Furniture,Tables,Tables 921,8,284.85,0.44,-51.67,Second Class,2015-06-13,45.08
+947,ORD64325,2022-03-15,Liam Martinez,South,Florida,Office Supplies,Paper,Paper 407,1,344.8,0.04,38.61,Standard Class,2024-01-26,8.76
+948,ORD78106,2016-09-28,Alice Williams,East,Arizona,Office Supplies,Binders,Binders 631,10,2258.41,0.03,216.33,First Class,2017-03-13,10.28
+949,ORD56484,2015-07-10,Charlie Jones,East,Washington,Office Supplies,Pens,Pens 378,7,1815.24,0.48,-657.35,Same Day,2019-07-04,23.89
+950,ORD30159,2017-04-16,Emma Miller,North,New York,Furniture,Bookcases,Bookcases 962,5,1724.01,0.43,-246.2,Second Class,2019-11-20,22.13
+951,ORD85997,2020-01-17,Emma Miller,North,Texas,Office Supplies,Pens,Pens 841,7,1447.96,0.01,257.1,Second Class,2016-09-25,43.14
+14,ORD23089,2018-09-07,Alice Williams,West,California,Office Supplies,Paper,Paper 551,1,51.74,0.09,8.54,First Class,2017-08-19,19.89
+953,ORD43607,2024-10-12,Bob Brown,North,Florida,Technology,Printers,Printers 150,7,1206.92,0.24,-21.37,Second Class,2019-02-03,36.37
+954,ORD29077,2021-06-20,Charlie Jones,South,Arizona,Technology,Laptops,Laptops 929,2,726.7,0.38,-118.52,Same Day,2024-01-07,40.93
+955,ORD96990,2016-08-10,Liam Martinez,West,Illinois,Furniture,Chairs,Chairs 635,1,30.31,0.12,2.54,Same Day,2017-10-06,37.21
+956,ORD13519,2021-05-18,Emma Miller,West,Illinois,Furniture,Chairs,Chairs 536,2,337.8,0.11,30.02,First Class,2024-02-16,15.6
+957,ORD62925,2022-02-26,Emma Miller,South,California,Furniture,Tables,Tables 872,7,1997.78,0.21,170.02,Second Class,2015-03-04,31.65
+958,ORD41089,2017-10-24,David Garcia,North,New York,Technology,Monitors,Monitors 796,5,241.89,0.15,34.49,Second Class,2024-03-05,15.02
+959,ORD27305,2022-09-13,Alice Williams,South,Washington,Office Supplies,Pens,Pens 554,3,1285.66,0.25,-64.3,First Class,2017-11-17,46.61
+960,ORD92573,2024-06-01,Jane Johnson,South,Oregon,Furniture,Chairs,Chairs 446,2,529.62,0.08,84.7,Standard Class,2020-08-24,39.96
+961,ORD61628,2017-09-05,Emma Miller,North,California,Furniture,Tables,Tables 179,5,586.4,0.08,92.09,Second Class,2017-06-26,14.34
+962,ORD31397,2017-03-01,Charlie Jones,West,Florida,Office Supplies,Binders,Binders 977,9,1756.68,0.08,168.18,Second Class,2015-08-22,47.57
+963,ORD25573,2020-06-15,Sophia Rodriguez,East,New York,Technology,Monitors,Monitors 920,8,2759.41,0.3,-249.1,First Class,2023-09-12,43.84
+964,ORD55307,2022-05-25,Charlie Jones,Central,New York,Furniture,Tables,Tables 233,3,930.86,0.01,152.68,Standard Class,2022-11-16,39.16
+965,ORD20109,2018-04-21,Olivia Davis,South,California,Furniture,Chairs,Chairs 100,7,1458.27,0.4,-352.94,Second Class,2019-01-13,19.77
+966,ORD92411,2022-08-09,Olivia Davis,North,Arizona,Technology,Laptops,Laptops 323,10,3521.65,0.5,-937.38,Same Day,2023-05-27,18.83
+967,ORD98124,2017-05-14,David Garcia,North,Washington,Technology,Printers,Printers 907,2,468.18,0.15,49.84,First Class,2020-04-04,38.51
+968,ORD83493,2022-03-25,Jane Johnson,South,Florida,Technology,Laptops,Laptops 312,2,623.19,0.38,-71.31,Same Day,2024-02-22,6.77
+969,ORD29837,2023-12-21,Olivia Davis,Central,New York,Office Supplies,Paper,Paper 611,9,2754.85,0.47,-896.1,Second Class,2019-05-14,47.28
+970,ORD60187,2017-12-25,Alice Williams,West,Oregon,Technology,Printers,Printers 144,6,1507.83,0.0,396.66,First Class,2017-11-08,39.08
+971,ORD62916,2017-06-10,Charlie Jones,East,Washington,Office Supplies,Pens,Pens 440,7,2013.84,0.05,211.99,Standard Class,2022-08-20,42.21
+972,ORD19616,2018-02-02,Emma Miller,Central,California,Technology,Monitors,Monitors 859,10,3858.55,0.0,932.21,First Class,2022-03-24,22.97
+973,ORD84698,2015-01-13,Emma Miller,Central,Illinois,Furniture,Bookcases,Bookcases 866,1,269.01,0.36,-48.69,Second Class,2021-04-06,39.18
+974,ORD35966,2015-04-24,Sophia Rodriguez,South,Arizona,Furniture,Bookcases,Bookcases 824,10,4148.99,0.19,176.18,Same Day,2020-11-24,5.9
+975,ORD17051,2022-05-09,Sophia Rodriguez,Westx,Florida,Furniture,Bookcases,Bookcases 709,1,382.9,0.46,-62.46,Standard Class,2024-04-10,30.75
+976,ORD16740,2021-12-14,Liam Martinez,South,California,Office Supplies,Pens,Pens 392,2,714.26,0.45,-175.41,First Class,2023-12-26,13.95
+977,ORD19794,2023-01-20,Jane Johnson,West,Washington,Office Supplies,Pens,Pens 948,1,150.25,0.43,-40.73,Same Day,2019-01-26,20.93
+978,ORD19482,2015-04-05,David Garcia,East,Oregon,Technology,Printers,Printers 563,6,2540.1,0.39,-416.12,Standard Class,2024-04-14,44.87
+979,ORD68137,2023-06-01,Liam Martinez,South,Florida,Furniture,Bookcases,Bookcases 762,10,962.58,0.21,-15.66,Same Day,2019-05-24,20.75
+980,ORD13803,2016-09-17,Emma Miller,East,Florida,Technology,Laptops,Laptops 317,10,1106.71,0.23,15.03,Second Class,2020-06-10,33.38
+981,ORD16201,2015-02-06,Olivia Davis,West,Florida,Furniture,Chairs,Chairs 849,8,3052.29,0.05,216.5,Second Class,2015-01-25,6.89
+982,ORD82732,2016-07-13,Liam Martinez,East,New York,Furniture,Bookcases,Bookcases 583,9,4401.89,0.41,-1245.06,Second Class,2018-03-26,19.81
+983,ORD61446,2024-04-24,Sophia Rodriguez,North,New York,Furniture,Tables,Tables 462,1,464.82,0.19,41.63,Second Class,2017-01-16,45.37
+984,ORD45536,2018-04-24,Charlie Jones,West,Texas,Furniture,Tables,Tables 568,9,3017.41,0.33,-344.12,Standard Class,2020-07-09,19.53
+985,ORD29466,2019-06-11,Bob Brown,West,California,Technology,Printers,Printers 427,9,205.0,0.48,-40.44,Same Day,2020-10-13,21.46
+986,ORD72553,2019-04-25,Jane Johnson,East,New York,Technology,Laptops,Laptops 332,5,361.9,0.5,-76.02,Standard Class,2022-08-18,39.87
+55,ORD19005,2021-04-19,Alice Williams,Central,Illinois,Office Supplies,Binders,Binders 526,9,1738.35,0.07,368.69,Second Class,2024-10-21,21.03
+988,ORD93320,2021-12-21,Alice Williams,West,Washington,Technology,Printers,Printers 337,8,2458.43,0.5,-678.63,Second Class,2015-12-06,11.25
+989,ORD98331,2023-06-15,Emma Miller,East,New York,Technology,Printers,Printers 390,8,1304.58,0.21,71.07,Second Class,2024-08-07,17.07
+990,ORD46042,2024-01-25,Jane Johnson,Central,California,Technology,Laptops,Laptops 825,1,438.54,0.41,-51.56,Standard Class,2017-11-11,22.83
+991,ORD70359,2016-05-21,Liam Martinez,Central,California,Furniture,Chairs,Chairs 192,9,1030.9,0.34,-137.43,Same Day,2020-06-14,41.32
+992,ORD31111,2016-10-10,Alice Williams,Central,Washington,Technology,Monitors,Monitors 781,2,339.52,0.34,-26.37,First Class,2016-06-05,25.41
+993,ORD19667,2020-08-06,Emma Miller,North,Florida,Office Supplies,Pens,Pens 435,3,1157.86,0.18,69.66,Second Class,2017-10-06,11.64
+994,ORD96298,2015-03-22,Alice Williams,Central,Texas,Furniture,Tables,Tables 192,2,724.53,0.04,62.66,First Class,2022-06-01,31.9
+995,ORD15004,2021-02-26,David Garcia,South,Florida,Office Supplies,Paper,Paper 533,5,985.43,0.22,-66.19,First Class,2015-04-14,5.26
+996,ORD30096,2019-07-02,Liam Martinez,South,Arizona,Office Supplies,Binders,Binders 591,10,686.81,0.42,-101.27,Standard Class,2018-07-15,23.17
+997,ORD30950,2020-02-20,Charlie Jones,South,California,Office Supplies,Pens,Pens 917,10,560.7,0.3,-11.47,Second Class,2021-09-26,34.06
+998,ORD70512,2017-05-14,Olivia Davis,South,Florida,Technology,Laptops,Laptops 745,1,487.78,0.03,51.69,Same Day,2021-11-24,36.75
+999,ORD75214,2017-01-10,Emma Miller,South,Texas,,Chairs,Chairs 918,1,374.58,0.01,59.47,Standard Class,2018-02-02,25.94
+1000,ORD76365,2023-02-10,John Smith,West,Texas,Technology,Laptops,Laptops 145,6,941.04,0.33,-153.02,First Class,2015-02-23,6.11
+1001,ORD62064,2016-08-28,Emma Miller,Central,Florida,Office Supplies,Pens,Pens 354,4,611.77,0.38,-94.51,First Class,2019-08-24,7.6
+1002,ORD11742,2019-08-26,Sophia Rodriguez,West,Illinois,Office Supplies,Binders,Binders 696,10,4012.76,0.06,544.41,Same Day,2024-07-10,10.86
+1003,ORD77552,2021-11-15,David Garcia,Central,Illinois,Office Supplies,Pens,Pens 328,8,3702.99,0.38,-779.71,Second Class,2015-03-12,9.8
+1004,ORD80840,2015-10-25,Liam Martinez,West,Oregon,Technology,Laptops,Laptops 935,3,599.66,0.06,81.64,Second Class,2017-06-24,35.16
+1005,ORD49703,2022-08-04,Charlie Jones,North,California,Technology,Printers,Printers 882,3,274.07,0.25,13.23,Standard Class,2022-03-28,36.8
+1006,ORD59673,2019-03-09,David Garcia,North,Washington,Office Supplies,Pens,Pens 732,10,920.85,0.34,-69.97,Same Day,2015-06-01,16.05
+1007,ORD25238,2016-05-16,Charlie Jones,West,Illinois,Technology,Printers,Printers 118,2,30.92,0.09,6.14,Same Day,2018-09-16,34.98
+1008,ORD88590,2016-07-09,John Smith,East,Illinois,Office Supplies,Paper,Paper 705,7,2245.65,0.39,-637.67,Same Day,2023-10-20,48.19
+1009,ORD48584,2022-10-23,Bob Brown,West,California,Furniture,Tables,Tables 274,5,946.52,0.1,78.18,Standard Class,2023-10-14,48.28
+1010,ORD60124,2019-07-22,David Garcia,West,Washington,Technology,Monitors,Monitors 765,2,289.56,0.41,-58.58,Same Day,2018-06-08,32.77
+1011,ORD32955,202-15-30,Liam Martinez,Central,Illinois,Technology,Printers,Printers 727,8,839.64,0.1,113.61,First Class,2018-03-07,17.62
+1012,ORD94935,2024-06-21,Jane Johnson,West,Florida,Furniture,Tables,Tables 597,4,1854.92,0.16,-83.05,Same Day,2021-02-12,35.98
+1013,ORD96861,2022-11-28,Emma Miller,North,New York,Technology,Monitors,Monitors 175,8,1030.7,0.24,-59.37,Same Day,2021-07-20,37.06
+1014,ORD66468,2023-04-19,David Garcia,North,Oregon,Office Supplies,Binders,Binders 472,5,1243.68,0.15,66.75,Same Day,2015-03-14,18.38
+1015,ORD11047,2020-12-16,Bob Brown,Central,Oregon,Technology,Laptops,Laptops 525,3,217.83,0.15,16.49,Second Class,2020-06-12,30.16
+1016,ORD42125,2019-05-02,Olivia Davis,East,Oregon,Furniture,Bookcases,Bookcases 456,8,1731.4,0.43,-421.64,Second Class,2024-03-18,26.05
+1017,ORD79406,2019-06-09,Olivia Davis,East,Florida,Office Supplies,Pens,Pens 180,6,1797.4,0.22,-106.79,Same Day,2024-03-01,18.85
+1018,ORD32949,2022-09-08,Liam Martinez,West,Washington,Office Supplies,Pens,Pens 173,2,582.85,0.13,20.11,First Class,2019-05-05,24.33
+1019,ORD13472,2017-12-04,Jane Johnson,North,California,Technology,Laptops,Laptops 485,5,1617.98,0.37,-283.54,First Class,2018-06-14,30.25
+1020,ORD97784,2020-10-14,Liam Martinez,North,Illinois,Office Supplies,Paper,Paper 304,4,951.13,0.41,-119.27,Second Class,2018-12-16,9.42
+1021,ORD23443,2017-01-11,John Smith,Central,Texas,Technology,Printers,Printers 104,5,171.55,0.11,28.48,First Class,2018-09-23,20.77
+1022,ORD68383,2016-09-22,Liam Martinez,West,Arizona,Office Supplies,Paper,Paper 456,2,688.08,0.05,94.64,Same Day,2017-09-14,5.43
+1023,ORD14210,2018-03-05,Olivia Davis,South,Washington,Furniture,Chairs,Chairs 301,8,1766.69,0.49,-434.38,Same Day,2024-12-16,5.76
+1024,ORD46311,2015-07-01,Sophia Rodriguez,West,Oregon,Technology,Printers,Printers 728,1,60.68,0.02,11.14,First Class,2022-12-24,10.53
+1025,ORD68581,2024-09-15,Charlie Jones,Central,Oregon,Office Supplies,Pens,Pens 724,6,2192.39,0.4,-627.53,Standard Class,2021-12-12,27.16
+1026,ORD74033,2019-05-21,John Smith,West,Oregon,Technology,Printers,Printers 181,1,79.91,0.11,13.43,Second Class,2023-09-14,32.65
+1027,ORD34918,2024-02-11,Sophia Rodriguez,East,Florida,Furniture,Chairs,Chairs 732,3,213.29,0.14,8.84,Standard Class,2016-11-22,12.22
+1028,ORD80958,2022-04-03,Bob Brown,South,Texas,Office Supplies,Binders,Binders 459,10,1463.55,0.29,-235.94,Same Day,2018-03-16,24.99
+1029,ORD33304,2016-02-12,Charlie Jones,East,Washington,Technology,Printers,Printers 319,8,1039.45,0.33,-150.09,Second Class,2023-02-11,44.38
+1030,ORD14173,2022-08-09,David Garcia,North,Texas,Furniture,Tables,Tables 939,9,4152.0,0.05,749.77,Second Class,2019-10-17,6.65
+1031,ORD90396,2022-08-21,Bob Brown,West,California,Technology,Monitors,Monitors 454,10,1921.47,0.31,-28.54,First Class,2023-05-15,48.31
+1032,ORD12071,2018-10-22,Jane Johnson,West,Arizona,Technology,Printers,Printers 267,7,1858.07,0.33,-329.61,Second Class,2016-09-25,27.65
+1033,ORD77132,2016-03-03,Bob Brown,East,Arizona,Office Supplies,Binders,Binders 130,7,978.08,0.33,-180.5,Standard Class,2020-10-15,7.42
+1034,ORD18923,2019-01-12,Liam Martinez,North,Arizona,Technology,Monitors,Monitors 324,10,4198.7,0.02,410.16,Same Day,2015-03-25,27.91
+1035,ORD29449,2017-09-26,Bob Brown,South,Texas,Office Supplies,Binders,Binders 132,5,227.46,0.07,9.68,Same Day,2020-07-24,31.08
+211,ORD16875,2022-10-14,Liam Martinez,East,New York,Technology,Laptops,Laptops 780,4,420.99,0.15,6.89,Same Day,2020-11-23,18.71
+1037,ORD44746,2022-03-06,Bob Brown,South,California,Office Supplies,Binders,Binders 597,5,1087.06,0.12,24.48,Same Day,2021-04-21,29.21
+1038,ORD80630,2019-03-22,Emma Miller,South,Arizona,Office Supplies,Paper,Paper 516,5,1206.96,0.14,23.14,Same Day,2023-07-10,5.26
+872,ORD37769,2024-10-04,David Garcia,East,Illinois,Technology,Monitors,Monitors 110,4,1610.36,0.49,-416.61,Second Class,2016-08-06,9.28
+1040,ORD70524,2024-10-10,Charlie Jones,Central,Arizona,Office Supplies,Paper,Paper 418,2,388.62,0.36,-49.34,First Class,2023-11-17,7.52
+1041,ORD13702,2019-12-11,Emma Miller,North,Florida,Furniture,Bookcases,Bookcases 454,7,1533.01,0.24,-131.06,Second Class,2020-03-09,39.15
+1042,ORD63082,2017-02-21,John Smith,West,Oregon,Technology,Monitors,Monitors 276,6,72.61,0.49,-16.17,First Class,2024-03-25,10.56
+1043,ORD24924,2017-07-06,Emma Miller,Central,New York,Office Supplies,Binders,Binders 291,5,1564.92,0.35,-247.79,First Class,2023-09-01,17.42
+1044,ORD58594,2020-05-03,Jane Johnson,North,Washington,Furniture,Bookcases,Bookcases 769,3,876.21,0.23,-90.9,Standard Class,2015-12-09,32.06
+1045,ORD50608,2019-05-18,Olivia Davis,North,Illinois,Furniture,Chairs,Chairs 487,9,2964.13,0.25,49.93,Second Class,2021-07-11,28.3
+1046,ORD17146,2017-04-18,David Garcia,East,Texas,Technology,Laptops,Laptops 337,7,349.65,0.36,-44.94,Standard Class,2018-11-25,22.95
+1047,ORD80430,2016-05-11,David Garcia,West,California,Technology,Printers,Printers 885,2,333.23,0.47,-60.75,Second Class,2021-07-13,10.76
+1048,ORD70379,2022-08-10,David Garcia,Centralx,Texas,Technology,Printers,Printers 520,5,1746.5,0.18,54.86,First Class,2016-02-15,49.11
+1049,ORD44001,2015-11-23,Sophia Rodriguez,West,California,Office Supplies,Binders,Binders 684,3,1404.92,0.22,-25.4,First Class,2019-05-14,24.62
+1050,ORD21061,2021-08-03,Charlie Jones,South,Illinois,Technology,Laptops,Laptops 403,8,358.33,0.36,-92.15,First Class,2023-09-07,34.1
+1051,ORD96055,2016-11-24,Liam Martinez,North,California,Furniture,Tables,Tables 484,1,334.56,0.42,-97.08,Second Class,2017-10-12,49.53
+1052,ORD39846,2018-06-16,Emma Miller,East,Florida,Technology,Printers,Printers 970,4,427.79,0.1,29.75,Standard Class,2024-05-10,5.66
+1053,ORD13206,2018-01-24,David Garcia,West,Illinois,Office Supplies,Binders,Binders 303,4,1756.85,0.43,-521.18,Same Day,2016-11-17,28.15
+1054,ORD14831,2015-10-21,John Smith,West,Florida,Furniture,Tables,Tables 448,1,134.75,0.19,2.97,Standard Class,2020-03-24,8.84
+1055,ORD67132,2021-05-27,Alice Williams,East,California,,Pens,Pens 493,10,1390.15,0.14,175.29,Second Class,2018-07-12,30.54
+1056,ORD39744,2019-08-24,Liam Martinez,North,Oregon,Office Supplies,Paper,Paper 196,7,1876.59,0.44,-343.27,Second Class,2015-10-03,22.53
+1057,ORD99992,2018-11-25,John Smith,East,California,Furniture,Chairs,Chairs 384,8,2288.33,0.0,434.5,Same Day,2024-07-12,19.41
+1058,ORD15066,2016-07-03,Alice Williams,West,Illinois,Furniture,Chairs,Chairs 769,6,2348.94,0.34,-286.08,Second Class,2019-02-17,38.19
+1059,ORD34975,2020-08-11,Bob Brown,West,Arizona,Furniture,Tables,Tables 400,4,614.24,0.12,67.3,Second Class,2016-09-15,41.13
+1060,ORD43573,2022-11-28,Jane Johnson,East,Oregon,Technology,Monitors,Monitors 121,3,126.08,0.44,-32.01,Second Class,2023-03-24,49.57
+1061,ORD39623,2017-04-20,Emma Miller,Central,Washington,Office Supplies,Pens,Pens 346,7,3142.36,0.38,-640.49,Same Day,2019-12-18,35.36
+1062,ORD24528,2019-04-21,Alice Williams,North,California,Office Supplies,Pens,Pens 206,5,1565.76,0.25,-50.22,Standard Class,2022-07-28,15.03
+1063,ORD95788,2015-02-22,Jane Johnson,North,Washington,Technology,Printers,Printers 131,7,1686.97,0.04,294.25,First Class,2020-09-09,38.72
+1064,ORD81221,2017-05-23,Liam Martinez,East,California,Office Supplies,Paper,Paper 174,7,2794.68,0.1,79.18,Second Class,2022-07-24,6.68
+1065,ORD27382,2020-06-20,Sophia Rodriguez,West,California,Office Supplies,Pens,Pens 837,9,729.98,0.38,-186.48,First Class,2021-07-15,46.44
+1066,ORD54269,2017-06-13,Sophia Rodriguez,North,Arizona,Furniture,Tables,Tables 792,2,578.81,0.37,-73.79,Second Class,2015-06-18,32.83
+1067,ORD50338,2024-09-07,Bob Brown,East,New York,Office Supplies,Pens,Pens 741,5,885.57,0.31,-83.12,Same Day,2024-11-08,43.42
+1068,ORD83840,2022-04-01,Jane Johnson,West,Oregon,Office Supplies,Binders,Binders 281,7,2699.22,0.48,-822.52,Standard Class,2022-07-13,12.26
+1069,ORD47295,2019-02-20,Jane Johnson,South,Texas,Office Supplies,Binders,Binders 926,7,2394.06,0.48,-909.28,Same Day,2021-10-01,9.3
+1070,ORD45990,2023-09-20,David Garcia,South,Texas,Technology,Printers,Printers 313,3,1234.56,0.39,-184.57,Same Day,2021-10-13,34.74
+1071,ORD48887,2024-11-04,David Garcia,West,Arizona,Office Supplies,Binders,Binders 330,4,1076.11,0.46,-289.07,Second Class,2020-10-15,18.07
+1072,ORD58858,2015-01-19,Sophia Rodriguez,South,California,Technology,Laptops,Laptops 786,2,849.07,0.1,81.07,Same Day,2018-07-02,30.83
+1073,ORD75225,2017-05-09,Olivia Davis,West,New York,Furniture,Tables,Tables 784,10,3396.25,0.07,749.83,Second Class,2018-06-24,30.5
+1074,ORD80614,2017-01-07,Olivia Davis,Central,Illinois,Furniture,Chairs,Chairs 759,8,2268.21,0.11,109.65,First Class,2018-02-16,16.07
+611,ORD65351,2021-04-14,David Garcia,West,California,Technology,Printers,Printers 244,10,975.32,0.08,45.03,First Class,2024-08-04,23.23
+1076,ORD39958,2023-06-09,Liam Martinez,South,Illinois,Technology,Printers,Printers 749,10,2056.3,0.16,-123.06,Standard Class,2020-08-16,38.49
+1077,ORD74998,2016-03-24,John Smith,West,California,Office Supplies,Paper,Paper 208,4,1891.81,0.22,132.71,First Class,2024-03-21,34.67
+1078,ORD29712,202-15-30,Alice Williams,North,Texas,Furniture,Chairs,Chairs 170,9,1112.8,0.37,-216.48,Standard Class,2023-10-18,18.02
+1079,ORD41618,2017-10-17,Alice Williams,Central,Illinois,Technology,Printers,Printers 622,1,289.41,0.47,-90.56,First Class,2021-11-14,33.15
+1080,ORD98255,2024-09-07,Sophia Rodriguez,South,Florida,Office Supplies,Binders,Binders 869,9,1435.32,0.07,70.33,Standard Class,2024-09-18,38.34
+1081,ORD64786,2020-11-03,David Garcia,West,Arizona,Technology,Monitors,Monitors 807,7,1202.89,0.25,-59.01,Same Day,2023-07-03,16.44
+1082,ORD20475,2020-02-22,John Smith,South,Arizona,Office Supplies,Binders,Binders 202,1,71.58,0.22,-1.75,Standard Class,2019-01-25,42.01
+1083,ORD43122,2024-11-13,Olivia Davis,East,Washington,Office Supplies,Paper,Paper 787,8,2416.71,0.32,-422.49,First Class,2023-07-08,49.72
+1084,ORD17002,2021-08-10,John Smith,West,New York,Office Supplies,Pens,Pens 208,3,1350.81,0.35,-267.5,Standard Class,2021-03-03,30.87
+1085,ORD78471,2020-11-10,Bob Brown,North,Florida,Technology,Monitors,Monitors 559,10,976.75,0.27,-83.49,First Class,2020-09-16,29.7
+786,ORD84211,2019-02-15,Emma Miller,West,Arizona,Furniture,Tables,Tables 285,1,488.55,0.16,-14.86,Same Day,2015-10-12,10.28
+1087,ORD46872,2022-04-18,Emma Miller,East,California,Furniture,Chairs,Chairs 998,6,1828.12,0.01,279.12,Standard Class,2023-05-11,13.54
+1088,ORD78988,2020-03-08,Emma Miller,East,Oregon,Technology,Printers,Printers 486,9,3312.28,0.33,-564.83,First Class,2018-08-13,24.25
+1089,ORD76890,2020-12-27,John Smith,North,Florida,Furniture,Chairs,Chairs 663,7,3378.77,0.25,-288.13,Same Day,2019-06-16,14.77
+1090,ORD43688,2021-07-18,Jane Johnson,West,Oregon,Technology,Monitors,Monitors 125,10,3459.72,0.37,-740.8,Same Day,2015-01-25,15.87
+302,ORD35526,2019-02-14,Charlie Jones,North,Arizona,Furniture,Tables,Tables 268,1,47.39,0.49,-9.79,Second Class,2021-03-16,25.36
+1092,ORD29574,2022-01-02,Bob Brown,East,Florida,Furniture,Chairs,Chairs 316,1,349.98,0.42,-60.84,Second Class,2018-05-14,33.71
+1093,ORD89422,2020-02-11,Alice Williams,North,Oregon,Furniture,Tables,Tables 752,8,246.94,0.47,-66.08,Standard Class,2016-02-05,43.33
+1094,ORD98651,2017-03-06,Jane Johnson,East,Washington,Furniture,Tables,Tables 730,8,2241.65,0.04,576.66,First Class,2017-08-06,28.9
+1095,ORD28204,2015-01-03,Jane Johnson,West,New York,Office Supplies,Binders,Binders 869,10,613.77,0.06,134.03,First Class,2022-07-04,37.24
+1096,ORD42365,2018-02-15,David Garcia,South,Arizona,Furniture,Tables,Tables 741,5,334.06,0.04,57.1,Second Class,2023-06-27,21.2
+1097,ORD23423,2020-04-25,Alice Williams,North,Texas,Furniture,Chairs,Chairs 553,5,776.87,0.17,-39.55,Second Class,2019-04-14,49.84
+1098,ORD50668,2024-06-18,Emma Miller,East,Washington,Furniture,Bookcases,Bookcases 890,9,3816.1,0.2,-143.39,Standard Class,2022-06-27,41.88
+1099,ORD61659,2019-09-22,Alice Williams,North,Washington,Furniture,Chairs,Chairs 585,2,319.19,0.37,-58.74,Second Class,2019-08-16,42.2
+1100,ORD40934,2021-02-17,Emma Miller,West,Illinois,Furniture,Bookcases,Bookcases 857,4,965.67,0.01,173.71,Standard Class,2018-08-03,23.12
+1101,ORD12225,2017-09-03,Jane Johnson,South,Arizona,Office Supplies,Paper,Paper 958,8,3899.23,0.04,679.87,Standard Class,2023-09-18,24.02
+1102,ORD50005,2018-04-25,David Garcia,West,California,Furniture,Tables,Tables 517,1,47.59,0.09,7.05,Standard Class,2018-12-14,31.17
+1103,ORD45901,2024-01-07,Charlie Jones,Central,Illinois,Furniture,Bookcases,Bookcases 833,2,124.3,0.47,-28.24,First Class,2023-06-28,33.35
+1104,ORD78676,2021-01-20,John Smith,West,Oregon,Technology,Printers,Printers 884,9,1148.96,0.38,-188.94,First Class,2023-03-02,41.93
+1105,ORD90189,2024-04-19,Bob Brown,Central,Arizona,Furniture,Chairs,Chairs 257,9,3418.8,0.11,572.7,Standard Class,2017-04-22,8.27
+1106,ORD62013,2024-11-04,John Smith,East,California,Furniture,Chairs,Chairs 956,5,182.09,0.31,-16.23,Second Class,2021-04-19,14.79
+1107,ORD74536,2017-05-28,Jane Johnson,West,California,Office Supplies,Paper,Paper 364,5,660.4,0.38,-86.56,Second Class,2022-03-03,21.93
+433,ORD71269,2017-08-07,Sophia Rodriguez,East,Illinois,Office Supplies,Paper,Paper 399,6,2665.26,0.29,-4.59,First Class,2021-07-13,8.32
+1109,ORD37426,2021-12-06,John Smith,East,Arizona,Furniture,Chairs,Chairs 639,2,485.73,0.24,-13.35,Same Day,2021-03-02,30.78
+1110,ORD47906,2024-02-02,Sophia Rodriguez,Central,Arizona,Office Supplies,Paper,Paper 352,1,124.98,0.3,-15.17,First Class,2021-01-07,30.32
+1111,ORD60688,2022-12-07,Emma Miller,West,Florida,Technology,Printers,Printers 552,10,3511.46,0.36,-543.8,Same Day,2017-04-23,38.17
+1112,ORD76609,2024-12-16,Jane Johnson,South,Washington,,Monitors,Monitors 870,4,1424.92,0.03,289.46,Second Class,2018-07-21,12.83
+1113,ORD50863,2022-10-15,Jane Johnson,Central,California,Furniture,Tables,Tables 697,5,1295.23,0.36,-310.76,Second Class,2021-07-14,49.73
+1114,ORD83794,2017-08-25,Bob Brown,North,California,Technology,Laptops,Laptops 962,10,1352.9,0.01,146.56,Second Class,2022-03-12,38.35
+1115,ORD50740,2024-09-21,John Smith,East,Florida,Office Supplies,Paper,Paper 967,10,2229.91,0.05,535.27,Same Day,2020-04-19,25.94
+1116,ORD25059,2020-01-17,Olivia Davis,Central,Washington,Furniture,Chairs,Chairs 993,1,32.68,0.37,-5.17,First Class,2017-05-18,16.58
+1117,ORD14996,2022-11-15,John Smith,West,Texas,Technology,Monitors,Monitors 524,2,929.46,0.11,22.94,First Class,2018-04-14,46.86
+1118,ORD80809,2018-07-11,Bob Brown,East,Illinois,Furniture,Tables,Tables 322,1,476.94,0.14,30.93,Same Day,2019-12-21,13.31
+1119,ORD13914,2024-10-15,Emma Miller,North,Arizona,Office Supplies,Binders,Binders 389,9,1980.01,0.35,-164.05,Same Day,2023-01-03,41.57
+1120,ORD14992,2018-01-03,Bob Brown,North,California,Office Supplies,Pens,Pens 213,1,327.7,0.13,-8.46,Standard Class,2024-03-08,20.81
+1121,ORD31709,2018-10-17,Charlie Jones,West,Arizona,Furniture,Bookcases,Bookcases 892,3,1337.33,0.03,172.12,Standard Class,2020-10-15,49.11
+1122,ORD58516,2021-07-25,Liam Martinez,North,Arizona,Technology,Monitors,Monitors 495,4,836.85,0.08,163.87,Standard Class,2021-04-24,10.92
+1123,ORD70785,2022-03-19,David Garcia,South,New York,Technology,Laptops,Laptops 432,6,1590.73,0.03,288.19,Same Day,2024-09-11,19.96
+1124,ORD43581,2015-02-25,John Smith,Central,Arizona,Furniture,Chairs,Chairs 624,10,1537.29,0.46,-433.14,Same Day,2019-01-15,30.6
+1125,ORD56643,2015-03-08,Alice Williams,North,Arizona,Office Supplies,Binders,Binders 816,9,1626.08,0.03,233.13,Standard Class,2024-02-23,12.95
+1126,ORD83238,2021-05-23,Charlie Jones,North,Florida,Technology,Laptops,Laptops 260,2,930.28,0.11,110.56,Standard Class,2019-03-20,31.83
+1127,ORD81676,2017-06-03,John Smith,South,California,Office Supplies,Binders,Binders 211,1,440.54,0.41,-59.74,Standard Class,2015-04-02,13.99
